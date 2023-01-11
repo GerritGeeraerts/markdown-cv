@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Gerrit Geeraerts's test CV
+title: Gerrit Geeraerts's CV
 ---
-# Isaac Newton
+# Gerrit Geeraerts
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
