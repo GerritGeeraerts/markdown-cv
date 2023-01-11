@@ -2,7 +2,7 @@
 layout: cv
 title: Gerrit Geeraerts's CV
 ---
-# Gerrit Geeraerts
+# Gerrit Geeraerts -
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
