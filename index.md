@@ -11,20 +11,6 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
 ## Education
 
 `2005-2008`
@@ -35,17 +21,24 @@ __Professionele Bachelor ICT__
 __Industriële Wetenschappen__
 - Don Bosco, Halle
 
-## Occupation
+## Expierience
 
-`1600`
-__Royal Mint__, London
+`2019 - Nu`
+__Home projects__
+Crypto currency trading bot, Youtube caption scanner, Spam mail unsubscribe,
+Liquidity pool sniper bot, …
+(Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API)
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2019 - Nu`
+__ICT Medewerker__, Kasterlinden, Sint-Agatha-Berchem
+Ipad project: For the digitalisation of our school we have chosen to provide an
+ipad for every employee / student.
+- Setting up a maintenance free device management system. (jamf, apple
+school manager)
+- A tool with a barcode scanner for easy and fast (re)deployment. (Python,
+Django, docker, selenium)
+- A tool for syncing user accounts and classes with existing platforms (Python,
+Django, )
 
 
 <!-- ### Footer
