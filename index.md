@@ -1,8 +1,8 @@
+---
+layout: cv
+title: Gerrit Geeraerts's test CV
+---
 
----
-layout: cv  
-title: Gerrit Geeraerts's CV  
----
 # Gerrit Geeraerts -  
 Fueled by a passion for programming and the open-source community.  
 
