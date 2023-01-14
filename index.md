@@ -25,12 +25,14 @@ __Industriële Wetenschappen__
 
 `2019 - Nu`
 __Home projects__
+
 Crypto currency trading bot, Youtube caption scanner, Spam mail unsubscribe,
 Liquidity pool sniper bot, …
 (Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API)
 
 `2019 - Nu`
 __ICT Medewerker__, Kasterlinden, Sint-Agatha-Berchem
+
 Ipad project: For the digitalisation of our school we have chosen to provide an
 ipad for every employee / student.
 - Setting up a maintenance free device management system. (jamf, apple
