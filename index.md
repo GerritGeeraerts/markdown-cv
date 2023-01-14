@@ -14,16 +14,16 @@ Fueled by a passion for programming and the open-source community.
 `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium  
 ## Expierience  
 `2019 - Nu` **Home projects**  
-- Crypto currency trading bot  
-	- A tool that perform a sentiment analysis to accumulate crypto currencies at the best time.  
-- Youtube caption scanner  
-	- A tool that downloads the captions from your YouTube subscriptions and fetches the captions for all there videos. So you can search in the content of your subscribed Youtubers.  
-- Spam mail unsubscribe  
-	- A tool that connects to your gmail and send you a report of all the unsubscribe links.  
-- Liquidity pool sniper bot  
-	- A tool that snipes for new liquidity pools and tries to get in first to get the best yield.  
-- [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]  
--  
+### Crypto currency trading bot  
+A tool that perform a sentiment analysis to accumulate crypto currencies at the best time.  
+### Youtube caption scanner  
+A tool that downloads the captions from your YouTube subscriptions and fetches the captions for all there videos. So you can search in the content of your subscribed Youtubers.  
+### Spam mail unsubscribe  
+A tool that connects to your gmail and send you a report of all the unsubscribe links.  
+### Liquidity pool sniper bot  
+A tool that snipes for new liquidity pools and tries to get in first to get the best yield.  
+[**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]  
+  
 `2019 - Nu` **ICT Medewerker**, Kasterlinden, Sint-Agatha-Berchem, Belgium  
 ### Ipad project  
 - For the digitalisation of our school we have chosen to provide an  
