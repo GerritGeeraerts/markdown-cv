@@ -26,10 +26,10 @@ A tool that snipes for new liquidity pools and tries to get in first to get the 
   
 `2019 - Nu` **ICT Medewerker**, Kasterlinden, Sint-Agatha-Berchem, Belgium  
 ### Ipad project  
-- For the digitalisation of our school we have chosen to provide an ipad for every employee / student.  
-- Setting up a maintenance free device management system. (jamf, apple school manager)  
-- A tool with a barcode scanner for easy and fast (re)deployment. (Python,  Django, docker, selenium)  
-- A tool for syncing user accounts and classes with existing platforms (Python,  Django, )
+* For the digitalisation of our school we have chosen to provide an ipad for every employee / student.  
+* Setting up a maintenance free device management system. (jamf, apple school manager)  
+* A tool with a barcode scanner for easy and fast (re)deployment. (Python,  Django, docker, selenium)  
+* A tool for syncing user accounts and classes with existing platforms (Python,  Django, )
 
 ### Account management / synchronization / SSO
 - Syncing accounts across different platforms.  
