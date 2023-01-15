@@ -15,14 +15,13 @@ Fueled by a passion for programming and the open-source community.
 ## Expierience  
 `2019 - Nu` **Home projects**  
 * • Crypto currency trading bot  
-	* A tool that perform a sentiment analysis to accumulate crypto currencies at the best time.  
+	* A tool that perform a sentiment analysis to accumulate crypto currencies at the best time. [**Python, Django, Docker, Linux, Git, API**]   
 * • Youtube caption scanner  
-	* A tool that downloads the captions from your YouTube subscriptions and fetches the captions for all there videos. So you can search in the content of your subscribed Youtubers.  
+	* A tool that downloads the captions from your YouTube subscriptions and fetches the captions for all there videos. So you can search in the content of your subscribed Youtubers. [**Python, Django, Docker, Linux, celery, HTML, CSS, Git, Selenium, Rest API**]  
 * • Spam mail unsubscribe  
-	* A tool that connects to your gmail and send you a report of all the unsubscribe links.  
+	* A tool that connects to your gmail and send you a report of all the unsubscribe links. [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]  
 * • Liquidity pool sniper bot  
-	* A tool that snipes for new liquidity pools and tries to get in first to get the best yield.  
-* [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]  
+	* A tool that snipes for new liquidity pools and tries to get in first to get the best yield. [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]
   
 `2019 - Nu` **ICT Medewerker**, Kasterlinden, Sint-Agatha-Berchem, Belgium  
 * Ipad project  
@@ -43,7 +42,7 @@ Fueled by a passion for programming and the open-source community.
 * Modern inventory  
 	* Setting up an automated inventory system and combining all useful data about devices.  
 		* Importing device info [**Powershell**, Intune, Lansweeper, **SQL**]		
-		* Inventory script where the users get a pop up for entering device location. [Powershell, Lansweeper , **SQL**]
+		* Inventory script where the users get a pop up for entering device location. [**Powershell**, Lansweeper , **SQL**]
 * Giving training  
 	* Ipad training for teachers and also technical training for colleagues.  
 * Netwerk management
@@ -55,7 +54,7 @@ Fueled by a passion for programming and the open-source community.
 	  generic mailboxes and a self service tool.  
 		* Automating creation of user accounts  
 		* Generating documentation  
-	* (Powershell, AD, Confluence, MS exchange, Kanban, Scrum,)  
+	[**Powershell**, AD, Confluence, MS exchange, **Kanban**, **Scrum**,]
 * Network management  
 	* Managing Firewall, switches, dhcp, dns, wlan and network support, also setting up new stores.  
 * Store Support  
@@ -69,8 +68,7 @@ Fueled by a passion for programming and the open-source community.
   which makes it easy to understand for students.
 
 `2009 - 2010` **Chief employee IT**, University Ghent, Belgium  
-* .net, SQL, HTML, CSS: Writing a user story and developing a workflow tool for  
-  sales, laborants, customers and administration department.  
+* Writing a user story and developing a workflow tool for sales, laborants, customers and administration department. [**.net, SQL, HTML, CSS**]
 ## Skills  
 ### Languages  
 * Dutch: Mother Togue  
