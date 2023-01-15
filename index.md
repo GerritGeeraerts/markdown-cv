@@ -70,13 +70,12 @@ Fueled by a passion for programming and the open-source community.
 `2009 - 2010` **Chief employee IT**, University Ghent, Belgium  
 * Writing a user story and developing a workflow tool for sales, laborants, customers and administration department. [**.net, SQL, HTML, CSS**]
 ## Skills  
-### Languages  
-* Dutch: Mother Togue  
-* English: very good  
-* French: very good  
-### Soft Skills  
-* Team player, eager to learn and teach, motivated, calm and thoughtful, creative,  
-  critical thinking, problem solving, analytic.  
+* Languages  
+	* Dutch: Mother Togue  
+	* English: very good  
+	* French: very good  
+* Soft Skills  
+	* Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem solving, analytic.  
 
 
 <!-- ### Footer
