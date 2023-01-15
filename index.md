@@ -21,7 +21,9 @@ Fueled by a passion for programming and the open-source community.
 * Spam mail unsubscribe [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]
 	* A tool that connects to your gmail and send you a report of all the unsubscribe links.   
 * Liquidity pool sniper bot [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]
-	* A tool that snipes for new liquidity pools and tries to get in first to get the best yield. 
+	* A tool that snipes for new liquidity pools and tries to get in first to get the best yield.
+* Custom keyboard
+	* Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my on modern design keyboard based on the QMK Firmware.
   
 `2019 - Nu` <span style="font-size:1.2em;">**ICT Employee**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium  
 * Ipad project [**Python,  Django, docker, selenium**, jamf, apple school manager]
