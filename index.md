@@ -46,7 +46,7 @@ Fueled by a passion for programming and the open-source community.
 * Giving training  
 	* Ipad training for teachers and also technical training for colleagues.  
 * Netwerk management [DHCP, DNS, firewall, vlan, routers, switches] 
-	* Managing of DHCP, DNS, firewall, vlan, routers, switches together with the parent organization.  
+	* Managing the network toghether with the parent organisation 
 
 `2014 - 2018` **ICT Medewerker**, Metro Group, Wommelgem, Belgium  
 * User management [**Powershell**, AD, Confluence, MS exchange, **Kanban**, **Scrum**,]
