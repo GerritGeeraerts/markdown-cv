@@ -50,13 +50,10 @@ Fueled by a passion for programming and the open-source community.
 
 `2014 - 2018` **ICT Medewerker**, Metro Group, Wommelgem, Belgium  
 * User management [**Powershell**, AD, Confluence, MS exchange, **Kanban**, **Scrum**,]
-	* Migrating from generic accounts to personal accounts with  
-	  generic mailboxes and a self service tool.  
-		* Automating creation of user accounts  
-		* Generating documentation  
-* Network management  
-	* Managing Firewall, switches, dhcp, dns, wlan and network support, also setting up new stores.  
-* Store Support  
+	* Migrating from generic accounts to personal accounts with generic mailboxes and a self service tool. Automating creation of user accounts and generating documentation.
+* Network management [Firewall, switches, dhcp, dns, wlan]
+	* Managing the network, and setting up new stores.  
+* Store Support
 	* Giving first and second line support. Also building a knowledge base
 
 `2011 - 2014` **Sales Digital world**, Metro Group, Sint-Pieters-Leeuw, Belgium  
