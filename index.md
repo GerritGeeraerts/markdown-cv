@@ -13,7 +13,7 @@ Fueled by a passion for programming and the open-source community.
 `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium
 
 ## Expierience  
-`2019 - Nu` __Home projects__
+`2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
 * Crypto currency trading bot [**Python, Django, Docker, Linux, Git, API**]
 	* A tool that perform a sentiment analysis to accumulate crypto currencies at the best time.   
 * Youtube caption scanner [**Python, Django, Docker, Linux, celery, HTML, CSS, Git, Selenium, Rest API**]  
@@ -50,7 +50,7 @@ Fueled by a passion for programming and the open-source community.
 * Netwerk management [DHCP, DNS, firewall, vlan, routers, switches] 
 	* Managing the network toghether with the parent organisation 
 
-`2014 - 2018` **ICT Medewerker**, Metro Group, Wommelgem, Belgium  
+`2014 - 2018` <span style="font-size:1.2em;">**ICT Medewerker**</span>, Metro Group, Wommelgem, Belgium  
 * User management [**Powershell**, AD, Confluence, MS exchange, **Kanban**, **Scrum**,]
 	* Migrating from generic accounts to personal accounts with generic mailboxes and a self service tool. Automating creation of user accounts and generating documentation.
 * Network management [Firewall, switches, dhcp, dns, wlan]
@@ -58,14 +58,14 @@ Fueled by a passion for programming and the open-source community.
 * Store Support
 	* Giving first and second line support. Also building a knowledge base
 
-`2011 - 2014` **Sales Digital world**, Metro Group, Sint-Pieters-Leeuw, Belgium  
+`2011 - 2014` <span style="font-size:1.2em;">**Sales Digital world**</span>, Metro Group, Sint-Pieters-Leeuw, Belgium  
 * Listening to the needs of the customer and translating it to the correct product.
 
-`2012` **Teacher ICT**, GLTT, Halle, Belgium  
+`2012` <span style="font-size:1.2em;">**Teacher ICT**</span>, GLTT, Halle, Belgium  
 * I love breaking down information into small and easy to understand concepts.w  
   which makes it easy to understand for students.
 
-`2009 - 2010` **Chief employee IT**, University Ghent, Belgium  
+`2009 - 2010` <span style="font-size:1.2em;">**Chief employee IT**</span>, University Ghent, Belgium  
 * Writing a user story and developing a workflow tool for sales, laborants, customers and administration department. [**.net, SQL, HTML, CSS**]
 
 ## Skills
