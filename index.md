@@ -66,12 +66,15 @@ Netwerk management:
 - Network management  
 	- Managing Firewall, switches, dhcp, dns, wlan and network support, also setting up new stores.  
 - Store Support  
-	- Giving first and second line support. Also building a knowledge base  
+	- Giving first and second line support. Also building a knowledge base
+
 `2011 - 2014` **Sales Digital world**, Metro Group, Sint-Pieters-Leeuw, Belgium  
-- Listening to the needs of the customer and translating it to the correct product.  
+- Listening to the needs of the customer and translating it to the correct product.
+
 `2012` **Teacher ICT**, GLTT, Halle, Belgium  
 - I love breaking down information into small and easy to understand concepts.w  
-  which makes it easy to understand for students.  
+  which makes it easy to understand for students.
+
 `2009 - 2010` **Chief employee IT**, University Ghent, Belgium  
 - .net, SQL, HTML, CSS: Writing a user story and developing a workflow tool for  
   sales, laborants, customers and administration department.  
