@@ -69,7 +69,8 @@ Fueled by a passion for programming and the open-source community.
 `2009 - 2010` **Chief employee IT**, University Ghent, Belgium  
 * Writing a user story and developing a workflow tool for sales, laborants, customers and administration department. [**.net, SQL, HTML, CSS**]
 
-## Skills  
+## Skills
+`2005-2008` **Professionele Bachelor ICT**, KaHo Sint-Lieven, Ghent, Belgium
 * Languages  
 	* Dutch: Mother Togue  
 	* English: very good  
