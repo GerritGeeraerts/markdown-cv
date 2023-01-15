@@ -23,7 +23,7 @@ Fueled by a passion for programming and the open-source community.
 • Liquidity pool sniper bot [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]
 * A tool that snipes for new liquidity pools and tries to get in first to get the best yield. 
   
-`2019 - Nu` <span style="font-size:1.5em;">ICT Employee</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium  
+`2019 - Nu` <span style="font-size:1.2em;">**ICT Employee**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium  
 * Ipad project [**Python,  Django, docker, selenium**, jamf, apple school manager]
 	* For the digitalisation of our school we have chosen to provide an ipad for every employee / student.  
 	* Setting up a maintenance free device management system.
