@@ -13,7 +13,7 @@ Fueled by a passion for programming and the open-source community.
 `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium
 
 ## Expierience  
-`2019 - Nu` **Home projects**  
+`2019 - Nu` __Home projects__
 * • Crypto currency trading bot [**Python, Django, Docker, Linux, Git, API**]
 	* A tool that perform a sentiment analysis to accumulate crypto currencies at the best time.   
 * • Youtube caption scanner [**Python, Django, Docker, Linux, celery, HTML, CSS, Git, Selenium, Rest API**]  
