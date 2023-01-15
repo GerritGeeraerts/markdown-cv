@@ -14,30 +14,28 @@ Fueled by a passion for programming and the open-source community.
 `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium  
 ## Expierience  
 `2019 - Nu` **Home projects**  
-### Crypto currency trading bot  
-A tool that perform a sentiment analysis to accumulate crypto currencies at the best time.  
-### Youtube caption scanner  
-A tool that downloads the captions from your YouTube subscriptions and fetches the captions for all there videos. So you can search in the content of your subscribed Youtubers.  
-### Spam mail unsubscribe  
-A tool that connects to your gmail and send you a report of all the unsubscribe links.  
-### Liquidity pool sniper bot  
-A tool that snipes for new liquidity pools and tries to get in first to get the best yield.  
+* Crypto currency trading bot  
+	* A tool that perform a sentiment analysis to accumulate crypto currencies at the best time.  
+* Youtube caption scanner  
+	* A tool that downloads the captions from your YouTube subscriptions and fetches the captions for all there videos. So you can search in the content of your subscribed Youtubers.  
+* Spam mail unsubscribe  
+	* A tool that connects to your gmail and send you a report of all the unsubscribe links.  
+* Liquidity pool sniper bot  
+	* A tool that snipes for new liquidity pools and tries to get in first to get the best yield.  
 [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]  
   
 `2019 - Nu` **ICT Medewerker**, Kasterlinden, Sint-Agatha-Berchem, Belgium  
 * Ipad project  
 	* For the digitalisation of our school we have chosen to provide an ipad for every employee / student.  
-	* Setting up a maintenance free device management system. (jamf, apple school manager)  
-	* A tool with a barcode scanner for easy and fast (re)deployment. (Python,  Django, docker, selenium)  
-	* A tool for syncing user accounts and classes with existing platforms (Python,  Django, )
+	* Setting up a maintenance free device management system. [jamf, apple school manager]
+	* A tool with a barcode scanner for easy and fast (re)deployment. [**Python,  Django, docker, selenium**]
+	* A tool for syncing user accounts and classes with existing platforms [**Python,  Django**]
 * Account management / synchronization / SSO
-	* Syncing accounts across different platforms.  
-	* [**Python**, **Django**, **Azure** AD, **Git**, **Soap**, jamf, apple id, questi, informat]
+	* Syncing accounts across different platforms. [**Python**, **Django**, **Azure** AD, **Git**, **Soap**, jamf, apple id, questi, informat]
 
-### Migrating from local ad to the cloud  
-- Migration of local ad users and their data to the cloud. (Powershell, Azure AD,  
-  Local AD, Intune)  
-- Setting up a new structure to manage user accounts and devices.  
+* Migrating from local ad to the cloud  
+	* Migration of local ad users and their data to the cloud. [Powershell, **Azure** AD, Local AD, Intune]
+	* Setting up a new structure to manage user accounts and devices.
 
 ### Application self service  
 - Creating win32 app packages installers. That users can  
