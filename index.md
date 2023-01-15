@@ -33,7 +33,7 @@ A tool that snipes for new liquidity pools and tries to get in first to get the 
 - A tool with a barcode scanner for easy and fast (re)deployment. (Python,  
   Django, docker, selenium)  
 - A tool for syncing user accounts and classes with existing platforms (Python,  
-  Django, )  
+  Django, )
 ### Account management / synchronization / SSO  
 - Syncing accounts across different platforms.  
 - [**Python**, **Django**, **Azure** AD, **Git**, **Soap**, jamf, apple id, questi, informat]  
