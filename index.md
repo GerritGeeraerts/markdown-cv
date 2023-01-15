@@ -8,10 +8,10 @@ Fueled by a passion for programming and the open-source community.
 
 <div id="webaddress"><a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile">Ask Ubuntu</a> | <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile">Stack Overflow</a> | <a href="https://github.com/GerritGeeraerts">GitHub</a></div>
 
-## Education  
-
+## Education
 `2005-2008` **Professionele Bachelor ICT**, KaHo Sint-Lieven, Ghent, Belgium  
-`1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium  
+`1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium
+
 ## Expierience  
 `2019 - Nu` **Home projects**  
 * Crypto currency trading bot [**Python, Django, Docker, Linux, Git, API**]
@@ -68,6 +68,7 @@ Fueled by a passion for programming and the open-source community.
 
 `2009 - 2010` **Chief employee IT**, University Ghent, Belgium  
 * Writing a user story and developing a workflow tool for sales, laborants, customers and administration department. [**.net, SQL, HTML, CSS**]
+
 ## Skills  
 * Languages  
 	* Dutch: Mother Togue  
