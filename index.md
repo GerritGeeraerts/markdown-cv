@@ -33,15 +33,18 @@ A tool that snipes for new liquidity pools and tries to get in first to get the 
 
 ### Account management / synchronization / SSO
 - Syncing accounts across different platforms.  
-- [**Python**, **Django**, **Azure** AD, **Git**, **Soap**, jamf, apple id, questi, informat]  
+- [**Python**, **Django**, **Azure** AD, **Git**, **Soap**, jamf, apple id, questi, informat]
+
 ### Migrating from local ad to the cloud  
 - Migration of local ad users and their data to the cloud. (Powershell, Azure AD,  
   Local AD, Intune)  
 - Setting up a new structure to manage user accounts and devices.  
+
 ### Application self service  
 - Creating win32 app packages installers. That users can  
   install apps / fonts / add ons / extensions / licenses via the company portal  
 - (Powershell, Intune)  
+
 ### Modern inventory  
 - Setting up an automated inventory system and combining all  
   useful data about devices.  
