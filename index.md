@@ -4,9 +4,9 @@ title: Gerrit Geeraerts's test CV
 ---
 
 # Gerrit Geeraerts -  
-Fueled by a passion for programming and the open-source community.  
+Bridging the gap between today's programming and tomorrow's AI, while deeply rooted in the open-source community's collaborative spirit.  
 
-<div id="webaddress"><a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile">Ask Ubuntu</a> | <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile">Stack Overflow</a> | <a href="https://github.com/GerritGeeraerts">GitHub</a></div>
+<div id="webaddress"><a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile">🔗 Ask Ubuntu</a> | <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile">🔗 Stack Overflow</a> | <a href="https://github.com/GerritGeeraerts">🔗 GitHub</a></div>
 
 ## Education
 `2005-2008` **Professionele Bachelor ICT**, KaHo Sint-Lieven, Ghent, Belgium  
