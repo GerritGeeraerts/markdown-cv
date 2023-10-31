@@ -9,6 +9,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 <div id="webaddress"><a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile">🔗 Ask Ubuntu</a> | <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile">🔗 Stack Overflow</a> | <a href="https://github.com/GerritGeeraerts">🔗 GitHub</a></div>
 
 ## Education
+`2024` **Data Analyst / Engineer**, Becode, Ghent, Belgium
 `2005-2008` **Professionele Bachelor ICT**, KaHo Sint-Lieven, Ghent, Belgium  
 `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium
 
@@ -25,7 +26,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 * Custom keyboard
 	* Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my on modern design keyboard based on the QMK Firmware.
   
-`2019 - Nu` <span style="font-size:1.2em;">**ICT Employee**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium  
+`2019 - 2023` <span style="font-size:1.2em;">**ICT Employee**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium  
 * Ipad project [**Python,  Django, docker, selenium**, jamf, apple school manager]
 	* For the digitalisation of our school we have chosen to provide an ipad for every employee / student.  
 	* Setting up a maintenance free device management system.
@@ -62,8 +63,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 * Listening to the needs of the customer and translating it to the correct product.
 
 `2012` <span style="font-size:1.2em;">**Teacher ICT**</span>, GLTT, Halle, Belgium  
-* I love breaking down information into small and easy to understand concepts.w  
-  which makes it easy to understand for students.
+* I love breaking down information into small and easy to understand concepts which makes it easy to understand for students.
 
 `2009 - 2010` <span style="font-size:1.2em;">**Chief employee IT**</span>, University Ghent, Belgium  
 * Writing a user story and developing a workflow tool for sales, laborants, customers and administration department. [**.net, SQL, HTML, CSS**]
