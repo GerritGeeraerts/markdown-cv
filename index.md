@@ -12,7 +12,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2024 (scheduled)` **Data Analyst / Engineer**, Becode, Ghent, Belgium  
 * Course contents:
 	* Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
-	* AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes
+	* AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes  
  	* 1 month internship. 	
 
 `2005-2008` **Professionele Bachelor ICT**, KaHo Sint-Lieven, Ghent, Belgium  
