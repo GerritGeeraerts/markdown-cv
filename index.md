@@ -8,8 +8,9 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 <div id="webaddress"><a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile">🔗 Ask Ubuntu</a> | <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile">🔗 Stack Overflow</a> | <a href="https://github.com/GerritGeeraerts">🔗 GitHub</a></div>
 
+
 ## Education
-`2024 (scheduled)` **Data Analyst / Engineer**, Becode, Ghent, Belgium  
+`2024/1>8` **Data Analyst / Engineer**, Becode, Ghent, Belgium  
 * Course contents:
 	* Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
 	* AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes  
@@ -17,6 +18,10 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 `2005-2008` **Professionele Bachelor ICT**, KaHo Sint-Lieven, Ghent, Belgium  
 `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium
+
+## Seeking Role in : Big Data / Artificial Inteligence
+`2024/08`With the course I am following I am loking for a new chalenge in the Artificial Inteligence / Big Data branch.
+
 
 ## Expierience  
 `2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
