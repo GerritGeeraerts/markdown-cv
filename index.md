@@ -20,7 +20,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium
 
 ## Seeking Role in : Big Data / Artificial Inteligence
-`2024/08`With the course I am following I am looking for a new chalenge in the Artificial Inteligence / Big Data branch.
+`2024/08` My initial focus is on finding an internship for one month, followed by the search for a full-time position in the Artificial Inteligence / Big Data branch
 
 
 ## Expierience  
