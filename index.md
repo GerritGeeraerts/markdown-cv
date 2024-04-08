@@ -36,7 +36,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 * Custom keyboard
 	* Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my on modern design keyboard based on the QMK Firmware.
   
-`2019 - 2023` <span style="font-size:1.2em;">**ICT Employee**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium  
+`2019 - 2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium  
 * Ipad project [**Python,  Django, docker, selenium**, jamf, apple school manager]
 	* For the digitalisation of our school we have chosen to provide an ipad for every employee / student.  
 	* Setting up a maintenance free device management system.
@@ -61,7 +61,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 * Netwerk management [DHCP, DNS, firewall, vlan, routers, switches] 
 	* Managing the network toghether with the parent organisation 
 
-`2014 - 2018` <span style="font-size:1.2em;">**ICT Medewerker**</span>, Metro Group, Wommelgem, Belgium  
+`2014 - 2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
 * User management [**Powershell**, AD, Confluence, MS exchange, **Kanban**, **Scrum**,]
 	* Migrating from generic accounts to personal accounts with generic mailboxes and a self service tool. Automating creation of user accounts and generating documentation.
 * Network management [Firewall, switches, dhcp, dns, wlan]
