@@ -23,7 +23,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2024/08` My initial focus is on finding an internship for one month, followed by the search for a full-time position in the Artificial Inteligence / Big Data branch
 
 
-## Expierience  
+## Experience  
 `2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
 * Crypto currency trading bot [**Python, Django, Docker, Linux, Git, API**]
 	* A tool that perform a sentiment analysis to accumulate crypto currencies at the best time.   
