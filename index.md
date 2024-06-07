@@ -10,12 +10,6 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 
 ## Education
-`2024/1>8` **Data Analyst / Engineer**, Becode, Ghent, Belgium  
-* Course contents:
-	* Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
-	* AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes  
- 	* ML & LLM Ops, Gen AI, Langchain, RAG
-
 `2005-2008` **Professionele Bachelor ICT**, KaHo Sint-Lieven, Ghent, Belgium  
 `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium
 
@@ -23,7 +17,13 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2024/08` My initial focus is on finding an internship for one month, followed by the search for a full-time position in the Artificial Inteligence / Big Data branch
 
 
-## Experience  
+## Experience
+`2024/1>8` **Data Analyst / Engineer**, Becode, Ghent, Belgium  
+* Course contents:
+	* Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
+	* AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes  
+ 	* ML & LLM Ops, Gen AI, Langchain, RAG
+
 `2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
 * Crypto bots: Sentiment analysis for optimal trading. [**Python, Django, Docker, Linux, Git, API**]
 * YouTube caption search: Search within your subscribed content. [**Python, Django, Docker, Linux, celery, HTML, CSS, Git, Selenium, Rest API**]
@@ -31,7 +31,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 * Liquidity pool sniper: Detects and invests in new liquidity pools for optimal yields. [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]
 * Custom keyboard: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
 
-* `2024` <span style="font-size:1.2em;">**system Engineer (Volunteer)**</span>
+`2024` <span style="font-size:1.2em;">**system Engineer (Volunteer)**</span>
 * I volunteered at Viso Cor Mariae school for three months when they had no IT support. I analyzed their IT infrastructure, created a roadmap, and implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. [**Azure, Cloud Infrastructure**]
 
 `2019 - 2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium  
