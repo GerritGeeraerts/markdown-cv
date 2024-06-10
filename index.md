@@ -3,7 +3,7 @@ layout: cv
 title: Gerrit Geeraerts's test CV
 ---
 
-# Gerrit Geeraerts -  
+# Gerrit Geeraerts - 
 Bridging the gap between today's programming and tomorrow's AI, while deeply rooted in the open-source community's collaborative spirit.  
 
 <div id="webaddress"><a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile">🔗 Ask Ubuntu</a> | <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile">🔗 Stack Overflow</a> | <a href="https://github.com/GerritGeeraerts">🔗 GitHub</a> | <a href="https://www.linkedin.com/in/gerrit-geeraerts/">🔗 LinkedIn</a> | <a href="mailto:ggeeraer@gmail.com">✉️ ggeeraer@gmail.com</a> | 🪪 Driving License B</div>
@@ -17,7 +17,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2024/08` #TODO: 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
 ## Relevant Skills
-`2024/08` * Languages: Dutch Mother Tongue | Very good English | Very good French   
+`` * Languages: Dutch Mother Tongue | Very good English | Very good French   
 * Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem solving, analytic.  
 
 
