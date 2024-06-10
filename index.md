@@ -15,7 +15,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 ## Seeking Role in : Big Data / Artificial Intelligence
 `-`
-- #TODO: 3 W's mini version of linked in highlight passionate technical person that speaks human as well
+- 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
 ## Relevant Skills
 `-`
