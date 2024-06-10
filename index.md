@@ -6,7 +6,7 @@ title: Gerrit Geeraerts's test CV
 # Gerrit Geeraerts -  
 Bridging the gap between today's programming and tomorrow's AI, while deeply rooted in the open-source community's collaborative spirit.  
 
-<div id="webaddress"><a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile">🔗 Ask Ubuntu</a> | <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile">🔗 Stack Overflow</a> | <a href="https://github.com/GerritGeeraerts">🔗 GitHub</a> | <a href="https://www.linkedin.com/in/gerrit-geeraerts/">🔗 LinkedIn</a> | <a href="mailto:ggeeraer@gmail.com">ggeeraer@gmail.com</a> | Driving License B</div>
+<div id="webaddress"><a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile">🔗 Ask Ubuntu</a> | <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile">🔗 Stack Overflow</a> | <a href="https://github.com/GerritGeeraerts">🔗 GitHub</a> | <a href="https://www.linkedin.com/in/gerrit-geeraerts/">🔗 LinkedIn</a> | <a href="mailto:ggeeraer@gmail.com">✉️ ggeeraer@gmail.com</a> | 🪪 Driving License B</div>
 
 
 ## Education
