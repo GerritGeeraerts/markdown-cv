@@ -10,17 +10,17 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 
 ## Education
-`2005-2008` **Professionele Bachelor ICT**, KaHo Sint-Lieven, Ghent, Belgium  
-`1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium
+`2005-2008` **Professional Bachelor's in ICT**, KaHo Sint-Lieven, Ghent, Belgium  
+`1999-2005` **Industrial Sciences**, Don Bosco, Halle, Belgium
 
-## Seeking Role in : Big Data / Artificial Inteligence
-`-` 
-#TODO: 3 W's mini version of linked in highlight passionate technical person that speaks human as well
+## Seeking Role in : Big Data / Artificial Intelligence
+`-`
+- #TODO: 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
 ## Relevant Skills
 `-`
 - Languages: Dutch Mother Tongue | Very good English | Very good French
-- Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem solving, analytic.  
+- Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.  
 
 
 ## Experience
