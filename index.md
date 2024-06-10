@@ -43,8 +43,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 - Skills: Azure, Cloud Infrastructure
 
 `2019 - 2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium
-- Digitalizing Education: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms. 
-
+- **Digitalizing Education**: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms.
 - **Account management / synchronization / SSO**
 - **Cloud Migration**: Migrating from a hybrid environment to Azure cloud only environment.
 - **Application Self-Service**: I created a tool to streamline the creation of Intune packages, enabling users to install software through a self-service portal.
