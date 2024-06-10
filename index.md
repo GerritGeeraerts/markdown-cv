@@ -20,14 +20,15 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 ## Seeking Role in : Big Data / Artificial Intelligence
 `-`
 - Languages: Dutch Mother Tongue | Very good English | Very good French
+- Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
 
 ## Relevant Skills
 `-`
-- Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
+- no game
 
 ## Experience
 `2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
-- #TODO: List Projects
+- TODO List Projects
 - Course contents:
 	- Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
 	- AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes  
