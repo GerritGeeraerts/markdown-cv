@@ -38,7 +38,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
 - **Skills**: Python, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Celery, Redis, Proxmox VM
 
-`2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>
+`2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Schaarbeek, Belgium
 - I volunteered at Viso Cor Mariae school for three months when they had no IT support. I analyzed their IT infrastructure, created a roadmap, and implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
 - Skills: Azure, Cloud Infrastructure
 
