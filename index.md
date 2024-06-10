@@ -73,7 +73,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 * **Skills**: **.NET, SQL, HTML, CSS, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment]
 
 ## Currently
-` `
+`-`
 - Assistant Professor
 - Organizational Leadership and Information Analytics
 - Leeds School of Business
