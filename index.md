@@ -17,7 +17,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2024/08` #TODO: 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
 ## Relevant Skills
-`` Languages: Dutch Mother Tongue | Very good English | Very good French
+` ` Languages: Dutch Mother Tongue | Very good English | Very good French
 Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem solving, analytic.  
 
 
