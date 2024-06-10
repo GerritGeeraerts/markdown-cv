@@ -17,14 +17,10 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `-`
 - 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
-## Seeking Role in : Big Data / Artificial Intelligence
-`-`
-- Languages: Dutch Mother Tongue | Very good English | Very good French
-- Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
-
 ## Relevant Skills
 `-`
-- no game
+- Languages: Dutch Mother Tongue,  Very good English, Very good French
+- Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
 
 ## Experience
 `2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
