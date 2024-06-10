@@ -45,13 +45,13 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2019 - 2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium  
 * Digitalizing Education: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms. 
 
-* Account management / synchronization / SSO
-* Cloud Migration: Migrating from a hybrid environment to Azure cloud only environment.
-* Application Self-Service: I created a tool to streamline the creation of Intune packages, enabling users to install software through a self-service portal.
-* Modern Inventory Management: We developed an automated inventory system that hooked in to SQL database of lansweeper for improving asset management and oversight.
-* Give Trainings: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
-* Network Management: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
-* Skills: Python, Django, Docker, Selenium, Jamf, Apple School Manager, Azure AD, Git, Soap, Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, Intune, Lansweeper, SQL
+* **Account management / synchronization / SSO**
+* **Cloud Migration**: Migrating from a hybrid environment to Azure cloud only environment.
+* **Application Self-Service**: I created a tool to streamline the creation of Intune packages, enabling users to install software through a self-service portal.
+* **Modern Inventory Management**: We developed an automated inventory system that hooked in to SQL database of lansweeper for improving asset management and oversight.
+* **Give Trainings**: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
+* **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
+* **Skills**: Python, Django, Docker, Selenium, Jamf, Apple School Manager, Azure AD, Git, Soap, Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, Intune, Lansweeper, SQL
 
 
 `2014 - 2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
