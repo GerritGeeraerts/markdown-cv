@@ -19,8 +19,8 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 ## Relevant Skills
 `-`
-- Languages: Dutch Mother Tongue,  Very good English, Very good French
-- Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
+- **Languages**: Dutch Mother Tongue,  Very good English, Very good French
+- **Soft Skills**: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
 
 ## Experience
 `2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
@@ -54,10 +54,10 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 
 `2014 - 2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
-- User management: Migrating from generic accounts to personal accounts, automating creation of user accounts and generating documentation. 
-- Exchange: Managing generic mailboxes and a self-service tool.
-- Network: Managing the lan, Wi-Fi, firewalls and setting up new stores.
-- Support: First and second line support.
+- **User management**: Migrating from generic accounts to personal accounts, automating creation of user accounts and generating documentation. 
+- **Exchange**: Managing generic mailboxes and a self-service tool.
+- **Network**: Managing the lan, Wi-Fi, firewalls and setting up new stores.
+- **Support**: First and second line support.
 - **Skills**: Firewall, Powershell, Switches, DHCP, DNS, Wlan, AD, Confluence, MS exchange, Kanban, Scrum
 
 `2011 - 2014` <span style="font-size:1.2em;">**Sales Digital world**</span>, Metro Group, Sint-Pieters-Leeuw, Belgium  
