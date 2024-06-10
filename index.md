@@ -30,15 +30,12 @@ Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thought
  	* ML & LLM Ops, Gen AI, Langchain, RAG
 
 `2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
-* #TODO: Combine skills in a single line
-* Crypto bots: Sentiment analysis for optimal trading. [**Python, Django, Docker, Linux, Git, API**]
-* YouTube caption search: Search within your subscribed content. 
-  * [**Python, Django, Docker, Linux, celery, HTML, CSS, Git, Selenium, Rest API**]
-* Gmail unsubscribe finder: Easily locate and manage email subscriptions. 
-  * [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]
-* Liquidity pool sniper: Detects and invests in new liquidity pools for optimal yields. 
-  * [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]
+* Crypto bots: Sentiment analysis for optimal trading. 
+* YouTube caption search: Search within your subscribed content.
+* Gmail unsubscribe finder: Easily locate and manage email subscriptions.
+* Liquidity pool sniper: Detects and invests in new liquidity pools for optimal yields.
 * Custom keyboard: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
+* Skills: Python, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Celery, Redis
 
 `2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>
 * I volunteered at Viso Cor Mariae school for three months when they had no IT support. I analyzed their IT infrastructure, created a roadmap, and implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
