@@ -17,18 +17,18 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2024/08` #TODO: 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
 ## Relevant Skills
-``
+`-`
 - Languages: Dutch Mother Tongue | Very good English | Very good French
 - Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem solving, analytic.  
 
 
 ## Experience
 `2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
-* #TODO: List Projects
-* Course contents:
-	* Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
-	* AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes  
- 	* ML & LLM Ops, Gen AI, Langchain, RAG
+- #TODO: List Projects
+- Course contents:
+	- Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
+	- AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes  
+ 	- ML & LLM Ops, Gen AI, Langchain, RAG
 
 `2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
 * **Crypto bots**: Sentiment analysis for optimal trading. 
