@@ -17,6 +17,10 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `-`
 - 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
+## Seeking Role in : Big Data / Artificial Intelligence
+`-`
+- 3 W's mini version of linked in highlight passionate technical person that speaks human as well
+
 ## Relevant Skills
 `-`
 - Languages: Dutch Mother Tongue | Very good English | Very good French
