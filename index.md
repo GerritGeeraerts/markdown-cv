@@ -14,7 +14,8 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium
 
 ## Seeking Role in : Big Data / Artificial Inteligence
-`2024/08` #TODO: 3 W's mini version of linked in highlight passionate technical person that speaks human as well
+`-` 
+#TODO: 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
 ## Relevant Skills
 `-`
@@ -55,11 +56,11 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 
 `2014 - 2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
-* User management: Migrating from generic accounts to personal accounts, automating creation of user accounts and generating documentation. [**Powershell**, AD, Confluence, MS exchange, **Kanban**, **Scrum**,]
+* User management: Migrating from generic accounts to personal accounts, automating creation of user accounts and generating documentation. 
 * Exchange: Managing generic mailboxes and a self-service tool.
 * Network: Managing the lan, Wi-Fi, firewalls and setting up new stores.
 * Support: First and second line support.
-* **Skills**: Firewall, Switches, DHCP, DNS, Wlan
+* **Skills**: Firewall, Powershell, Switches, DHCP, DNS, Wlan, AD, Confluence, MS exchange, Kanban, Scrum
 
 `2011 - 2014` <span style="font-size:1.2em;">**Sales Digital world**</span>, Metro Group, Sint-Pieters-Leeuw, Belgium  
 * Creating a great customer experience, listening to the needs of the customer and translating it to the correct product.
@@ -70,16 +71,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2009 - 2010` <span style="font-size:1.2em;">**Chief employee IT**</span>, University Ghent, Belgium  
 * Writing a user story and developing a workflow tool for sales, laborants, customers and administration department.
 * IT infrastructure management and support together with the central IT department. 
-* **Skills**: **.NET, SQL, HTML, CSS, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment]
-
-## Currently
-`-`
-- Assistant Professor
-- Organizational Leadership and Information Analytics
-- Leeds School of Business
-- University of Colorado Boulder
-
-
+* **Skills**: .NET, SQL, HTML, CSS, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment]
 
 <!-- ### Footer
 
