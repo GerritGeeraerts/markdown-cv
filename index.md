@@ -17,7 +17,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2024/08` #TODO: 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
 ## Relevant Skills
-` `
+``
 - Languages: Dutch Mother Tongue | Very good English | Very good French
 - Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem solving, analytic.  
 
@@ -72,7 +72,12 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 * IT infrastructure management and support together with the central IT department. 
 * **Skills**: **.NET, SQL, HTML, CSS, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment]
 
-
+## Currently
+` `
+- Assistant Professor
+- Organizational Leadership and Information Analytics
+- Leeds School of Business
+- University of Colorado Boulder
 
 
 
