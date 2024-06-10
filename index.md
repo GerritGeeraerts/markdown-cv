@@ -20,8 +20,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 ## Relevant Skills
 `-`
 - Languages: Dutch Mother Tongue | Very good English | Very good French
-- Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.  
-
+- Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
 
 ## Experience
 `2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
