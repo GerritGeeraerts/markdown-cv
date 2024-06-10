@@ -189,6 +189,9 @@ strong {
 	display: none;
 	visibility: hidden;
 }
+h2+ul {
+    margin-top: 2px;
+}
 
 
 

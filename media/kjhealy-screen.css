@@ -185,7 +185,9 @@ strong {
 #address {
 	display: none;
 }
-
+h2+ul {
+    margin-top: 2px;
+}
 
 
 /*
