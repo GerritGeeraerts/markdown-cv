@@ -14,11 +14,11 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `1999-2005` **Industrial Sciences**, Don Bosco, Halle, Belgium
 
 ## Seeking Role in : Big Data / Artificial Intelligence
-``
+`-`
 - 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
 ## Relevant Skills
-``
+`-`
 - **Languages**: Mother Tongue in Dutch, very good English, very good French
 - **Soft Skills**: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
 
