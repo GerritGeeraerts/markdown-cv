@@ -14,17 +14,23 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle, Belgium
 
 ## Seeking Role in : Big Data / Artificial Inteligence
-`2024/08` My initial focus is on finding an internship for one month, followed by the search for a full-time position in the Artificial Inteligence / Big Data branch
+`2024/08` #TODO: 3 W's mini version of linked in highlight passionate technical person that speaks human as well
+
+## Relevant Skills
+* Languages: Dutch Mother Tongue | Very good English | Very good French   
+* Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem solving, analytic.  
 
 
 ## Experience
-`2024/1>8` **Data Analyst / Engineer**, Becode, Ghent, Belgium  
+`2024/1>8` **Data Analyst / Engineer**, Becode, Ghent, Belgium
+* #TODO: List Projects
 * Course contents:
 	* Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
 	* AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes  
  	* ML & LLM Ops, Gen AI, Langchain, RAG
 
 `2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
+* #TODO: Combine skills in a single line
 * Crypto bots: Sentiment analysis for optimal trading. [**Python, Django, Docker, Linux, Git, API**]
 * YouTube caption search: Search within your subscribed content. 
   * [**Python, Django, Docker, Linux, celery, HTML, CSS, Git, Selenium, Rest API**]
@@ -34,7 +40,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
   * [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]
 * Custom keyboard: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
 
-`2024` <span style="font-size:1.2em;">**system Engineer (Volunteer)**</span>
+`2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>
 * I volunteered at Viso Cor Mariae school for three months when they had no IT support. I analyzed their IT infrastructure, created a roadmap, and implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
   * [**Azure, Cloud Infrastructure**]
 
@@ -69,18 +75,11 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2009 - 2010` <span style="font-size:1.2em;">**Chief employee IT**</span>, University Ghent, Belgium  
 * Writing a user story and developing a workflow tool for sales, laborants, customers and administration department. 
   * [**.net, SQL, HTML, CSS**]
-* IT infrastructure management and support toghether with the central IT depratment. 
+* IT infrastructure management and support toghether with the central IT department. 
   * [Firewall, switches, dhcp, dns, wlan, aad, dns, deployment]
 
 
 
-## Skills
-* Languages  
-	* Dutch: Mother Togue  
-	* English: very good  
-	* French: very good  
-* Soft Skills  
-	* Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem solving, analytic.  
 
 
 <!-- ### Footer
