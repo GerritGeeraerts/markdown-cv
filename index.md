@@ -10,28 +10,37 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 
 ## Education
-`2005-2008` **Professional Bachelor's in ICT**, KaHo Sint-Lieven, Ghent, Belgium  
+`2005-2008` **Professional Bachelor's in ICT**, KaHo Sint-Lieven, Ghent, Belgium
 `1999-2005` **Industrial Sciences**, Don Bosco, Halle, Belgium
 
 ## Seeking Role in : Big Data / Artificial Intelligence
-`-`
+``
 - 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
 ## Relevant Skills
-`-`
-- **Languages**: Dutch Mother Tongue,  Very good English, Very good French
+``
+- **Languages**: Mother Tongue in Dutch, very good English, very good French
 - **Soft Skills**: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
 
 ## Experience
 `2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
-- TODO List Projects
+- Projects
+  - Credit Card Churning: Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels. 
+  - <a href="https://github.com/GerritGeeraerts/churning">🔗 Github</a>
+  - Immo App: Deploying Immo Prediction model with Streamlit and FastAPI 
+  - <a href="https://github.com/GerritGeeraerts/immo-eliza-app">🔗 Github</a>
+  - Immo ML: Fixing an OLTP database and making a new OLAP database from it.
+  - <a href="https://github.com/GerritGeeraerts/immo-eliza-ml">🔗 Github</a>
+  - Wine Market Analysis: Fixing an OLTP database and making a new OLAP database from it. 
+  - <a href="https://github.com/miguelallgood/wine-market-analysis/tree/main">🔗 Github</a>
+
 - Course contents:
 	- Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
 	- AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes  
  	- ML & LLM Ops, Gen AI, Langchain, RAG
 
 `2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
-- **Crypto bots**: Sentiment analysis for optimal trading. 
+- **Crypto bots**: Sentiment analysis for optimal trading.
 - **YouTube caption search**: Search within your subscribed content.
 - **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
 - **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
@@ -39,7 +48,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 - **Skills**: Python, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Celery, Redis, Proxmox VM
 
 `2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Schaarbeek, Belgium
-- I volunteered at Viso Cor Mariae school for three months when they had no IT support. I analyzed their IT infrastructure, created a roadmap, and implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
+- I volunteered at Viso Cor Mariae, a school where they did not have anyone for IT. I analyzed their IT infrastructure, created a roadmap, and started implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
 - Skills: Azure, Cloud Infrastructure
 
 `2019 - 2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium
