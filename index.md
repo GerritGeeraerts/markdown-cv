@@ -24,16 +24,13 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 ## Experience
 `2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
-- Projects
-  - Credit Card Churning: Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels. 
-  - <a href="https://github.com/GerritGeeraerts/churning">🔗 Github</a>
-  - Immo App: Deploying Immo Prediction model with Streamlit and FastAPI 
-  - <a href="https://github.com/GerritGeeraerts/immo-eliza-app">🔗 Github</a>
-  - Immo ML: Fixing an OLTP database and making a new OLAP database from it.
-  - <a href="https://github.com/GerritGeeraerts/immo-eliza-ml">🔗 Github</a>
-  - Wine Market Analysis: Fixing an OLTP database and making a new OLAP database from it. 
-  - <a href="https://github.com/miguelallgood/wine-market-analysis/tree/main">🔗 Github</a>
+- **Credit Card Churning**: Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels.
+- **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
+- **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
+- **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
+- **Skills**: Sklearn, XGboost, Catboost, SpaCy, Transformers, AWS, Azure, GCP, Airflow, Pytest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes, ML & LLM Ops, Gen AI, Langchain, RAG
 
+`2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
 - Course contents:
 	- Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
 	- AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes  
