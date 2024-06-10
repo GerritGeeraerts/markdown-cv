@@ -23,7 +23,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 
 ## Experience
-`2024/1>8` **Data Analyst / Engineer**, Becode, Ghent, Belgium
+`2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
 * #TODO: List Projects
 * Course contents:
 	* Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
@@ -42,7 +42,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 * I volunteered at Viso Cor Mariae school for three months when they had no IT support. I analyzed their IT infrastructure, created a roadmap, and implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
 * Skills: Azure, Cloud Infrastructure
 
-`2019 - 2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium  
+`2019 - 2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium
 * Digitalizing Education: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms. 
 
 * **Account management / synchronization / SSO**
