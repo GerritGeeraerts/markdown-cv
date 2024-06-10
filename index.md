@@ -56,10 +56,10 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 `2014 - 2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
 * User management: Migrating from generic accounts to personal accounts, automating creation of user accounts and generating documentation. [**Powershell**, AD, Confluence, MS exchange, **Kanban**, **Scrum**,]
-* Exchange: Managing generic mailboxes and a self service tool.
-* Network: Managing the lan, wifi, firewalls and setting up new stores. 
-  * [Firewall, switches, dhcp, dns, wlan]
+* Exchange: Managing generic mailboxes and a self-service tool.
+* Network: Managing the lan, Wi-Fi, firewalls and setting up new stores.
 * Support: First and second line support.
+* **Skills**: Firewall, Switches, DHCP, DNS, Wlan
 
 `2011 - 2014` <span style="font-size:1.2em;">**Sales Digital world**</span>, Metro Group, Sint-Pieters-Leeuw, Belgium  
 * Creating a great customer experience, listening to the needs of the customer and translating it to the correct product.
@@ -68,10 +68,9 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 * I love breaking down information into small and easy to understand concepts which makes it easy to understand for students.
 
 `2009 - 2010` <span style="font-size:1.2em;">**Chief employee IT**</span>, University Ghent, Belgium  
-* Writing a user story and developing a workflow tool for sales, laborants, customers and administration department. 
-  * [**.net, SQL, HTML, CSS**]
-* IT infrastructure management and support toghether with the central IT department. 
-  * [Firewall, switches, dhcp, dns, wlan, aad, dns, deployment]
+* Writing a user story and developing a workflow tool for sales, laborants, customers and administration department.
+* IT infrastructure management and support together with the central IT department. 
+* **Skills**: **.NET, SQL, HTML, CSS, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment]
 
 
 
