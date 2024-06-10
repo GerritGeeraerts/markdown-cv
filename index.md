@@ -17,7 +17,8 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2024/08` #TODO: 3 W's mini version of linked in highlight passionate technical person that speaks human as well
 
 ## Relevant Skills
-` ` Languages: Dutch Mother Tongue | Very good English | Very good French
+` `  <span style="font-size:1.2em;"> </span>
+Languages: Dutch Mother Tongue | Very good English | Very good French
 Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem solving, analytic.  
 
 
@@ -30,16 +31,16 @@ Soft Skills: 	Team player, eager to learn and teach, motivated, calm and thought
  	* ML & LLM Ops, Gen AI, Langchain, RAG
 
 `2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
-* Crypto bots: Sentiment analysis for optimal trading. 
-* YouTube caption search: Search within your subscribed content.
-* Gmail unsubscribe finder: Easily locate and manage email subscriptions.
-* Liquidity pool sniper: Detects and invests in new liquidity pools for optimal yields.
-* Custom keyboard: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
-* Skills: Python, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Celery, Redis
+* **Crypto bots**: Sentiment analysis for optimal trading. 
+* **YouTube caption search**: Search within your subscribed content.
+* **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
+* **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
+* **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
+* **Skills**: Python, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Celery, Redis, Proxmox VM
 
 `2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>
 * I volunteered at Viso Cor Mariae school for three months when they had no IT support. I analyzed their IT infrastructure, created a roadmap, and implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
-  * [**Azure, Cloud Infrastructure**]
+* Skills: Azure, Cloud Infrastructure
 
 `2019 - 2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium  
 * Digitalizing Education: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms. 
