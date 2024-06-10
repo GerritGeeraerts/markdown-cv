@@ -3,7 +3,7 @@ layout: cv
 title: Gerrit Geeraerts's CV
 ---
 
-# Gerrit Geeraerts - 
+# Gerrit Geeraerts
 Bridging the gap between today's programming and tomorrow's AI, while deeply rooted in the open-source community's collaborative spirit.  
 
 <div id="webaddress"><a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile">🔗 Ask Ubuntu</a> | <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile">🔗 Stack Overflow</a> | <a href="https://github.com/GerritGeeraerts">🔗 GitHub</a> | <a href="https://www.linkedin.com/in/gerrit-geeraerts/">🔗 LinkedIn</a> | <a href="mailto:ggeeraer@gmail.com">✉️ ggeeraer@gmail.com</a> | 🪪 Driving License B</div>
@@ -13,9 +13,22 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 `2005-2008` **Professional Bachelor's in ICT**, KaHo Sint-Lieven, Ghent, Belgium
 `1999-2005` **Industrial Sciences**, Don Bosco, Halle, Belgium
 
-## Seeking Role in : Big Data / Artificial Intelligence
+## About Me
 `-`
-- 3 W's mini version of linked in highlight passionate technical person that speaks human as well
+### passionate for 30 years
+I have been personally inspired by computers / technology for 30 years, working on numerous Home and Professionally projects.
+At my core I love that it lets us be more efficient and I find joy in setting up systems that makes us more productive.
+
+### switch to AI
+Today, I see more potential in Data & Artificial Intelligence. It has the power to make a bigger difference in our productivity 🚀. This inspired me to pursue a training at BeCode as a Data Engineer.
+
+As a person, I am a collaborative team player 🤝 with a passion for continuous learning 🔄 and knowledge sharing 📚. Motivated, a creative problem-solver, leveraging critical thinking and analytical skills to find robust solutions. I am a generalist with a broad interest range.
+
+My goal now is to grow and apply my technical expertise as a Data Engineer to build robust LLM & MLops pipeline solutions that leverage the capabilities of Artificial Intelligence
+### technical person that talks human
+At heart, I'm a technical individual, but I can seamlessly switch to non-technical language when needed.
+
+Apart from being a technical individual, but I can seamlessly switch to non-technical language when needed. 
 
 ## Relevant Skills
 `-`
@@ -28,16 +41,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 - **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
-- **Skills**: Sklearn, XGboost, Catboost, SpaCy, Transformers, AWS, Azure, GCP, Airflow, Pytest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes, ML & LLM Ops, Gen AI, Langchain, RAG, Selenium, Playwright, Scrapy
-- **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
-
-`2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
-- **Crypto bots**: Sentiment analysis for optimal trading.
-- **YouTube caption search**: Search within your subscribed content.
-- **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
-- **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
-- **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
-- **Skills**: Python, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Scrapy, Celery, Redis, Proxmox VM
+- **Skills**: Sklearn, XGboost, Catboost, SpaCy, Transformers, AWS, Azure, GCP, Airflow, Pytest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes, GPT, ML & LLM Ops, Gen AI, Langchain, RAG, Selenium, Playwright, Scrapy
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Schaarbeek, Belgium
@@ -54,6 +58,14 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 - **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
 - **Skills**: Python, Django, Docker, Selenium, Jamf, Apple School Manager, Azure AD, Git, Soap, Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, Intune, Lansweeper, SQL
 
+`2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
+- **Crypto bots**: Sentiment analysis for optimal trading.
+- **YouTube caption search**: Search within your subscribed content.
+- **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
+- **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
+- **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
+- **Skills**: Python, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Scrapy, Celery, Redis, Proxmox VM
+- **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2014 - 2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
 - **User management**: Migrating from generic accounts to personal accounts, automating creation of user accounts and generating documentation. 
