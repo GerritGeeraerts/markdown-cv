@@ -29,12 +29,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
 - **Skills**: Sklearn, XGboost, Catboost, SpaCy, Transformers, AWS, Azure, GCP, Airflow, Pytest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes, ML & LLM Ops, Gen AI, Langchain, RAG
-
-`2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
-- Course contents:
-	- Sklearn XGboost, PowerBI, Tableau, SpaCy, Transformers, GPT  
-	- AWS, Azure, GCP, Airflow, PyTest, Azure Devops, Terraform, Kafka, SQS, Spark, Kubernetes  
- 	- ML & LLM Ops, Gen AI, Langchain, RAG
+- Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
 - **Crypto bots**: Sentiment analysis for optimal trading.
@@ -43,10 +38,11 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 - **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
 - **Skills**: Python, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Celery, Redis, Proxmox VM
+- Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Schaarbeek, Belgium
 - I volunteered at Viso Cor Mariae, a school where they did not have anyone for IT. I analyzed their IT infrastructure, created a roadmap, and started implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
-- Skills: Azure, Cloud Infrastructure
+- **Skills**: Azure, Cloud Infrastructure
 
 `2019 - 2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium
 - **Digitalizing Education**: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms.
