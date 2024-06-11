@@ -51,7 +51,7 @@ Playwright, Scrapy, MLflow, FastAPI, Streamlit, **Docker**, **Git**, **SQL**
 - I volunteered at Viso Cor Mariae, a school where they did not have anyone for IT. I analyzed their IT infrastructure, created a roadmap, and started implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
 - **Skills**: **Azure**, **Cloud** Infrastructure
 
-`2019 - 2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium
+`2019-2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium
 - **Digitalizing Education**: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms.
 - **Account management / synchronization / SSO**
 - **Cloud Migration**: Migrating from a hybrid environment to Azure cloud only environment.
@@ -62,7 +62,7 @@ Playwright, Scrapy, MLflow, FastAPI, Streamlit, **Docker**, **Git**, **SQL**
 - **Skills**: **Python**, Django, **Docker**, Selenium, Jamf, Apple School Manager, **Azure Cloud** AD, Git, Soap, 
 Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, Intune, Lansweeper, **SQL**
 
-`2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
+`2019-Nu` <span style="font-size:1.2em;">**Home projects**</span>
 - **Crypto bots**: Sentiment analysis for optimal trading.
 - **YouTube caption search**: Search within your subscribed content.
 - **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
@@ -72,20 +72,20 @@ Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, In
 Proxmox VM, **SQLLite**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
-`2014 - 2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
+`2014-2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
 - **User management**: Migrating from generic accounts to personal accounts, automating creation of user accounts and generating documentation. 
 - **Exchange**: Managing generic mailboxes and a self-service tool.
 - **Network**: Managing the lan, Wi-Fi, firewalls and setting up new stores.
 - **Support**: First and second line support.
 - **Skills**: Firewall, Powershell, Switches, DHCP, DNS, Wlan, AD, Confluence, MS exchange, Kanban, Scrum
 
-`2011 - 2014` <span style="font-size:1.2em;">**Sales Digital world**</span>, Metro Group, Sint-Pieters-Leeuw, Belgium  
+`2011-2014` <span style="font-size:1.2em;">**Sales Digital world**</span>, Metro Group, Sint-Pieters-Leeuw, Belgium  
 - Creating a great customer experience, listening to the needs of the customer and translating it to the correct product.
 
 `2012` <span style="font-size:1.2em;">**Teacher ICT**</span>, GLTT, Halle, Belgium  
 - I love breaking down information into small and easy to understand concepts which makes it easy to understand for students.
 
-`2009 - 2010` <span style="font-size:1.2em;">**Chief employee IT**</span>, University Ghent, Belgium  
+`2009-2010` <span style="font-size:1.2em;">**Chief employee IT**</span>, University Ghent, Belgium  
 - Writing a user story and developing a workflow tool for sales, laborants, customers and administration department.
 - IT infrastructure management and support together with the central IT department. 
 - **Skills**: .NET, SQL, HTML, CSS, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment]
