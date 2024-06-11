@@ -191,6 +191,7 @@ h2+ul {
 ul li > strong:first-of-type {
   color: #560101;
   font-style: normal;
+  font-weight: normal;
 }
 
 /*
