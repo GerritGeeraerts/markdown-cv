@@ -16,19 +16,13 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 ## About Me
 `-`
 ### passionate for 30 years
-I have been personally inspired by computers / technology for 30 years, working on numerous Home and Professionally projects.
-At my core I love that it lets us be more efficient and I find joy in setting up systems that makes us more productive.
+I first got in touch with computers when I was 7 years old, Windows 3.11 in the full 16 colors, magical! Since then, I have been passionate about technology. With a core value to leverage the abilities of computers to make our lives more productive 💼. I have been personally inspired by this for over 30 years, working on numerous home projects 🏡. Professionally, I have about 1 decade of experience in IT. Most of it was as a system engineer, exploring and learning new systems and connecting them through coding. 
 
-### switch to AI
-Today, I see more potential in Data & Artificial Intelligence. It has the power to make a bigger difference in our productivity 🚀. This inspired me to pursue a training at BeCode as a Data Engineer.
+But today, I see more potential in Data & Artificial Intelligence. It has the power to make a bigger difference in our productivity 🚀. This inspired me to pursue a training at BeCode as a Data Engineer.
 
 As a person, I am a collaborative team player 🤝 with a passion for continuous learning 🔄 and knowledge sharing 📚. Motivated, a creative problem-solver, leveraging critical thinking and analytical skills to find robust solutions. I am a generalist with a broad interest range.
 
-My goal now is to grow and apply my technical expertise as a Data Engineer to build robust LLM & MLops pipeline solutions that leverage the capabilities of Artificial Intelligence
-### technical person that talks human
-At heart, I'm a technical individual, but I can seamlessly switch to non-technical language when needed.
-
-Apart from being a technical individual, but I can seamlessly switch to non-technical language when needed. 
+My goal now is to grow and apply my technical expertise as a Data Engineer to build robust LLM & MLops pipeline solutions that leverage the capabilities of Artificial Intelligence 🤖.
 
 ## Relevant Skills
 `-`
