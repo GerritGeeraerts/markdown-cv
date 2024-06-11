@@ -42,8 +42,9 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
-- **Skills**: **Python**,Sklearn, XGboost, Catboost, SpaCy, Transformers, AWS, **Azure**, GCP, Airflow, Pytest, Azure Devops, Terraform, 
-Kafka, SQS, Spark, Kubernetes, GPT, **LLM** & **ML Ops**, Gen AI, Langchain, RAG, Selenium, Playwright, Scrapy
+- **Skills**: **Python**,Sklearn, XGboost, Catboost, SpaCy, Transformers, AWS, **Azure**, GCP, Airflow, Pytest, 
+Terraform, Kafka, SQS, PySpark, Kubernetes, GPT, **LLM** & **ML Ops**, Gen AI, Langchain, RAG, Selenium, 
+- Playwright, Scrapy, MLflow, FastAPI, Streamlit, **Docker**, **Git**, **SQL**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Schaarbeek, Belgium
@@ -58,7 +59,8 @@ Kafka, SQS, Spark, Kubernetes, GPT, **LLM** & **ML Ops**, Gen AI, Langchain, RAG
 - **Modern Inventory Management**: We developed an automated inventory system that hooked in to SQL database of lansweeper for improving asset management and oversight.
 - **Give Trainings**: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
 - **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
-- **Skills**: **Python**, Django, Docker, Selenium, Jamf, Apple School Manager, Azure AD, Git, Soap, Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, Intune, Lansweeper, SQL
+- **Skills**: **Python**, Django, **Docker**, Selenium, Jamf, Apple School Manager, **Azure Cloud** AD, Git, Soap, 
+Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, Intune, Lansweeper, **SQL**
 
 `2019 - Nu` <span style="font-size:1.2em;">**Home projects**</span>
 - **Crypto bots**: Sentiment analysis for optimal trading.
@@ -66,7 +68,8 @@ Kafka, SQS, Spark, Kubernetes, GPT, **LLM** & **ML Ops**, Gen AI, Langchain, RAG
 - **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
 - **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
-- **Skills**: **Python**, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Scrapy, Celery, Redis, Proxmox VM
+- **Skills**: **Python**, Django, **Docker**, **Linux**, **Git**, Rest API, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
+Proxmox VM, **SQLLite**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2014 - 2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
