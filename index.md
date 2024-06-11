@@ -6,7 +6,14 @@ title: Gerrit Geeraerts's CV
 # Gerrit Geeraerts
 Bridging the gap between today's programming and tomorrow's AI, while deeply rooted in the open-source community's collaborative spirit.  
 
-<div id="webaddress"><a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile">🔗 Ask Ubuntu</a> | <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile">🔗 Stack Overflow</a> | <a href="https://github.com/GerritGeeraerts">🔗 GitHub</a> | <a href="https://www.linkedin.com/in/gerrit-geeraerts/">🔗 LinkedIn</a> | <a href="mailto:ggeeraer@gmail.com">✉️ ggeeraer@gmail.com</a> | 🪪 Driving License B</div>
+<div id="webaddress">
+  <a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile" target="_blank">🔗 Ask Ubuntu</a> |
+  <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile" target="_blank">🔗 Stack Overflow</a> |
+  <a href="https://github.com/GerritGeeraerts" target="_blank">🔗 GitHub</a> |
+  <a href="https://www.linkedin.com/in/gerrit-geeraerts/" target="_blank">🔗 LinkedIn</a> |
+  <a href="mailto:ggeeraer@gmail.com" target="_blank">✉️ ggeeraer@gmail.com</a> |
+  🪪 Driving License B
+</div>
 
 ## Education
 `2005-2008` <span style="font-size:1.2em;">**Professional Bachelor's in ICT**</span>, KaHo Sint-Lieven, Ghent, Belgium
@@ -47,7 +54,7 @@ Terraform, Kafka, SQS, PySpark, Kubernetes, GPT, **LLM** & **ML Ops**, Gen AI, L
 Playwright, Scrapy, MLflow, FastAPI, Streamlit, **Docker**, **Git**, **SQL**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
-`2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Schaarbeek, Belgium
+`2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Brakel, Belgium
 - I volunteered at Viso Cor Mariae, a school where they did not have anyone for IT. I analyzed their IT infrastructure, created a roadmap, and started implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
 - **Skills**: **Azure**, **Cloud** Infrastructure
 
