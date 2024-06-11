@@ -7,11 +7,11 @@ title: Gerrit Geeraerts's CV
 Bridging the gap between today's programming and tomorrow's AI, while deeply rooted in the open-source community's collaborative spirit.  
 
 <div id="webaddress">
-  <a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile" target="_blank">🔗 Ask Ubuntu</a> |
-  <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile" target="_blank">🔗 Stack Overflow</a> |
-  <a href="https://github.com/GerritGeeraerts" target="_blank">🔗 GitHub</a> |
   <a href="https://www.linkedin.com/in/gerrit-geeraerts/" target="_blank">🔗 LinkedIn</a> |
   <a href="mailto:ggeeraer@gmail.com" target="_blank">✉️ ggeeraer@gmail.com</a> |
+  <a href="https://github.com/GerritGeeraerts" target="_blank">🔗 GitHub</a> |
+  <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile" target="_blank">🔗 Stack Overflow</a> |
+  <a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile" target="_blank">🔗 Ask Ubuntu</a> |
   🪪 Driving License B
 </div>
 
