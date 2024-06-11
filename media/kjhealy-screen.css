@@ -188,7 +188,10 @@ strong {
 h2+ul {
     margin-top: 2px;
 }
-
+ul li > strong:first-of-type {
+  color: #2e2e2e;
+  font-style: normal;
+}
 
 /*
 @media only screen and (max-width: 480px) {
