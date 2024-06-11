@@ -37,7 +37,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Soft Skills**: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
 
 ## Experience
-`2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
+`2024/1>8` <span style="font-size:1.2em;">**Data Engineer**</span>, Becode, Ghent, Belgium
 - **Credit Card Churning**: Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels.
 - **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
