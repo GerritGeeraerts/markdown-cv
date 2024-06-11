@@ -10,12 +10,13 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 
 ## Education
-`2005-2008` **Professional Bachelor's in ICT**, KaHo Sint-Lieven, Ghent, Belgium
-`1999-2005` **Industrial Sciences**, Don Bosco, Halle, Belgium
+`2005-2008` <span style="font-size:1.2em;">**Professional Bachelor's in ICT**</span>, KaHo Sint-Lieven, Ghent, Belgium
+`1999-2005` <span style="font-size:1.2em;">**Industrial Sciences**</span>, Don Bosco, Halle, Belgium
+`2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
+`2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
 
 ## About Me
 `-`
-### passionate for 30 years
 I first got in touch with computers when I was 7 years old, Windows 3.11 in the full 16 colors, magical! Since then, 
 I have been passionate about technology. With a core value to leverage the abilities of computers to make our lives more 
 productive. I have been personally inspired by this for over 30 years, working on numerous home projects. 
@@ -31,6 +32,7 @@ I am a generalist with a broad interest range.
 
 My goal now is to grow and apply my technical expertise as a Data Engineer to build robust LLM & MLops pipeline 
 solutions that leverage the capabilities of Artificial Intelligence.
+
 ## Relevant Skills
 `-`
 - **Languages**: Mother Tongue in Dutch, very good English, very good French
