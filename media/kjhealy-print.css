@@ -191,6 +191,9 @@ strong {
 h2+ul {
     margin-top: 2px;
 }
-
+ul li > strong:first-of-type {
+  color: #560101;
+  font-style: normal;
+}
 
 
