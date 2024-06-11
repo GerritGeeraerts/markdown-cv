@@ -14,11 +14,6 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 `1999-2005` <span style="font-size:1.2em;">**Industrial Sciences**</span>, Don Bosco, Halle, Belgium
 
-`2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
-a
-`2024/1>8` <span style="font-size:1.2em;">**Data Analyst / Engineer**</span>, Becode, Ghent, Belgium
-_
-
 ## About Me
 `-`
 I first got in touch with computers when I was 7 years old, Windows 3.11 in the full 16 colors, magical! Since then, 
