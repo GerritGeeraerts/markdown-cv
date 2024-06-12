@@ -49,14 +49,14 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
-- **Skills**: **Python**,Sklearn, XGboost, Catboost, SpaCy, Transformers, AWS, **Azure**, GCP, Airflow, Pytest, 
-Terraform, Kafka, SQS, PySpark, Kubernetes, GPT, **LLM** & **ML Ops**, Gen AI, Langchain, RAG, Selenium, 
-Playwright, Scrapy, MLflow, FastAPI, Streamlit, **Docker**, **Git**, **SQL**
+- **Skills**: **Python**,Sklearn, Transformers, AWS, **Azure**, GCP, Airflow, **Pytest**, 
+Terraform, Kafka, SQS, PySpark, Kubernetes, **GPT**, **LLM** & **ML Ops**, Gen AI, **Langchain**, **RAG**, Selenium, 
+Playwright, Scrapy, MLflow, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Brakel, Belgium
 - I volunteered at Viso Cor Mariae, a school where they did not have anyone for IT. I analyzed their IT infrastructure, created a roadmap, and started implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
-- **Skills**: **Azure**, **Cloud** Infrastructure
+- **Skills**: **Azure Cloud**
 
 `2019-2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium
 - **Digitalizing Education**: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms.
@@ -66,7 +66,7 @@ Playwright, Scrapy, MLflow, FastAPI, Streamlit, **Docker**, **Git**, **SQL**
 - **Modern Inventory Management**: We developed an automated inventory system that hooked in to SQL database of lansweeper for improving asset management and oversight.
 - **Give Trainings**: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
 - **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
-- **Skills**: **Python**, Django, **Docker**, Selenium, Jamf, Apple School Manager, **Azure Cloud** AD, Git, Soap, 
+- **Skills**: **Python**, **Django**, **Docker**, Selenium, Jamf, Apple School Manager, **Azure Cloud** AD, **Git**, Soap, 
 Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, Intune, Lansweeper, **SQL**
 
 `2019-Nu` <span style="font-size:1.2em;">**Home projects**</span>
@@ -75,7 +75,7 @@ Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, In
 - **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
 - **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
-- **Skills**: **Python**, Django, **Docker**, **Linux**, **Git**, Rest API, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
+- **Skills**: **Python**, **Django**, **Docker**, **Linux**, **Git**, **Rest API**, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
 Proxmox VM, **SQLLite**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
