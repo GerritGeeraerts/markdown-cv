@@ -36,7 +36,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 ## Skills
 `-`
 - **Languages**: Mother Tongue in Dutch, very good English, very good French
-- **Soft Skills**: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
+- **Soft Skills**: 	**Team player**, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
 
 ## Experience
 `2024/1>8` <span style="font-size:1.2em;">**Data Engineer Trainee**</span>, Becode, Ghent, Belgium
@@ -44,7 +44,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
-- **Skills**: **Python**, Sklearn, Transformers, AWS, **Azure**, GCP, Airflow, **Pytest**, 
+- **Skills**: **Python**, Sklearn, AWS, **Azure**, GCP, Airflow, **Pytest**, 
 Terraform, Kafka, SQS, PySpark, Kubernetes, **GPT**, **LLM** & ML Ops, Gen AI, **Langchain**, **Agents**, **RAG**, Selenium, 
 Playwright, Scrapy, MLflow, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
@@ -62,7 +62,7 @@ Playwright, Scrapy, MLflow, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**
 - **Give Trainings**: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
 - **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
 - **Skills**: **Python**, **Django**, **Docker**, Selenium, Jamf, Apple School Manager, **Azure Cloud** AD, **Git**, Soap, 
-DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, Intune, Lansweeper, **SQL**, **HTML, CSS**
+DHCP, DNS, Firewall, VLAN, Switches, Powershell, Local AD, Intune, Lansweeper, **SQL**, **HTML, CSS**
 
 `2019-Nu` <span style="font-size:1.2em;">**Home projects**</span>
 - **Crypto bots**: Sentiment analysis for optimal trading.
@@ -93,7 +93,7 @@ Proxmox VM, SQLLite
 - **Skills**: .NET, SQL, **HTML**, **CSS**, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment]
 
 ## Education
-`2005-2008` <span style="font-size:1.2em;">**Professional Bachelor's in ICT**</span>, KaHo Sint-Lieven, Ghent, Belgium
+`2005-2008` <span style="font-size:1.2em;">**Professional Bachelor ICT**</span>, KaHo Sint-Lieven, Ghent, Belgium
 
 `1999-2005` <span style="font-size:1.2em;">**Industrial Sciences**</span>, Don Bosco, Halle, Belgium
 
