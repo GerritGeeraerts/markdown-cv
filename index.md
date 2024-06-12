@@ -35,23 +35,25 @@ As a person, I am a collaborative team player with a passion for continuous lear
 Motivated, a creative problem-solver, leveraging critical thinking and analytical skills to find robust solutions. 
 I am a generalist with a broad interest range.
 
-My goal now is to grow and apply my technical expertise as a Data Engineer to build robust **LLM** & MLops pipeline 
+[//]: # (My goal now is to grow and apply my technical expertise as a Data Engineer to build robust **LLM** & MLops pipeline )
+[//]: # (solutions that leverage the capabilities of Artificial Intelligence.)
+My goal now is to grow and apply my technical expertise as a Data Engineer to build robust **Large Language Model** and **Machine Learning** 
 solutions that leverage the capabilities of Artificial Intelligence.
 
 ## Relevant Skills
 `-`
-- **Languages**: Mother Tongue in Dutch, very good English, very good French
-- **Soft Skills**: 	Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
+- **Languages**: Mother Tongue in Dutch, very good **English**, very good French
+- **Soft Skills**: 	Team player, eager to learn and teach, motivated, calm and thoughtful, **creative**, critical thinking, problem-solving, **analytic**.
 
 ## Experience
 `2024/1>8` <span style="font-size:1.2em;">**Data Engineer Trainee**</span>, Becode, Ghent, Belgium
-- **Credit Card Churning**: Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels.
+- **Credit Card Churning**: **Azure ML** Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels.
 - **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
-- **Skills**: **Python**,Sklearn, Transformers, AWS, **Azure**, GCP, Airflow, **Pytest**, 
-Terraform, Kafka, SQS, PySpark, Kubernetes, **GPT**, **LLM** & **ML Ops**, Gen AI, **Langchain**, **RAG**, Selenium, 
-Playwright, Scrapy, MLflow, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**
+- **Skills**: **Python**,Sklearn, Transformers, AWS, **Azure**, GCP, Airflow, Pytest, 
+Terraform, Kafka, SQS, PySpark, Kubernetes, **GPT**, **LLM** & **ML Ops**, Gen AI, Langchain, RAG, Selenium, 
+Playwright, Scrapy, MLflow, FastAPI, Streamlit, Docker, Git, SQL, **Natural language processing**, **Data preprocessing**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Brakel, Belgium
@@ -61,13 +63,13 @@ Playwright, Scrapy, MLflow, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**
 `2019-2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium
 - **Digitalizing Education**: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms.
 - **Account management / synchronization / SSO**
-- **Cloud Migration**: Migrating from a hybrid environment to Azure cloud only environment.
+- **Cloud Migration**: Migrating from a hybrid environment to **Azure** cloud only environment.
 - **Application Self-Service**: I created a tool to streamline the creation of Intune packages, enabling users to install software through a self-service portal.
 - **Modern Inventory Management**: We developed an automated inventory system that hooked in to SQL database of lansweeper for improving asset management and oversight.
 - **Give Trainings**: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
 - **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
-- **Skills**: **Python**, **Django**, **Docker**, Selenium, Jamf, Apple School Manager, **Azure Cloud** AD, **Git**, Soap, 
-Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, Intune, Lansweeper, **SQL**
+- **Skills**: **Python**, Django, Docker, Selenium, Jamf, Apple School Manager, **Azure** Cloud AD, Git, Soap, 
+Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, Intune, Lansweeper, SQL
 
 `2019-Nu` <span style="font-size:1.2em;">**Home projects**</span>
 - **Crypto bots**: Sentiment analysis for optimal trading.
@@ -75,8 +77,8 @@ Apple ID, DHCP, DNS, Firewall, VLAN, Routers, Switches, Powershell, Local AD, In
 - **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
 - **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
-- **Skills**: **Python**, **Django**, **Docker**, **Linux**, **Git**, **Rest API**, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
-Proxmox VM, **SQLLite**
+- **Skills**: **Python**, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
+Proxmox VM, SQLLite
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2014-2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
