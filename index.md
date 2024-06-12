@@ -15,11 +15,6 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
   🪪 Driving License B
 </div>
 
-## Education
-`2005-2008` <span style="font-size:1.2em;">**Professional Bachelor's in ICT**</span>, KaHo Sint-Lieven, Ghent, Belgium
-
-`1999-2005` <span style="font-size:1.2em;">**Industrial Sciences**</span>, Don Bosco, Halle, Belgium
-
 ## About Me
 `-`
 I first got in touch with computers when I was 7 years old, Windows 3.11 in the full 16 colors, magical! Since then, 
@@ -96,6 +91,11 @@ Proxmox VM, SQLLite
 - Writing a user story and developing a workflow tool for sales, laborants, customers and administration department.
 - IT infrastructure management and support together with the central IT department. 
 - **Skills**: .NET, SQL, **HTML**, **CSS**, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment]
+
+## Education
+`2005-2008` <span style="font-size:1.2em;">**Professional Bachelor's in ICT**</span>, KaHo Sint-Lieven, Ghent, Belgium
+
+`1999-2005` <span style="font-size:1.2em;">**Industrial Sciences**</span>, Don Bosco, Halle, Belgium
 
 <!-- ### Footer
 
