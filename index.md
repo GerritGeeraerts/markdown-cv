@@ -30,7 +30,7 @@ As a person, I am a collaborative team player with a passion for continuous lear
 Motivated, a creative problem-solver, leveraging critical thinking and analytical skills to find robust solutions. 
 I am a generalist with a broad interest range.
 
-My goal now is to grow and apply my technical expertise as a Data Engineer to build robust **LLM** & MLops pipeline 
+My goal now is to grow and apply my technical expertise as a Data Engineer to build robust **LLM**ops 
 solutions that leverage the capabilities of Artificial Intelligence.
 
 ## Skills
