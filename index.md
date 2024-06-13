@@ -33,11 +33,6 @@ I am a generalist with a broad interest range.
 My goal now is to grow and apply my technical expertise as a Data Engineer to build robust **LLM**ops 
 solutions that leverage the capabilities of Artificial Intelligence.
 
-## Skills
-`-`
-- **Languages**: Mother Tongue in Dutch, very good English, very good French
-- **Soft Skills**: 	**Team player**, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
-
 ## Experience
 `2024/1>8` <span style="font-size:1.2em;">**Data Engineer Trainee**</span>, Becode, Ghent, Belgium
 - **Credit Card Churning**: Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels.
@@ -45,7 +40,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
 - **Skills**: **Python**, Sklearn, AWS, **Azure**, GCP, Airflow, **Pytest**, 
-Terraform, Kafka, SQS, PySpark, Kubernetes, **GPT**, ML &**LLM**Ops, **Langchain**, **Agents**, **RAG**, Selenium, 
+Terraform, Kafka, SQS, PySpark, Kubernetes, **GPT**, ML & **LLM**Ops, **Langchain**, **Agents**, **RAG**, Selenium, 
 Playwright, Scrapy, MLflow, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**, **graph databases**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
@@ -62,7 +57,7 @@ Playwright, Scrapy, MLflow, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**
 - **Give Trainings**: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
 - **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
 - **Skills**: **Python**, **Django**, **Docker**, Selenium, Jamf, Apple School Manager, **Azure Cloud** AD, **Git**, Soap, 
-DHCP, DNS, Firewall, VLAN, Switches, Powershell, Local AD, Intune, Lansweeper, **SQL**, **HTML, CSS**
+DHCP, DNS, Firewall, VLAN, Switches, Powershell, Local AD, Intune, Lansweeper, **SQL**, HTML, CSS
 
 `2019-Nu` <span style="font-size:1.2em;">**Home projects**</span>
 - **Crypto bots**: Sentiment analysis for optimal trading.
@@ -70,7 +65,7 @@ DHCP, DNS, Firewall, VLAN, Switches, Powershell, Local AD, Intune, Lansweeper, *
 - **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
 - **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
-- **Skills**: **Python**, **Django**, **Docker**, Linux, **Git**, **Rest API, HTML, CSS**, Selenium, Scrapy, Celery, Redis, 
+- **Skills**: **Python**, **Django**, **Docker**, Linux, **Git**, **Rest API**, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
 Proxmox VM, SQLLite
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
@@ -90,7 +85,13 @@ Proxmox VM, SQLLite
 `2009-2010` <span style="font-size:1.2em;">**Chief employee IT**</span>, University Ghent, Belgium  
 - Writing a user story and developing a workflow tool for sales, laborants, customers and administration department.
 - IT infrastructure management and support together with the central IT department. 
-- **Skills**: .NET, SQL, **HTML**, **CSS**, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment]
+- **Skills**: .NET, SQL, HTML, CSS, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment]
+
+## Other Skills
+`-`
+- **Languages**: Mother Tongue in Dutch, very good English, very good French
+- **Soft Skills**: 	**Team player**, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
+
 
 ## Education
 `2005-2008` <span style="font-size:1.2em;">**Professional Bachelor ICT**</span>, KaHo Sint-Lieven, Ghent, Belgium
