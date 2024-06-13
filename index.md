@@ -41,7 +41,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
 - **Skills**: **Python**, Sklearn, AWS, **Azure**, GCP, Airflow, **Pytest**, 
 Terraform, Kafka, SQS, PySpark, Kubernetes, **GPT**, ML & **LLM**Ops, **Langchain**, **Agents**, **RAG**, Selenium, 
-Playwright, Scrapy, MLflow, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**, **graph databases**
+Playwright, Scrapy, **MLflow**, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**, **graph databases**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Brakel, Belgium

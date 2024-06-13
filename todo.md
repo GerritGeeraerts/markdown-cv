@@ -1,0 +1,2 @@
+TODO https://jobs.ml6.eu/jobs/3583292-data-engineer
+TODO https://emplois.be.indeed.com/viewjob?jk=bd81fe6749ccbfb5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic # as intern
