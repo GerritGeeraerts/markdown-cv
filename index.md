@@ -63,7 +63,7 @@ DHCP, DNS, Firewall, VLAN, Switches, Powershell, Local AD, Intune, Lansweeper, *
 - **Crypto bots**: Sentiment analysis for optimal trading.
 - **YouTube caption search**: Search within your subscribed content.
 - **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
-- **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
+- **[Liquidity] pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
 - **Skills**: **Python**, **Django**, **Docker**, Linux, **Git**, **Rest API**, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
 Proxmox VM, SQLite
@@ -97,6 +97,9 @@ Proxmox VM, SQLite
 `2005-2008` <span style="font-size:1.2em;">**Professional Bachelor ICT**</span>, KaHo Sint-Lieven, Ghent, Belgium
 
 `1999-2005` <span style="font-size:1.2em;">**Industrial Sciences**</span>, Don Bosco, Halle, Belgium
+
+## Hobbies
+Hiking with or without a tent, Renovating, DIY projects, Running, Mountain biking, Dancing, Exploring new Tech.
 
 <!-- ### Footer
 
