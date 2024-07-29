@@ -24,7 +24,7 @@
 		- A tool that connects to your gmail and send you a report of all the unsubscribe links.  
 	- Liquidity pool sniper bot  
 		- A tool that snipes for new liquidity pools and tries to get in first to get the best yield.  
-	- [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API**]  
+	- [**Python, Django, Docker, Linux, HTML, CSS, Git, Selenium, Rest API, LLM**]  
 	-  
 - `2019 - Nu` **ICT Medewerker**, Kasterlinden, Sint-Agatha-Berchem  
 - Ipad project:   

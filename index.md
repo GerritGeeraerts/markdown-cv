@@ -66,7 +66,7 @@ DHCP, DNS, Firewall, VLAN, Switches, Powershell, Local AD, Intune, Lansweeper, *
 - **[Liquidity] pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
 - **Skills**: **Python**, **Django**, **Docker**, Linux, **Git**, **Rest API**, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
-Proxmox VM, SQLite
+Proxmox VM, SQLite, **LLM**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2014-2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
@@ -90,7 +90,7 @@ Proxmox VM, SQLite
 ## Other Skills
 `-`
 - **Languages**: Mother Tongue in Dutch, very good English, very good French
-- **Soft Skills**: 	**Team player**, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.
+- **Soft Skills**: 	**Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.**
 
 
 ## Education
@@ -99,7 +99,7 @@ Proxmox VM, SQLite
 `1999-2005` <span style="font-size:1.2em;">**Industrial Sciences**</span>, Don Bosco, Halle, Belgium
 
 ## Hobbies
-Hiking with or without a tent, Renovating, DIY projects, Running, Mountain biking, Dancing, Exploring new Tech.
+Hiking w/wo tent, Renovating, DIY projects, Running, Mountain biking, Dancing, Exploring new Tech.
 
 <!-- ### Footer
 
