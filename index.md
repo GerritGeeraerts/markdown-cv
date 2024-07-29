@@ -40,7 +40,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
 - **Skills**: **Python**,
-  [//]: # ( Sklearn, AWS, **Azure**, GCP, Airflow, **Pytest**, )
+  <!--Sklearn-->, AWS, **Azure**, GCP, Airflow, **Pytest**, )
   Terraform, Kafka, SQS, PySpark, Kubernetes, **GPT**, ML & **LLM**Ops, **NLP**, **Agents**, **RAG**, Selenium, 
   Playwright, Scrapy, **MLflow**, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**, **graph databases**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
