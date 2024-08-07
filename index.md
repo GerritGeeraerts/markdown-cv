@@ -39,9 +39,13 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
-- **Skills**: **Python**<!--, Sklearn-->, AWS, **Azure**, Airflow, **Pytest**
-  Terraform<!--, Kafka-->, PySpark, Kubernetes, **GPT**, ML & **LLM**Ops, **NLP**, **Agents**, **RAG**, Selenium, 
-  Playwright, Scrapy, **MLflow**, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**, **Graph Databases**
+- **Skills**: *Python**, **SQL**, Graph Databases, Docker, Git
+  - **Model Training & Deployment**: Sklearn, Catboost, MLflow, **Azure Machine Learning**, **PyTorch**, Airflow, 
+    Terraform, Streamlit, FastAPI
+  - **LLM**: **GPT**, **RAG**, NLP
+<!--- **Python**, Sklearn-->, AWS, **Azure**, Airflow, **Pytest**
+  Terraform<!--, Kafka-->, PySpark, Kubernetes, **GPT**, ML & **LLM**Ops, **NLP**, **Agents**, **RAG**,<!-- Selenium,
+  Playwright, Scrapy-->, **MLflow**, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**, **Graph Databases**,-->
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Brakel, Belgium
@@ -56,7 +60,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Modern Inventory Management**: We developed an automated inventory system that hooked in to SQL database of lansweeper for improving asset management and oversight.
 - **Give Trainings**: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
 - **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
-- **Skills**: **Python**, **Django**, **Docker**, Selenium, <!--, Jamf-->, Apple School Manager, **Azure Cloud** AD, **Git**<!--, Soap-->, LLM, Networking
+- **Skills**: **Python**, Django, Docker, Selenium, <!--, Jamf-->, Apple School Manager, **Azure Cloud** AD, Git<!--, Soap-->, **LLM**, Networking
 <!--DHCP, DNS, Firewall, VLAN, Switches-->, Powershell, Local AD, Intune, Lansweeper, **SQL**, HTML, CSS
 
 `2019-Nu` <span style="font-size:1.2em;">**Home projects**</span>
@@ -65,7 +69,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
 - **[Liquidity] pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
-- **Skills**: **Python**, **Django**, **Docker**, Linux, **Git**, **Rest API**, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
+- **Skills**: **Python**, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
 Proxmox VM, SQLite, **LLM**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
