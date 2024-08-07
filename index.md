@@ -67,7 +67,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Crypto bots**: Sentiment analysis for optimal trading.
 - **YouTube caption search**: Search within your subscribed content.
 - **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
-- **[Liquidity] pool sniper**: Detects and invests in new liquidity pools for optimal yields.
+- **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
 - **Skills**: **Python**, Django, Docker, Linux, Git, **SQL**, Rest API, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
 Proxmox VM, **SQL**, **LLM**
