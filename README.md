@@ -14,7 +14,7 @@
     
   `2005-2008` **Professionele Bachelor ICT**, KaHo Sint-Lieven, Ghent  
 - `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle  
-- ## Expierience  
+- ## Experience  
 - `2019 - Nu` **Home projects**  
 	- Crypto currency trading bot  
 		- A tool that perform a sentiment analysis to accumulate crypto currencies at the best time.  
