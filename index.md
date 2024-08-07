@@ -70,7 +70,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **[Liquidity] pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
 - **Skills**: **Python**, Django, Docker, Linux, Git, Rest API, HTML, CSS, Selenium, Scrapy, Celery, Redis, 
-Proxmox VM, SQLite, **LLM**
+Proxmox VM, **SQL**, **LLM**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2014-2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
@@ -78,7 +78,7 @@ Proxmox VM, SQLite, **LLM**
 - **Exchange**: Managing generic mailboxes and a self-service tool.
 - **Network**: Managing the lan, Wi-Fi, firewalls and setting up new stores.
 - **Support**: First and second line support.
-- **Skills**: Firewall, Powershell, Switches, DHCP, DNS, Wlan, AD, Confluence, MS exchange, Kanban, Scrum
+- **Skills**: Firewall, Powershell, Switches, DHCP, DNS, Wlan, AD, Confluence, MS exchange,**SQL**, Kanban, Scrum
 
 `2011-2014` <span style="font-size:1.2em;">**Sales Digital world**</span>, Metro Group, Sint-Pieters-Leeuw, Belgium  
 - Creating a great customer experience, listening to the needs of the customer and translating it to the correct product.
@@ -89,7 +89,7 @@ Proxmox VM, SQLite, **LLM**
 `2009-2010` <span style="font-size:1.2em;">**Chief employee IT**</span>, University Ghent, Belgium  
 - Writing a user story and developing a workflow tool for sales, laborants, customers and administration department.
 - IT infrastructure management and support together with the central IT department. 
-- **Skills**: .NET, SQL, HTML, CSS, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment]
+- **Skills**: .NET, **SQL**, HTML, CSS, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment
 
 ## Other Skills
 `-`
