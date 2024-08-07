@@ -40,9 +40,9 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
 - **Skills**: *Python**, **SQL**, Graph Databases, Docker, Git
-  * **Model Training & Deployment**: Sklearn, Catboost, MLflow, **Azure Machine Learning**, **PyTorch**, Airflow, 
+  **Model Training & Deployment**: Sklearn, Catboost, MLflow, **Azure Machine Learning**, **PyTorch**, Airflow, 
     Terraform, Streamlit, FastAPI
-  * **LLM**: **GPT**, **RAG**, NLP
+  **LLM**: **GPT**, **RAG**, NLP
 <!--- **Python**, Sklearn-->, AWS, **Azure**, Airflow, **Pytest**
   Terraform<!--, Kafka-->, PySpark, Kubernetes, **GPT**, ML & **LLM**Ops, **NLP**, **Agents**, **RAG**,<!-- Selenium,
   Playwright, Scrapy-->, **MLflow**, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**, **Graph Databases**,-->
