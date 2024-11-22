@@ -34,22 +34,30 @@ My goal now is to grow and apply my technical expertise as a Data Engineer to bu
 solutions that leverage the capabilities of Artificial Intelligence.
 
 ## Experience
-`2024/1>8` <span style="font-size:1.2em;">**Data Engineer Trainee**</span>, Becode, Ghent, Belgium
+
+`2024` <span style="font-size:1.2em;">**LLM Engineer**</span>, SUMSUM (Cronos), Leuven, Belgium
+- As part of my becode training I completed my 3-month internship at SUMSUM. 
+- **RAG Demo For Customers**: An easy to set up demo for customers to let them chat with their own documents and 
+  website(s).
+- **Project Manager Assistant**: A chatbot that generates reports for statuses of projects.  
+- **Skills**: **Python**, **LLM**, **RAG**, **GPT**, Git, Langchain, Langgraph, Langsmith, Ragas, Streamlit, Docker
+  Elasticsearch, AWS: Bedrock, S3, Opensearch, EC2
+
+`2024` <span style="font-size:1.2em;">**Data Engineer Trainee**</span>, Becode, Ghent, Belgium
+- A full time 6-month AI training with a focus on data engineering:
 - **Credit Card Churning**: Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels.
 - **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
 - **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
-- **Skills**: **Python**, **NLP**, **LLM**, **RAG**, **GPT**, FastAPI, Git
-  <!--- **Python**, Sklearn, AWS, **Azure**, Airflow, **Pytest**
-  Terraform, Kafka, PySpark, Kubernetes, **GPT**, ML & **LLM**Ops, **NLP**, **Agents**, **RAG**, Selenium,
-  Playwright, Scrapy, **MLflow**, **FastAPI**, Streamlit, **Docker**, **Git**, **SQL**, **Graph Databases**,
-  **Python**, **SQL**, Graph Databases, Docker, Git, Sklearn, Catboost, MLflow, **Azure Machine Learning**, **PyTorch**, Airflow, 
-  Terraform, Streamlit, FastAPI, **LLM**: **GPT**, **RAG**, NLP
-  -->
+- **Skills**: **Python**, **NLP**, **LLM**, **RAG**, **GPT**, FastAPI, Git, **Agents**
+- **Skills**: Kubernetes, Selenium, Playwright, ML Ops, Scrapy, MLflow, Streamlit, Docker, SQL, Graph Databases, 
+  Sklearn, Catboost, Azure Cloud, Terraform.
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
-`2024` <span style="font-size:1.2em;">**System Engineer (Volunteer)**</span>, Viso Cor Mariae, Brakel, Belgium
-- To bridge the time I volunteered at Viso Cor Mariae, a school where they did not have anyone for IT. I analyzed their IT infrastructure, created a roadmap, and started implemented solutions. Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
+`2024` <span style="font-size:1.2em;">**System Engineer**</span>, Viso Cor Mariae, Brakel, Belgium
+- To bridge the time until the start of my AI course at Becode, I volunteered at Viso Cor Mariae, a school where they 
+  did not have anyone for IT. I analyzed their IT infrastructure, created a roadmap, and started implemented solutions. 
+  Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
 - **Skills**: **Azure Cloud**
 
 `2019-2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium
@@ -61,7 +69,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Give Trainings**: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
 - **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
 - **Skills**: **Python**, **Django**, Docker, Selenium, <!--, Jamf-->, Apple School Manager, Azure Cloud AD, Git<!--, Soap-->, **LLM**, Networking
-<!--DHCP, DNS, Firewall, VLAN, Switches-->, Powershell, Local AD, Intune, Lansweeper, **SQL**, **HTML**, **CSS**
+- <!--DHCP, DNS, Firewall, VLAN, Switches, -->Powershell, Local AD, Intune, Lansweeper, **SQL**, **HTML**, **CSS**
 
 `2019-Nu` <span style="font-size:1.2em;">**Home projects**</span>
 - **Crypto bots**: Sentiment analysis for optimal trading.
