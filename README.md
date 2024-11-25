@@ -1,7 +1,7 @@
 -  
 ---
   layout: cv  
-  title: Gerrit Geeraerts's CV  
+  title: Gerrit Geeraerts's CV
 ---
 - # Gerrit Geeraerts -  
   Fueled by a passion for programming and the open-source community.  
@@ -10,7 +10,7 @@
   <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
   | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
   </div>
-- ## Education  
+- ## Education
     
   `2005-2008` **Professionele Bachelor ICT**, KaHo Sint-Lieven, Ghent  
 - `1999-2005` **Industriële Wetenschappen**, Don Bosco, Halle  

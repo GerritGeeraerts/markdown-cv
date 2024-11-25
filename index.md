@@ -39,7 +39,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - As part of my becode training I completed my 3-month internship at SUMSUM. 
 - **RAG Demo For Customers**: An easy to set up demo for customers to let them chat with their own documents and 
   website(s).
-- **Project Manager Assistant**: A chatbot that generates reports for statuses of projects.  
+- **Project Manager Assistant**: A chatbot that generates visual reports with projects data.  
 - **Skills**: **Python**, **LLM**, **RAG**, **GPT**, Git, Langchain, Langgraph, Langsmith, Ragas, Streamlit, Docker
   Elasticsearch, AWS: Bedrock, S3, Opensearch, EC2
 
