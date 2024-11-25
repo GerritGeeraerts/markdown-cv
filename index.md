@@ -72,6 +72,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - <!--DHCP, DNS, Firewall, VLAN, Switches, -->Powershell, Local AD, Intune, Lansweeper, **SQL**, **HTML**, **CSS**
 
 `2019-Nu` <span style="font-size:1.2em;">**Home projects**</span>
+- **LLM search assistant**: A multi-agent system that emulates human browsing on a website to find an answer to a user question.
 - **Crypto bots**: Sentiment analysis for optimal trading.
 - **YouTube caption search**: Search within your subscribed content.
 - **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
