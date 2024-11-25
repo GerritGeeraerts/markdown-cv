@@ -40,8 +40,8 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **RAG Demo For Customers**: Building a template for quickly setting up demo's for customers that allow them to chat 
   with their own documents and or website.
 - **Project Manager Assistant**: A chatbot that generates visual reports with projects data.  
-- **Skills**: **Python**, **LLM**, **RAG**, **GPT**, Git, Langchain, Langgraph, Langsmith, Ragas, Streamlit, Docker
-  Elasticsearch, AWS: Bedrock, S3, Opensearch, EC2
+- **Skills**: **Python**, **LLM**, **RAG**, **GPT**, Git, **Langchain**, **Langgraph**, **Langsmith**, **Ragas**, 
+  Streamlit, Docker, **Elasticsearch**, **AWS**: Bedrock, S3, Opensearch, EC2
 
 `2024` <span style="font-size:1.2em;">**Data Engineer Trainee**</span>, Becode, Ghent, Belgium
 - A full time 6-month AI training with a focus on data engineering:
