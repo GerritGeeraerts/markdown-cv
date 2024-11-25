@@ -37,8 +37,8 @@ solutions that leverage the capabilities of Artificial Intelligence.
 
 `2024` <span style="font-size:1.2em;">**LLM Engineer**</span>, SUMSUM (Cronos), Leuven, Belgium
 - As part of my becode training I completed my 3-month internship at SUMSUM. 
-- **RAG Demo For Customers**: An easy to set up demo for customers to let them chat with their own documents and 
-  website(s).
+- **RAG Demo For Customers**: Building a template for quickly setting up demo's for customers that allow them to chat 
+  with their own documents and or website.
 - **Project Manager Assistant**: A chatbot that generates visual reports with projects data.  
 - **Skills**: **Python**, **LLM**, **RAG**, **GPT**, Git, Langchain, Langgraph, Langsmith, Ragas, Streamlit, Docker
   Elasticsearch, AWS: Bedrock, S3, Opensearch, EC2
