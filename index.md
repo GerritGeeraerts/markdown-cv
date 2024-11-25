@@ -79,7 +79,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
 - **Skills**: **Python**, **Django**, **Docker**, Linux, **Git**, **SQL**, Rest API, **HTML**, **CSS**, Selenium, Scrapy, Celery, Redis, 
-Proxmox VM, **SQL**, **LLM**
+Proxmox VM, **SQL**, **LLM**, **Langchain**, **Langgraph**, **Langsmith**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2014-2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
