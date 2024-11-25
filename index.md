@@ -69,7 +69,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Give Trainings**: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
 - **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
 - **Skills**: **Python**, **Django**, Docker, Selenium, <!--, Jamf-->, Apple School Manager, Azure Cloud AD, Git<!--, Soap-->, **LLM**, Networking
-- <!--DHCP, DNS, Firewall, VLAN, Switches, -->Powershell, Local AD, Intune, Lansweeper, **SQL**, **HTML**, **CSS**
+<!--DHCP, DNS, Firewall, VLAN, Switches, --> Powershell, Local AD, Intune, Lansweeper, **SQL**, **HTML**, **CSS**
 
 `2019-Nu` <span style="font-size:1.2em;">**Home projects**</span>
 - **LLM search assistant**: A multi-agent system that emulates human browsing on a website to find an answer to a user question.
