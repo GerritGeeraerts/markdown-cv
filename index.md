@@ -35,7 +35,7 @@ the capabilities of Artificial Intelligence.
 
 ## Experience
 
-`2024` <span style="font-size:1.2em;">**LLM Engineer**</span>, SUMSUM (Cronos), Leuven, Belgium
+`2024` <span style="font-size:1.2em;">**LLM Engineer**</span>, Cronos (SUMSUM), Leuven, Belgium
 - As part of my becode training I completed my 3-month internship at SUMSUM. 
 - **RAG Demo For Customers**: Building a template for quickly setting up demo's for customers that allow them to chat 
   with their own documents and or website.
@@ -51,7 +51,7 @@ the capabilities of Artificial Intelligence.
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
 - **Skills**: **Python**, **NLP**, **LLM**, **RAG**, **GPT**, **FastAPI**, **Git**, **Agents**
 - **Skills**: Kubernetes, Selenium, Playwright, ML Ops, **Scrapy**, **MLflow**, Streamlit, **Docker**, **SQL**, 
-  Graph Databases, Sklearn, Catboost, Azure Cloud, Terraform.
+  Graph Databases, Sklearn, Catboost, **Azure** Cloud, Terraform.
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2024` <span style="font-size:1.2em;">**System Engineer**</span>, Viso Cor Mariae, Brakel, Belgium
