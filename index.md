@@ -35,7 +35,7 @@ the capabilities of Artificial Intelligence.
 
 ## Experience
 
-`2024` <span style="font-size:1.2em;">**LLM Engineer**</span>, Cronos (SUMSUM), Leuven, Belgium
+`2024` <span style="font-size:1.2em;">**AI Engineer**</span>, Cronos (SUMSUM), Leuven, Belgium
 - As part of my becode training I completed my 3-month internship at SUMSUM. 
 - **RAG Demo For Customers**: Building a template for quickly setting up demo's for customers that allow them to chat 
   with their own documents and or website.
