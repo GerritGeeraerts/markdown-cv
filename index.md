@@ -21,17 +21,17 @@ I first got in touch with computers when I was 7 years old, Windows 3.11 in the 
 I have been passionate about technology. With a core value to leverage the abilities of computers to make our lives more 
 productive. I have been personally inspired by this for over 30 years, working on numerous home projects. 
 Professionally, I have about 1 decade of experience in IT. Most of it was as a system engineer, exploring and learning 
-new systems and connecting them through coding. 
+new systems and connecting them through coding and development.
 
-But today, I see more potential in Data & Artificial Intelligence. It has the power to make a bigger difference in our 
-productivity. This inspired me to pursue a training at BeCode as a Data Engineer.
+Today, Data and Artificial Intelligence are revolutionizing the way we work, offering immense potential to enhance 
+productivity. This surge in technology inspired me to pursue training at BeCode as a Data Engineer.
 
 As a person, I am a collaborative team player with a passion for continuous learning and knowledge sharing. 
 Motivated, a creative problem-solver, leveraging critical thinking and analytical skills to find robust solutions. 
 I am a generalist with a broad interest range.
 
-My goal now is to grow and apply my technical expertise as a Data Engineer to build robust solutions that leverage 
-the capabilities of Artificial Intelligence.
+My goal is to continuously expand my technical expertise by learning and integrating the latest technologies to build 
+robust solutions that enhance our productivity and efficiency.
 
 ## Experience
 
