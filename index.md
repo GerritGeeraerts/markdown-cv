@@ -13,6 +13,8 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
   <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile" target="_blank">🔗 Stack Overflow</a> |
   <a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile" target="_blank">🔗 Ask Ubuntu</a> |
   🪪 Driving License B
+  <a href="https://maps.app.goo.gl/9mQ74Ghe6YAb6MLX9"> | 📍 Haaltert</a> 
+  
 </div>
 
 ## About Me
