@@ -44,6 +44,7 @@ robust solutions that enhance our productivity and efficiency.
 - **Project Manager Assistant**: A chatbot that generates visual reports with projects data.  
 - **Skills**: **Python**, **LLM**, **RAG**, **GPT**, **Git**, **Langchain**, **Langgraph**, **Langsmith**, **Ragas**, 
   Streamlit, **Docker**, **Elasticsearch**, **AWS**: Bedrock, S3, Opensearch, EC2
+- **More**: Check out my GitHub for more details about these 2 projects: [GitHub](https://github.com/GerritGeeraerts)
 
 `2024` <span style="font-size:1.2em;">**Data Engineer Trainee**</span>, Becode, Ghent, Belgium
 - A full time 6-month AI training with a focus on data engineering:
@@ -62,7 +63,7 @@ robust solutions that enhance our productivity and efficiency.
   Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
 - **Skills**: **Azure Cloud**
 
-`2019-2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium
+`2019-2023` <span style="font-size:1.2em;">**System Engineer**</span>, VGC, Sint-Agatha-Berchem, Belgium
 - **Digitalizing Education**: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms.
 - **Account management / synchronization / SSO**
 - **Cloud Migration**: Migrating from a hybrid environment to **Azure** cloud only environment.
