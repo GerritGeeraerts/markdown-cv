@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Gerrit Geeraerts's CV
+title: Gerrit Geeraerts
 ---
 
 # Gerrit Geeraerts
