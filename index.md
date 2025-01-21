@@ -37,71 +37,53 @@ robust solutions that enhance our productivity and efficiency.
 
 ## Experience
 
-`2024` <span style="font-size:1.2em;">**AI Engineer**</span>, Cronos (SUMSUM), Leuven, Belgium
-- As part of my becode training I completed my 3-month internship at SUMSUM. 
-- **RAG Demo For Customers**: Building a template for quickly setting up demo's for customers that allow them to chat 
-  with their own documents and or website.
-- **Project Manager Assistant**: A chatbot that generates visual reports with projects data.  
-- **Skills**: **Python**, **LLM**, **RAG**, **GPT**, **Git**, **Langchain**, **Langgraph**, **Langsmith**, **Ragas**, 
-  Streamlit, **Docker**, **Elasticsearch**, **AWS**: Bedrock, S3, Opensearch, EC2
-- **More**: Check out my GitHub for more details about these 2 projects: [GitHub](https://github.com/GerritGeeraerts)
+## Experience
+`2024` <span style="font-size:1.2em;">**AI Engineer, LLM Engineer**</span>, Cronos (SUMSUM)
+- As part of my becode training I completed my 3-month internship at Cronos (SUMSUM) with a focus on Large Language Models.
+- **AI-Powered Sales Enablement Chatbot**: Developed a RAG chatbot to showcase AI capabilities by interacting with business data. Focused on backend development, data interaction, and cost optimization for efficient demos.
+- **Project Manager Assistant Chatbot**: Designed an AI-powered assistant using a multi-agent system for data retrieval and report generation, enhancing data management and pipeline development. [Link: Project Manager Assistant Chatbot](https://github.com/GerritGeeraerts/chat-with-tia)
+- **Skills**: Python, Docker, Linux, Bash, LLM Development
 
-`2024` <span style="font-size:1.2em;">**Data Engineer Trainee**</span>, Becode, Ghent, Belgium
-- A full time 6-month AI training with a focus on data engineering:
-- **Credit Card Churning**: Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels.
-- **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
-- **Immo ML**: Machine Learning project, exploring different models, and building a solid pipeline. 
-- **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
-- **Skills**: **Python**, **NLP**, **LLM**, **RAG**, **GPT**, **FastAPI**, **Git**, **Agents**
-- **Skills**: Kubernetes, Selenium, Playwright, ML Ops, **Scrapy**, **MLflow**, Streamlit, **Docker**, **SQL**, 
-  Graph Databases, Sklearn, Catboost, **Azure** Cloud, Terraform.
-- **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
+`2024` <span style="font-size:1.2em;">**Data Engineer Trainee**</span>, Becode
+- A full-time 6-month AI training with a focus on data engineering.
+- **Credit Card Churning**: Implemented Azure ML infrastructure with Terraform, focusing on cloud resource management and MLOps practices for data pipeline development. [Link: Credit Card Churning](https://github.com/GerritGeeraerts/churning)
+- **Immo Price Prediction App**: Developed a web application using FastAPI and Streamlit, emphasizing backend and frontend development for user interaction. [Link: Immo Price Prediction App](https://github.com/GerritGeeraerts/immo-eliza-app)
+- **Skills**: Azure Cloud, Python, Docker, Linux, Machine Learning Operations
 
-`2024` <span style="font-size:1.2em;">**System Engineer**</span>, Viso Cor Mariae, Brakel, Belgium
-- To bridge the time until the start of my AI course at Becode, I volunteered at Viso Cor Mariae, a school where they 
-  did not have anyone for IT. I analyzed their IT infrastructure, created a roadmap, and started implemented solutions. 
-  Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
-- **Skills**: **Azure Cloud**
+`2024` <span style="font-size:1.2em;">**System Engineer**</span>, Viso Cor Mariae
+- Volunteered to analyze IT infrastructure, create a roadmap, and implement solutions.
+- **IT Infrastructure Analysis**: Conducted IT infrastructure analysis and improvements, focusing on server management and deployment.
+- **Skills**: Azure Cloud, Powershell
 
-`2019-2023` <span style="font-size:1.2em;">**System Engineer**</span>, VGC, Sint-Agatha-Berchem, Belgium
-- **Digitalizing Education**: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms.
-- **Account management / synchronization / SSO**
-- **Cloud Migration**: Migrating from a hybrid environment to **Azure** cloud only environment.
-- **Application Self-Service**: I created a tool to streamline the creation of Intune packages, enabling users to install software through a self-service portal.
-- **Modern Inventory Management**: We developed an automated inventory system that hooked in to SQL database of lansweeper for improving asset management and oversight.
-- **Give Trainings**: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
-- **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
-- **Skills**: **Python**, **Django**, **Docker**, Selenium, <!--, Jamf-->, Apple School Manager, **Azure** Cloud AD, **Git**<!--, Soap-->, **LLM**, Networking
-<!--DHCP, DNS, Firewall, VLAN, Switches, --> Powershell, Local AD, Intune, Lansweeper, **SQL**, **HTML**, **CSS**
+`2019-2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden
+- Worked on digitalizing education and managing IT infrastructure.
+- **Mobile Device Management**: Managed devices and synchronized accounts, emphasizing technical skills in server management and deployment.
+- **Skills**: Python, Docker, Azure Cloud, Powershell
 
-`2019-Nu` <span style="font-size:1.2em;">**Home projects**</span>
-- **LLM search assistant**: A multi-agent system that emulates human browsing on a website to find an answer to a user question.
-- **Crypto bots**: Sentiment analysis for optimal trading.
-- **YouTube caption search**: Search within your subscribed content.
-- **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
-- **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
-- **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
-- **Skills**: **Python**, **Django**, **Docker**, Linux, **Git**, **SQL**, Rest API, **HTML**, **CSS**, Selenium, **Scrapy**, Celery, Redis, 
-Proxmox VM, **SQL**, **LLM**, **Langchain**, **Langgraph**, **Langsmith**
-- **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
+`2019-Present` <span style="font-size:1.2em;">**Developer**</span>, Home Projects
+- Various personal projects involving software development and automation.
+- **LLM Search Assistant**: Developed a multi-agent system integrated with pipelines, focusing on data pipeline development and web applications.
+- **Skills**: Python, FastAPI, Docker, LLM Development
 
-`2014-2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group, Wommelgem, Belgium  
-- **User management**: Migrating from generic accounts to personal accounts, automating creation of user accounts and generating documentation. 
-- **Exchange**: Managing generic mailboxes and a self-service tool.
-- **Network**: Managing the lan, Wi-Fi, firewalls and setting up new stores.
-- **Support**: First and second line support.
-- **Skills**: Firewall, Powershell, Switches, DHCP, DNS, Wlan, AD, Confluence, MS exchange,**SQL**, Kanban, Scrum
+`2014-2018` <span style="font-size:1.2em;">**System Engineer**</span>, Metro Group
+- Managed IT infrastructure and provided support.
+- **User Management**: Automated user account creation, focusing on backend development and server management.
+- **Skills**: Powershell
 
-`2011-2014` <span style="font-size:1.2em;">**Sales Digital world**</span>, Metro Group, Sint-Pieters-Leeuw, Belgium  
-- Creating a great customer experience, listening to the needs of the customer and translating it to the correct product.
+`2011-2014` <span style="font-size:1.2em;">**Sales Digital World**</span>, Metro Group
+- Sales role focused on creating a great customer experience.
+- **Sales**: Developed communication skills and understanding of user needs, relevant to communication with product owners and end-users.
+- **Skills**: Communicating with Customers (Sales, Customer Service)
 
-`2012` <span style="font-size:1.2em;">**Teacher ICT**</span>, GLTT, Halle, Belgium  
-- I love breaking down information into small and easy to understand concepts which makes it easy to understand for students.
+`2012` <span style="font-size:1.2em;">**Teacher ICT**</span>, GLTT
+- Teaching ICT concepts.
+- **Teaching**: Simplified complex information, relevant to communication and support of end-users.
+- **Skills**: Communication
 
-`2009-2010` <span style="font-size:1.2em;">**Chief employee IT**</span>, University Ghent, Belgium  
-- Writing a user story and developing a workflow tool for sales, laborants, customers and administration department.
-- IT infrastructure management and support together with the central IT department. 
-- **Skills**: .NET, **SQL**, HTML, CSS, Firewall, switches, DHCP, DNS, Wlan, AD, DNS, Deployment
+`2009-2010` <span style="font-size:1.2em;">**Chief Employee IT**</span>, University Ghent
+- Managed IT infrastructure and developed a workflow tool.
+- **Workflow Tool Development**: Developed a workflow tool, focusing on backend software development and user interaction.
+- **Skills**: SQL
 
 ## Other Skills
 `-`
