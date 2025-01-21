@@ -369,37 +369,20 @@ but if a skill are not relevant at all and not group or rename than you can remo
 Maintain overview of the larger picture, all these examples where about isolated skills, but you should always look
 at the larger picture and see if the skills are relevant in the context of the job vacancy.
 
-# Experience description Strategies
+# Project description Strategies
 For each Project description determine how it is relevant to the job vacancy, and provide quotes form the job vacancy that emphasizes the relevant parts of project description to the job vacancy.
 For each Project description determine how it is maybe not relevant to the job vacancy, and provide evidence why it is not
 Provide a strategy for rewriting the project making it more on target with the job vacancy, sometimes it is not possible to make it more on target, than fall back strategy to rewrite shorter and more concise for less relevant projects.
 
 #Output Format:
 
-The output should be in markdown format and follow the style below:
+The output should contain 2 lists:
 
-## Experience
-`{{date}}` <span style="font-size:1.2em;">**{{role}}**</span>, {{company}}
-- {{description}}
-- **{{project title}}**: {{project description}}, [Link: {{project title}}]({{url}})
-    Project description strategy:
-        relevant parts of the project description:
-            {{what parts of the project description are relevant + evidence}}
-        irrelevant parts of the project description:
-            {{what parts of the project description are not relevant + evidence}}
-        Strategy for rewriting the project description:
-            {{Strategy for rewriting the project description making it more on target with the job vacancy}}
-- {{Repeat this for each project}}
-- **Skills**: {{all skills used in this experience and projects}}
-    Skill Strategy
-        What skills are relevant
-            {{relevant skills + evidence}}
-        What skills are not relevant
-            {{irrelevant skills + evidence}}
-        strategy for renaming, grouping, or removing skills
-            {{Strategy for renaming, grouping, or removing skills, following the original guidelines so they become to be more on target with the job vacancy, think step by step and review each idea and provide a quote of the job vacancy that emphasizes highlights the strategy}}
+List for each project strategies that can be applied to make the project more on target with the job vacancy, provide a quote of the job vacancy that is relevant for each strategy.
 
-Repeat this for each experience.
+List each experience with all the skills from that experience even skill of projects within that experience, and provide strategies that can be applied to make the skills more on target with the job vacancy, provide a quote of the job vacancy that is relevant for each strategy.
+
+
 
 ## Suggestions to add skills
 {{provide a list of skills that are likely to have been forgotten in the experience but are not in the CV AND are important in the job vacancy, provide a quote of the job vacancy that is relevant for each suggestion}}
@@ -429,4 +412,5 @@ apply all the strategies and provide and provide the cv with only the applied st
 - ... and so on for each project.
 - **Skills**: {{skills used in this experience and projects }}
 
-
+---
+Your job is to rewrite a cv to increase the chance for the applicant to get hired, do this by making the cv more on target with the job vacancy. following the rules below

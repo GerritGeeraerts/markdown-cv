@@ -12,7 +12,8 @@
                "skills": [
                   "Python", "LLM", "RAG", "Git", "Langchain", "Langsmith", "Ragas", "Streamlit", "Docker", "AWS",
                   "AWS Bedrock", "AWS S3", "AWS Opensearch", "AWS EC2", "Linux", "Bash"
-               ]
+               ],
+               "url": "https://github.com/GerritGeeraerts/aws-kb-demo"
             },
             {
                "title": "Project Manager Assistant Chatbot",
