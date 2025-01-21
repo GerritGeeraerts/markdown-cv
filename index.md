@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Gerrit Geeraerts's CV
+title: Gerrit Geeraerts
 ---
 
 # Gerrit Geeraerts
@@ -13,6 +13,8 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
   <a href="https://stackoverflow.com/users/10213635/gerrit-geeraerts?tab=profile" target="_blank">🔗 Stack Overflow</a> |
   <a href="https://askubuntu.com/users/1097288/gerrit-geeraerts?tab=profile" target="_blank">🔗 Ask Ubuntu</a> |
   🪪 Driving License B
+  <a href="https://maps.app.goo.gl/9mQ74Ghe6YAb6MLX9"> | 📍 Haaltert</a> 
+  
 </div>
 
 ## About Me
@@ -21,27 +23,28 @@ I first got in touch with computers when I was 7 years old, Windows 3.11 in the 
 I have been passionate about technology. With a core value to leverage the abilities of computers to make our lives more 
 productive. I have been personally inspired by this for over 30 years, working on numerous home projects. 
 Professionally, I have about 1 decade of experience in IT. Most of it was as a system engineer, exploring and learning 
-new systems and connecting them through coding. 
+new systems and connecting them through coding and development.
 
-But today, I see more potential in Data & Artificial Intelligence. It has the power to make a bigger difference in our 
-productivity. This inspired me to pursue a training at BeCode as a Data Engineer.
+Today, Data and Artificial Intelligence are revolutionizing the way we work, offering immense potential to enhance 
+productivity. This surge in technology inspired me to pursue training at BeCode as a Data Engineer.
 
 As a person, I am a collaborative team player with a passion for continuous learning and knowledge sharing. 
 Motivated, a creative problem-solver, leveraging critical thinking and analytical skills to find robust solutions. 
 I am a generalist with a broad interest range.
 
-My goal now is to grow and apply my technical expertise as a Data Engineer to build robust **LLM**ops 
-solutions that leverage the capabilities of Artificial Intelligence.
+My goal is to continuously expand my technical expertise by learning and integrating the latest technologies to build 
+robust solutions that enhance our productivity and efficiency.
 
 ## Experience
 
-`2024` <span style="font-size:1.2em;">**LLM Engineer**</span>, SUMSUM (Cronos), Leuven, Belgium
+`2024` <span style="font-size:1.2em;">**AI Engineer**</span>, Cronos (SUMSUM), Leuven, Belgium
 - As part of my becode training I completed my 3-month internship at SUMSUM. 
 - **RAG Demo For Customers**: Building a template for quickly setting up demo's for customers that allow them to chat 
   with their own documents and or website.
 - **Project Manager Assistant**: A chatbot that generates visual reports with projects data.  
-- **Skills**: **Python**, **LLM**, **RAG**, **GPT**, Git, **Langchain**, **Langgraph**, **Langsmith**, **Ragas**, 
-  Streamlit, Docker, **Elasticsearch**, **AWS**: Bedrock, S3, Opensearch, EC2
+- **Skills**: **Python**, **LLM**, **RAG**, **GPT**, **Git**, **Langchain**, **Langgraph**, **Langsmith**, **Ragas**, 
+  Streamlit, **Docker**, **Elasticsearch**, **AWS**: Bedrock, S3, Opensearch, EC2
+- **More**: Check out my GitHub for more details about these 2 projects: [GitHub](https://github.com/GerritGeeraerts)
 
 `2024` <span style="font-size:1.2em;">**Data Engineer Trainee**</span>, Becode, Ghent, Belgium
 - A full time 6-month AI training with a focus on data engineering:
@@ -49,9 +52,9 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
 - **Immo ML**: Machine Learning project, exploring different models, and building a solid pipeline. 
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
-- **Skills**: **Python**, **NLP**, **LLM**, **RAG**, **GPT**, FastAPI, Git, **Agents**
-- **Skills**: Kubernetes, Selenium, Playwright, ML Ops, Scrapy, MLflow, Streamlit, Docker, SQL, Graph Databases, 
-  Sklearn, Catboost, Azure Cloud, Terraform.
+- **Skills**: **Python**, **NLP**, **LLM**, **RAG**, **GPT**, **FastAPI**, **Git**, **Agents**
+- **Skills**: Kubernetes, Selenium, Playwright, ML Ops, **Scrapy**, **MLflow**, Streamlit, **Docker**, **SQL**, 
+  Graph Databases, Sklearn, Catboost, **Azure** Cloud, Terraform.
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
 `2024` <span style="font-size:1.2em;">**System Engineer**</span>, Viso Cor Mariae, Brakel, Belgium
@@ -60,7 +63,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
   Together, we searched for a new IT Professional and worked together to ensure a smooth transition. 
 - **Skills**: **Azure Cloud**
 
-`2019-2023` <span style="font-size:1.2em;">**System Engineer**</span>, Kasterlinden, Sint-Agatha-Berchem, Belgium
+`2019-2023` <span style="font-size:1.2em;">**System Engineer**</span>, VGC, Sint-Agatha-Berchem, Belgium
 - **Digitalizing Education**: We provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms.
 - **Account management / synchronization / SSO**
 - **Cloud Migration**: Migrating from a hybrid environment to **Azure** cloud only environment.
@@ -68,7 +71,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Modern Inventory Management**: We developed an automated inventory system that hooked in to SQL database of lansweeper for improving asset management and oversight.
 - **Give Trainings**: Exploring modern educational ways to teach. Motivating and training teachers to work with modern education tools like iPads.
 - **Network Management**: Collaborating closely with our parent organization, to manage our Wi-Fi, lan, wan, firewalls.
-- **Skills**: **Python**, **Django**, Docker, Selenium, <!--, Jamf-->, Apple School Manager, Azure Cloud AD, Git<!--, Soap-->, **LLM**, Networking
+- **Skills**: **Python**, **Django**, **Docker**, Selenium, <!--, Jamf-->, Apple School Manager, **Azure** Cloud AD, **Git**<!--, Soap-->, **LLM**, Networking
 <!--DHCP, DNS, Firewall, VLAN, Switches, --> Powershell, Local AD, Intune, Lansweeper, **SQL**, **HTML**, **CSS**
 
 `2019-Nu` <span style="font-size:1.2em;">**Home projects**</span>
@@ -78,7 +81,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - **Gmail unsubscribe finder**: Easily locate and manage email subscriptions.
 - **Liquidity pool sniper**: Detects and invests in new liquidity pools for optimal yields.
 - **Custom keyboard**: Typewriters where invented in the 1800's where the mechanics played a key role on how it was designed. A lot of where projected on to keyboard as we know today. But they are anything but modern. So I soldered my own modern design keyboard based on the QMK Firmware.
-- **Skills**: **Python**, **Django**, **Docker**, Linux, **Git**, **SQL**, Rest API, **HTML**, **CSS**, Selenium, Scrapy, Celery, Redis, 
+- **Skills**: **Python**, **Django**, **Docker**, Linux, **Git**, **SQL**, Rest API, **HTML**, **CSS**, Selenium, **Scrapy**, Celery, Redis, 
 Proxmox VM, **SQL**, **LLM**, **Langchain**, **Langgraph**, **Langsmith**
 - **More**: Check out my GitHub for more details: [GitHub](https://github.com/GerritGeeraerts)
 
@@ -103,7 +106,8 @@ Proxmox VM, **SQL**, **LLM**, **Langchain**, **Langgraph**, **Langsmith**
 ## Other Skills
 `-`
 - **Languages**: Mother Tongue in Dutch, very good English, very good French
-- **Soft Skills**: 	**Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, problem-solving, analytic.**
+- **Soft Skills**: 	**Team player, eager to learn and teach, motivated, calm and thoughtful, creative, critical thinking, 
+  problem-solving, analytic.**
 
 
 ## Education
