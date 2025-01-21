@@ -47,7 +47,7 @@ solutions that leverage the capabilities of Artificial Intelligence.
 - A full time 6-month AI training with a focus on data engineering:
 - **Credit Card Churning**: Azure ML Infrastructure with Terraform and MLflow, Predicting Customer Credit Cancels.
 - **Immo App**: Deploying Immo Prediction model with Streamlit and FastAPI
-- **Immo ML**: Fixing an OLTP database and making a new OLAP database from it.
+- **Immo ML**: Machine Learning project, exploring different models, and building a solid pipeline. 
 - **Wine Market Analysis**: Fixing an OLTP database and making a new OLAP database from it.
 - **Skills**: **Python**, **NLP**, **LLM**, **RAG**, **GPT**, FastAPI, Git, **Agents**
 - **Skills**: Kubernetes, Selenium, Playwright, ML Ops, Scrapy, MLflow, Streamlit, Docker, SQL, Graph Databases, 

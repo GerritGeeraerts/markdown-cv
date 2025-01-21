@@ -1,0 +1,408 @@
+{
+   "experience": [
+      {
+         "company": "Cronos (SUMSUM)",
+         "date": "2024",
+         "description": "",
+         "role": [
+            "AI Engineer",
+            "LLM Engineer"
+         ],
+         "projects": [
+            {
+               "description": "Building a template for quickly setting up demo’s for customers that allow them to chat with their own documents and or website.",
+               "skills": [
+                  "Python",
+                  "LLM",
+                  "RAG",
+                  "Git",
+                  "Langchain",
+                  "Langsmith",
+                  "Ragas",
+                  "Streamlit",
+                  "Docker",
+                  "AWS",
+                  "AWS Bedrock",
+                  "AWS S3",
+                  "AWS Opensearch",
+                  "AWS EC2",
+                  "Linux",
+                  "Bash"
+               ],
+               "title": "RAG Demo Chatbot Quicksetup"
+            },
+            {
+               "description": "Allowing project manager to chat with their projects and generate reports with graphs and tables.",
+               "skills": [
+                  "Python",
+                  "GPT",
+                  "Claude",
+                  "LLM",
+                  "LLM Agents",
+                  "Git",
+                  "Langchain",
+                  "Langgraph",
+                  "Langsmith",
+                  "Ragas",
+                  "Streamlit",
+                  "Docker",
+                  "AWS",
+                  "AWS EC2",
+                  "Linux",
+                  "Bash"
+               ],
+               "title": "Project Manager Assistant Chatbot",
+               "url": "https://github.com/GerritGeeraerts/chat-with-tia"
+            }
+         ]
+      },
+      {
+         "company": "Becode",
+         "date": "2024",
+         "description": "A full-time 6-month AI training with a focus on data engineering.",
+         "role": [
+            "Data Engineer Trainee"
+         ],
+         "projects": [
+            {
+               "description": "Azure ML Infrastructure with Terraform and ML Flow, Predicting Customer Credit Cancels.",
+               "skills": [
+                  "Azure Cloud",
+                  "Azure ML",
+                  "Terraform",
+                  "Python",
+                  "Bash",
+                  "Linux",
+                  "ML Ops",
+                  "ML flow",
+                  "Docker",
+                  "Catboost"
+               ],
+               "title": "Credit Card Churning",
+               "url": "https://github.com/GerritGeeraerts/churning"
+            },
+            {
+               "description": "Deploying Immo Prediction model with Streamlit and FastAPI.",
+               "skills": [
+                  "Python",
+                  "Pydantic",
+                  "FastAPI",
+                  "Streamlit",
+                  "Docker"
+               ],
+               "title": "Immo App",
+               "url": "https://github.com/GerritGeeraerts/immo-eliza-app"
+            },
+            {
+               "description": "Machine Learning project, exploring different models, and building a solid pipeline. ",
+               "skills": [
+                  "Python", "Pandas", "Numpy", "Scikit Learn", "CatBoost", "Docker"
+               ],
+               "title": "Immo ML",
+               "url": "https://github.com/GerritGeeraerts/immo-eliza-ml/tree/master"
+            },
+            {
+               "description": "Fixing an OLTP database and making a new OLAP database from it.",
+               "skills": [
+                  "Linux", "Python", "Pandas", "SQL", "Streamlit", "Docker"
+               ],
+               "title": "Wine Market Analysis",
+               "url": "https://github.com/miguelallgood/wine-market-analysis/tree/main"
+            },
+            {
+               "title": "ArcelorMittal Job Fair Chatbot",
+               "description": "Let users ask question about the ArcellorMittal and guide them to a suited job.",
+               "skills": ["Python", "Rag", "LLM", "GPT", "Scrapy", "Streamlit", "Neo4j"],
+               "url": "https://github.com/GerritGeeraerts/arcelormittal-chatbot"
+            }
+         ],
+         "extra_skills": ["Kubernetes", "Selenium", "Playwright", "Scrum", "Kanban"]
+      },
+      {
+         "company": "Viso Cor Mariae",
+         "date": "2024",
+         "description": "Volunteered to analyze IT infrastructure, create a roadmap, and implement solutions.",
+         "role": [
+            "System Engineer"
+         ],
+         "sub_experience": [
+            {
+               "description": "Analyzed IT infrastructure and created a roadmap for improvements.",
+               "skills": [
+                  "Azure Cloud", "Powershell", "Endpoint Manager / Intune", "Migration to Cloud", "..."
+               ],
+               "title": "IT Infrastructure Analysis"
+            }
+         ]
+      },
+      {
+         "company": "Kasterlinden",
+         "date": "2019-2023",
+         "description": "Worked on digitalizing education and managing IT infrastructure.",
+         "role": [
+            "System Engineer"
+         ],
+         "sub_experience": [
+            {
+               "description": "Provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms.",
+               "skills": [
+                  "Python",
+                  "Django",
+                  "Docker",
+                  "Selenium",
+                  "Apple School Manager",
+                  "Azure Cloud",
+                  "Azure AD",
+                  "Git",
+                  "Powershell",
+                  "HTML",
+                  "CSS"
+               ],
+               "title": "Mobile Device Management"
+            },
+            {
+               "description": "Migrating from a hybrid environment to full Azure cloud environment.",
+               "skills": [
+                  "Azure Cloud",
+                  "Local AD",
+                  "Endpoint Manager / Intune",
+                  "Lansweeper",
+                  "SQL",
+                  "Powershell"
+               ],
+               "title": "Cloud Migration"
+            },
+            {
+               "description": "Created a tool to streamline the creation of Intune packages, enabling users to install software through a self-service portal.",
+               "skills": [
+                  "Endpoint Manager / Intune",
+                  "Powershell",
+                  "Azure Cloud"
+               ],
+               "title": "Application Self-Service"
+            },
+            {
+               "description": "Developed an automated inventory system that hooked into Lansweeper for improving asset management and oversight.",
+               "skills": [
+                  "SQL",
+                  "Lansweeper",
+                  "Powershell"
+               ],
+               "title": "Modern Inventory Management"
+            },
+            {
+               "description": "Explored modern educational ways to teach. Motivated and trained teachers to work with modern education tools like iPads.",
+               "skills": [
+                  "Training",
+                  "Education"
+               ],
+               "title": "Give Trainings"
+            },
+            {
+               "description": "Collaborated closely with our parent organization to manage our Wi-Fi, LAN, WAN, firewalls.",
+               "skills": [
+                  "Networking",
+                  "Firewall",
+                  "Wi-Fi",
+                  "LAN",
+                  "WAN"
+               ],
+               "title": "Network Management"
+            }
+         ]
+      },
+      {
+         "company": "Home Projects",
+         "date": "2019-Present",
+         "description": "Various personal projects involving software development and automation.",
+         "role": [
+            "Developer"
+         ],
+         "projects": [
+            {
+               "description": "A multi-agent system that emulates human browsing on a website to find an answer to a user question.",
+               "skills": [
+                  "Python",
+                  "LLM",
+                  "Langchain",
+                  "Langgraph",
+                  "Langsmith",
+                  "Claude",
+                  "GPT"
+               ],
+               "title": "LLM Search Assistant"
+            },
+            {
+               "description": "Sentiment analysis for optimal trading.",
+               "skills": [
+                  "Python",
+                  "Sentiment Analysis",
+                  "Time Series Analysis",
+                  "Airflow"
+               ],
+               "title": "Crypto Bots"
+            },
+            {
+               "description": "Search within your subscribed content.",
+               "skills": [
+                  "Python",
+                  "Django",
+                  "API"
+               ],
+               "title": "YouTube Caption Search"
+            },
+            {
+               "description": "Easily locate and manage email subscriptions.",
+               "skills": [
+                  "Linux",
+                  "Docker",
+                  "Python",
+                  "Django",
+                  "API"
+               ],
+               "title": "Gmail Unsubscribe Finder"
+            },
+            {
+               "description": "Detects and invests in new liquidity pools for optimal yields.",
+               "skills": [
+                  "Python",
+                  "Trading"
+               ],
+               "title": "Liquidity Pool Sniper"
+            },
+            {
+               "description": "Soldered my own modern design keyboard based on the QMK Firmware.",
+               "skills": [
+                  "Hardware",
+                  "QMK Firmware"
+               ],
+               "title": "Custom Keyboard"
+            },
+            {"description": "I am running a proxmox server with multiple VMs and containers to host all my projects",
+               "skills": [
+                  "Proxmox",
+                  "Virtual Servers",
+                  "Docker",
+                  "Linux"
+               ],
+               "title": "Home Lab"
+            }
+         ],
+         "extra_skills": []
+      },
+      {
+         "company": "Metro Group",
+         "date": "2014-2018",
+         "description": "Managed IT infrastructure and provided support.",
+         "role": [
+            "System Engineer"
+         ],
+         "projects": [
+            {
+               "description": "Migrating from generic accounts to personal accounts, automating creation of user accounts and generating documentation.",
+               "skills": [
+                  "Local AD", "Powershell", "Confluence"
+               ],
+               "title": "User Management"
+            },
+            {
+               "description": "Managing generic mailboxes and a self-service tool.",
+               "skills": [
+                  "MS Exchange", "Exchange", "PowerShell"
+               ],
+               "title": "Exchange Management"
+            },
+            {
+               "description": "Managing the LAN, Wi-Fi, firewalls and setting up new stores.",
+               "skills": [
+                  "Networking",
+                  "Firewall",
+                  "Wi-Fi",
+                  "LAN",
+                  "DNS",
+                  "DHCP"
+               ],
+               "title": "Network Management"
+            },
+            {
+               "description": "First and second line support.",
+               "skills": [
+                  "Support",
+                  "Troubleshooting"
+               ],
+               "title": "Support"
+            }
+         ]
+      },
+      {
+         "company": "Metro Group",
+         "date": "2011-2014",
+         "description": "Sales role focused on creating a great customer experience.",
+         "role": [
+            "Sales Digital World"
+         ],
+         "projects": [
+            {
+               "description": "Listening to the needs of the customer and translating it to the correct product.",
+               "skills": [
+                  "Sales",
+                  "Customer Service"
+               ],
+               "title": "Sales"
+            }
+         ]
+      },
+      {
+         "company": "GLTT",
+         "date": "2012",
+         "description": "Teaching ICT concepts.",
+         "role": [
+            "Teacher ICT"
+         ],
+         "projects": [
+            {
+               "description": "Breaking down information into small and easy to understand concepts.",
+               "skills": [
+                  "Teaching",
+                  "Communication"
+               ],
+               "title": "Teaching"
+            }
+         ]
+      },
+      {
+         "company": "University Ghent",
+         "date": "2009-2010",
+         "description": "Managed IT infrastructure and developed a workflow tool.",
+         "role": [
+            "Chief Employee IT"
+         ],
+         "sub_experience": [
+            {
+               "description": "Writing a user story and developing a workflow tool for sales, laborants, customers and administration department.",
+               "skills": [
+                  ".NET",
+                  "SQL",
+                  "HTML",
+                  "CSS"
+               ],
+               "title": "Workflow Tool Development"
+            },
+            {
+               "description": "IT infrastructure management and support together with the central IT department.",
+               "skills": [
+                  "Firewall",
+                  "Switches",
+                  "DHCP",
+                  "DNS",
+                  "WLAN",
+                  "AD",
+                  "Deployment",
+                  "Windows Server"
+               ],
+               "title": "IT Infrastructure Management"
+            }
+         ]
+      }
+   ]
+}
