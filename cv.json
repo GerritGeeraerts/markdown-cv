@@ -160,8 +160,8 @@
                "title": "Custom Keyboard"
             },
             {
-               "description": "I am running a proxmox server with multiple VMs and docker containers to host projects",
-               "skills": ["Proxmox", "Virtual Machines", "Docker", "Linux"],
+               "description": "I am running a proxmox server with multiple VMs and docker containers to host projects, and a VPN to access them.",
+               "skills": ["Proxmox", "Virtual Machines", "Docker", "Linux", "VPN"],
                "title": "Home Lab"
             }
          ]
