@@ -50,106 +50,65 @@ Extensive CV:
       {
          "company": "Cronos (SUMSUM)",
          "date": "2024",
-         "description": "",
-         "role": [
-            "AI Engineer",
-            "LLM Engineer"
-         ],
+         "description": "As part of my becode training I completed my 3-month internship at Cronos (SUMSUM) with a focus on Large Language Models",
+         "role": ["AI Engineer", "LLM Engineer"],
          "projects": [
             {
-              "title": "AI-Powered Sales Enablement Chatbot",
-              "description": "Developed a Retrieval-Augmented Generation (RAG) chatbot designed to be set up in minutes to let businesses experience the capabilities of AI by interacting with their own business data, websites, and uploaded documents. The chatbot enabled SUMSUM’s sales team to deliver rapid and impressive demos, creating a 'wow effect'. Cost optimizations were implemented to reduce the cost of running parallel demo's",
-              "skills": [
-                "Python",
-                "LLM",
-                "RAG",
-                "Git",
-                "Langchain",
-                "Langsmith",
-                "Ragas",
-                "Streamlit",
-                "Docker",
-                "AWS",
-                "AWS Bedrock",
-                "AWS S3",
-                "AWS Opensearch",
-                "AWS EC2",
-                "Linux",
-                "Bash"
-              ],
-              "url": "https://github.com/GerritGeeraerts/aws-kb-demo"
+               "title": "AI-Powered Sales Enablement Chatbot",
+               "description": "Developed a Retrieval-Augmented Generation (RAG) chatbot designed to let businesses experience the capabilities of AI by interacting with their own business data, websites, and uploaded documents. The chatbot enabled SUMSUM’s technical team to set up demo's in minutes and the sales team to deliver rapid demos, creating a 'wow effect' with the client. Cost optimizations were implemented to run multiple demos parallel",
+               "skills": [
+                  "Python", "LLM", "RAG", "Git", "Langchain", "Langsmith", "Ragas", "Streamlit", "Docker", "AWS",
+                  "AWS Bedrock", "AWS S3", "AWS Opensearch", "AWS EC2", "Linux", "Bash"
+               ]
             },
             {
-              "title": "Project Manager Assistant Chatbot",
-              "description": "Designed and developed an AI-powered Project Manager Assistant chatbot to streamline client communication and project insight. The system allows project managers to ask complex questions, and generate on-demand dynamic reports with visual elements like charts and tables. This solution significantly reduces the response time for client inquiries by bypassing manual research and enabling real-time data presentation.",
-              "skills": [
-                "Python",
-                "GPT",
-                "Claude",
-                "LLM",
-                "LLM Agents",
-                "Git",
-                "Langchain",
-                "Langgraph",
-                "Langsmith",
-                "Ragas",
-                "Streamlit",
-                "Docker",
-                "AWS",
-                "AWS EC2",
-                "Linux",
-                "Bash"
-              ],
-              "url": "https://github.com/GerritGeeraerts/chat-with-tia"
+               "title": "Project Manager Assistant Chatbot",
+               "description": "Designed and developed an AI-powered Project Manager Assistant chatbot leveraging a collaborative multi-agent system to enhance client communication. The solution enables project managers to ask complex, context-specific queries, with the agents working together to retrieve relevant data, synthesize insights, and dynamically generate reports enriched with visual elements such as charts and tables. This reduces client inquiry response times by automating manual research and delivering real-time, data-driven reports.",
+               "skills": [
+                  "Python", "GPT", "Claude", "LLM", "LLM Agents", "Git", "Langchain", "Langgraph", "Langsmith",
+                  "Ragas", "Streamlit", "Docker", "AWS", "AWS EC2", "Linux", "Bash"
+               ],
+               "url": "https://github.com/GerritGeeraerts/chat-with-tia"
             }
          ]
       },
       {
          "company": "Becode",
+         "role": ["Data Engineer Trainee"],
          "date": "2024",
          "description": "A full-time 6-month AI training with a focus on data engineering.",
-         "role": [
-            "Data Engineer Trainee"
-         ],
          "projects": [
             {
-               "title": "Credit Card Churning",
-               "description": "Designed and deployed an Azure ML infrastructure using Terraform to predict customer
-               credit card churn. Automated provisioning of cloud resources and integrated with ML Flow for experiment
-               tracking and model management. Leveraged CatBoost for churn prediction, containerized the solution with
-               Docker, and implemented MLOps best practices for seamless workflows.",
+               "description": "Designed and deployed an Azure ML infrastructure using Terraform to predict customer credit card churn. Automated provisioning of cloud resources and integrated with ML Flow for experiment tracking and model management. Leveraged CatBoost for churn prediction, implemented MLOps best practices for seamless workflows.",
                "skills": [
-                   "Azure Cloud", "Azure ML", "Terraform", "Python", "Bash", "Linux", "ML Ops", "ML flow", "Docker",
-                   "Catboost"
+                  "Azure Cloud", "Azure ML", "Terraform", "Python", "Bash", "Linux", "ML Ops", "ML flow", "Docker",
+                  "Catboost", "ML"
                ],
+               "title": "Credit Card Churning",
                "url": "https://github.com/GerritGeeraerts/churning"
             },
             {
+               "description": "Developed and deployed a housing price prediction app utilizing a machine learning model. Hosted the prediction model on a FastAPI-based backend. Designed a user-friendly front-end with Streamlit, enabling interaction with the model through an intuitive interface.",
+               "skills": ["Python", "Pydantic", "FastAPI", "Streamlit", "Docker", "ML"],
                "title": "Immo Price Prediction App",
-               "description": "Developed and deployed a housing price prediction app utilizing a machine learning model. I Hosted the prediction model on a FastAPI-based backend. Designed a user-friendly front-end with Streamlit, enabling interaction with the model through an intuitive interface.",
-               "skills": [ "Python", "Pydantic", "FastAPI", "Streamlit", "Docker", "API"],
                "url": "https://github.com/GerritGeeraerts/immo-eliza-app"
             },
             {
-               "description": "Machine learning project focused on predicting housing prices by building a robust data pipeline and thoroughly exploring and optimizing various models. Conducted extensive feature engineering, explored different models (including Linear Regression, Random Forest, and CatBoost)",
-               "skills": [
-                  "Python", "Pandas", "Numpy", "Scikit Learn", "CatBoost", "Docker", "ML"
-               ],
+               "description": "Machine learning project focused on predicting housing prices by building a robust data pipeline and thoroughly exploring and optimizing various models. Feature engineering, Hyperparameter tuning, exploring different models (including Linear Regression, Random Forest, and CatBoost)",
+               "skills": ["Python", "Pandas", "Numpy", "Scikit Learn", "CatBoost", "Docker", "ML"],
                "title": "Housing Price Prediction with ML",
                "url": "https://github.com/GerritGeeraerts/immo-eliza-ml/tree/master"
             },
             {
-               "description": "Fixing an OLTP database and making a new OLAP database from it.",
-               "skills": [
-                  "Linux", "Python", "Pandas", "SQL", "Streamlit", "Docker", "ML"
-               ],
+               "description": "Collaboratively built an OLAP database from an OLTP source to power a Streamlit dashboard, enabling wine trend analysis, top wine selection.",
+               "skills": ["Linux", "Python", "Pandas", "SQL", "Streamlit", "Docker", "OLAP", "OLTP", "ETL"],
                "title": "Wine Market Analysis",
                "url": "https://github.com/miguelallgood/wine-market-analysis/tree/main"
             },
             {
+               "description": "Developed a chatbot leveraging a Scrapy scraper to extract data from ArcelorMittal's website and job database. The bot starts out by encouraging the user to ask questions about the company, and than nudges the user into sharing interest and skills to match with job openings. In the background the bot uses vector similarity to match the user's skills with the job openings.",
+               "skills": ["Python", "RAG", "LLM", "GPT", "Scrapy", "Streamlit", "Neo4j"],
                "title": "ArcelorMittal Job Fair Chatbot",
-               "description": "Let users ask question about the ArcellorMittal and guide them to a suited job.",
-               "skills": ["Python", "Rag", "LLM", "GPT", "Scrapy", "Streamlit", "Neo4j"],
                "url": "https://github.com/GerritGeeraerts/arcelormittal-chatbot"
             }
          ],
@@ -162,13 +121,11 @@ Extensive CV:
          "role": [
             "System Engineer"
          ],
-         "sub_experience": [
+         "projects": [
             {
+               "title": "IT Infrastructure Analysis",
                "description": "Analyzed IT infrastructure and created a roadmap for improvements.",
-               "skills": [
-                  "Azure Cloud", "Powershell", "Endpoint Manager / Intune", "Migration to Cloud", "..."
-               ],
-               "title": "IT Infrastructure Analysis"
+               "skills": ["Azure Cloud", "Powershell", "Endpoint Manager / Intune", "Migration to Cloud", "..."]
             }
          ]
       },
@@ -176,74 +133,37 @@ Extensive CV:
          "company": "Kasterlinden",
          "date": "2019-2023",
          "description": "Worked on digitalizing education and managing IT infrastructure.",
-         "role": [
-            "System Engineer"
-         ],
-         "sub_experience": [
+         "extra_skills": ["ITIL"],
+         "role": ["System Engineer"],
+         "projects": [
             {
-               "description": "Provided iPads to all students and staff, managed them efficiently using barcodes and synchronization, and integrated them with existing educational platforms.",
-               "skills": [
-                  "Python",
-                  "Django",
-                  "Docker",
-                  "Selenium",
-                  "Apple School Manager",
-                  "Azure Cloud",
-                  "Azure AD",
-                  "Git",
-                  "Powershell",
-                  "HTML",
-                  "CSS"
-               ],
+               "description": "Provided iPads to all students and staff, managed them efficiently using barcodes for easy inventory management and reallocating iPads. Synchronizing accounts with existing systems and we choose a jamf cloud solution for managing the devices configuration and apps.",
+               "skills": ["Python", "Django", "Docker", "Selenium", "Apple School Manager", "Azure Cloud", "Azure AD", "Git", "Powershell", "HTML", "CSS", "Mobile Device Management"],
                "title": "Mobile Device Management"
             },
             {
-               "description": "Migrating from a hybrid environment to full Azure cloud environment.",
-               "skills": [
-                  "Azure Cloud",
-                  "Local AD",
-                  "Endpoint Manager / Intune",
-                  "Lansweeper",
-                  "SQL",
-                  "Powershell"
-               ],
+               "description": "Migrating from a hybrid environment with local file, ad, dhcp, dns, print to full (Azure) cloud environment.",
+               "skills": ["Azure Cloud", "Local AD", "Endpoint Manager / Intune", "Lansweeper", "SQL", "Powershell"],
                "title": "Cloud Migration"
             },
             {
                "description": "Created a tool to streamline the creation of Intune packages, enabling users to install software through a self-service portal.",
-               "skills": [
-                  "Endpoint Manager / Intune",
-                  "Powershell",
-                  "Azure Cloud"
-               ],
+               "skills": ["Endpoint Manager / Intune", "Powershell", "Azure Cloud", "Company Portal"],
                "title": "Application Self-Service"
             },
             {
                "description": "Developed an automated inventory system that hooked into Lansweeper for improving asset management and oversight.",
-               "skills": [
-                  "SQL",
-                  "Lansweeper",
-                  "Powershell"
-               ],
+               "skills": ["SQL", "Lansweeper", "Powershell"],
                "title": "Modern Inventory Management"
             },
             {
-               "description": "Explored modern educational ways to teach. Motivated and trained teachers to work with modern education tools like iPads.",
-               "skills": [
-                  "Training",
-                  "Education"
-               ],
+               "description": "Motivate and train teachers to work with modern education tools like iPads.",
+               "skills": ["Training", "Education"],
                "title": "Give Trainings"
             },
             {
                "description": "Collaborated closely with our parent organization to manage our Wi-Fi, LAN, WAN, firewalls.",
-               "skills": [
-                  "Networking",
-                  "Firewall",
-                  "Wi-Fi",
-                  "LAN",
-                  "WAN"
-               ],
+               "skills": ["Networking", "Firewall", "Wi-Fi", "LAN", "WAN"],
                "title": "Network Management"
             }
          ]
@@ -251,122 +171,72 @@ Extensive CV:
       {
          "company": "Home Projects",
          "date": "2019-Present",
+         "role": ["Developer"],
          "description": "Various personal projects involving software development and automation.",
-         "role": [
-            "Developer"
-         ],
+         "extra_skills": ["HTML", "CSS", "JavaScript", "Redis", "Celery", "PostgreSQL", "SQL", "Graph", "Flask"],
          "projects": [
             {
-               "description": "A multi-agent system that emulates human browsing on a website to find an answer to a user question.",
-               "skills": [
-                  "Python",
-                  "LLM",
-                  "Langchain",
-                  "Langgraph",
-                  "Langsmith",
-                  "Claude",
-                  "GPT"
-               ],
+               "description": "A multi-agent system that emulates human browsing on a website to find an answer to a user question. Integrated in OpenWebUI with pipelines and FastAPI.",
+               "skills": ["Python", "LLM", "Langchain", "Langgraph", "Langsmith", "Claude", "GPT", "FastAPI", "Docker", "Open Web UI"],
                "title": "LLM Search Assistant"
             },
             {
-               "description": "Sentiment analysis for optimal trading.",
-               "skills": [
-                  "Python",
-                  "Sentiment Analysis",
-                  "Time Series Analysis",
-                  "Airflow"
-               ],
+               "description": "Trading algorithm using sentiment and fourier to determine fearfully moments in market cycles.",
+               "skills": ["Python", "Sentiment Analysis", "Time Series Analysis", "Airflow", "API", "Docker"],
                "title": "Crypto Bots"
             },
             {
-               "description": "Search within your subscribed content.",
-               "skills": [
-                  "Python",
-                  "Django",
-                  "API"
-               ],
+               "description": "Search captions within your subscribed content.",
+               "skills": ["Python", "Django", "API", "Git"],
                "title": "YouTube Caption Search"
             },
             {
                "description": "Easily locate and manage email subscriptions.",
-               "skills": [
-                  "Linux",
-                  "Docker",
-                  "Python",
-                  "Django",
-                  "API"
-               ],
+               "skills": ["Linux", "Docker", "Python", "Django", "API", "Git"],
                "title": "Gmail Unsubscribe Finder"
             },
             {
                "description": "Detects and invests in new liquidity pools for optimal yields.",
-               "skills": [
-                  "Python",
-                  "Trading"
-               ],
+               "skills": ["Python", "Git"],
                "title": "Liquidity Pool Sniper"
             },
             {
                "description": "Soldered my own modern design keyboard based on the QMK Firmware.",
-               "skills": [
-                  "Hardware",
-                  "QMK Firmware"
-               ],
+               "skills": ["Hardware", "QMK Firmware", "Git"],
                "title": "Custom Keyboard"
             },
-            {"description": "I am running a proxmox server with multiple VMs and containers to host all my projects",
-               "skills": [
-                  "Proxmox",
-                  "Virtual Servers",
-                  "Docker",
-                  "Linux"
-               ],
+            {
+               "description": "I am running a proxmox server with multiple VMs and docker containers to host projects",
+               "skills": ["Proxmox", "Virtual Machines", "Docker", "Linux"],
                "title": "Home Lab"
             }
-         ],
-         "extra_skills": []
+         ]
       },
       {
          "company": "Metro Group",
          "date": "2014-2018",
+         "role": ["System Engineer"],
          "description": "Managed IT infrastructure and provided support.",
-         "role": [
-            "System Engineer"
-         ],
+         "extra_skills": ["ITIL", "Hyper-V"],
          "projects": [
             {
                "description": "Migrating from generic accounts to personal accounts, automating creation of user accounts and generating documentation.",
-               "skills": [
-                  "Local AD", "Powershell", "Confluence"
-               ],
+               "skills": ["Local AD", "Powershell", "Confluence"],
                "title": "User Management"
             },
             {
                "description": "Managing generic mailboxes and a self-service tool.",
-               "skills": [
-                  "MS Exchange", "Exchange", "PowerShell"
-               ],
+               "skills": ["MS Exchange", "Exchange", "PowerShell"],
                "title": "Exchange Management"
             },
             {
-               "description": "Managing the LAN, Wi-Fi, firewalls and setting up new stores.",
-               "skills": [
-                  "Networking",
-                  "Firewall",
-                  "Wi-Fi",
-                  "LAN",
-                  "DNS",
-                  "DHCP"
-               ],
+               "description": "Managing LAN, Wi-Fi, Firewalls and setting up new stores.",
+               "skills": ["Networking", "Firewall", "Wi-Fi", "LAN", "DNS", "DHCP"],
                "title": "Network Management"
             },
             {
                "description": "First and second line support.",
-               "skills": [
-                  "Support",
-                  "Troubleshooting"
-               ],
+               "skills": ["Support", "Troubleshooting"],
                "title": "Support"
             }
          ]
@@ -374,17 +244,12 @@ Extensive CV:
       {
          "company": "Metro Group",
          "date": "2011-2014",
+         "role": ["Sales Digital World"],
          "description": "Sales role focused on creating a great customer experience.",
-         "role": [
-            "Sales Digital World"
-         ],
          "projects": [
             {
                "description": "Listening to the needs of the customer and translating it to the correct product.",
-               "skills": [
-                  "Sales",
-                  "Customer Service"
-               ],
+               "skills": ["Sales", "Customer Service"],
                "title": "Sales"
             }
          ]
@@ -392,17 +257,12 @@ Extensive CV:
       {
          "company": "GLTT",
          "date": "2012",
+         "role": ["Teacher ICT"],
          "description": "Teaching ICT concepts.",
-         "role": [
-            "Teacher ICT"
-         ],
          "projects": [
             {
                "description": "Breaking down information into small and easy to understand concepts.",
-               "skills": [
-                  "Teaching",
-                  "Communication"
-               ],
+               "skills": ["Teaching", "Communication"],
                "title": "Teaching"
             }
          ]
@@ -410,36 +270,21 @@ Extensive CV:
       {
          "company": "University Ghent",
          "date": "2009-2010",
+         "role": ["Chief Employee IT"],
          "description": "Managed IT infrastructure and developed a workflow tool.",
-         "role": [
-            "Chief Employee IT"
-         ],
-         "sub_experience": [
+         "projects": [
             {
                "description": "Writing a user story and developing a workflow tool for sales, laborants, customers and administration department.",
-               "skills": [
-                  ".NET",
-                  "SQL",
-                  "HTML",
-                  "CSS"
-               ],
+               "skills": [".NET", "SQL", "HTML", "CSS"],
                "title": "Workflow Tool Development"
             },
             {
                "description": "IT infrastructure management and support together with the central IT department.",
-               "skills": [
-                  "Firewall",
-                  "Switches",
-                  "DHCP",
-                  "DNS",
-                  "WLAN",
-                  "AD",
-                  "Deployment",
-                  "Windows Server"
-               ],
+               "skills": ["Firewall", "Switches", "DHCP", "DNS", "WLAN", "AD", "Deployment", "Windows Server", "Hyper-V"],
                "title": "IT Infrastructure Management"
             }
-         ]
+         ],
+         "extra_skills": ["ITIL"]
       }
    ]
 }
@@ -498,3 +343,90 @@ We bieden je een contract van onbepaalde duur aan met een competitief salaris o.
 Je krijgt een gevarieerde, uitdagende en maatschappelijk relevante job en dit in een dynamische omgeving met tal van ontwikkelingsmogelijkheden. Een ILVO'er werkt hard maar kan daarnaast ook hard genieten dankzij flexibele werkuren, mogelijkheid tot hybride werken (indien de functie het toelaat) en een mooie verlofregeling.. Alles samen kan je genieten van 35 vakantiedagen gebaseerd op prestaties van vorig jaar (privéregeling). Tussen Kerstmis en Nieuwjaar krijg je bijkomend verlof.
 
 Bijkomend: hospitalisatie- en groepsverzekering, vergoeding woon-werkverkeer (fiets - openbaar vervoer), maaltijdcheques (8€/dag) en mogelijkheid tot fietsleasing.
+---
+# Skill section Strategies
+## Combine skills: To remove clutter
+If skills are not relevant to the job vacancy try to combine them
+Example1: DHCP, DNS, LAN, WiFi can be combined into Networking if they are not relevant to the job vacancy
+Example2: Python, Django, Docker can be combined into Python Development if they are not relevant to the job vacancy
+Example3: LLM, RAG, GPT, Git, Langchain, Langgraph, Langsmith, Ragas can be combined into LLM Development if they are not relevant to the job vacancy
+## Combine skills: To be more relevant
+Try to make unimportant skills to the job vacancy more relevant by combining them
+Example1: For a job about docker, DNS, DHCP, LAN, WIFI can be combined into Networking, as Networking is a part of docker, so it removes clutter and makes the skill more relevant to the job vacancy
+Example2: For a job vacancy about system engineering where they value powershell automation in the job vacancy you can combine Django, Python, Flask into something that is closer to powershell and automation like "Python Scripting and Automation"
+## Keep detailed summing of skills if they are relevant to the job
+Example1: If the job vacancy is about system engineering where they state DHCP an DNS, than you should keep the skills DHCP, DNS, LAN, WIFI separate as they are relevant to the job vacancy.
+## Renaming skills to match the job vacancy
+Example1: "Powershell" can be changed to "PowerShell Programming" in a job where python is important, because powershell programming is closer to python than just powershell as it emphasizes the programming aspect of powershell)
+Example2: If the job vacancy talks about GCP, and the CV has Google Cloud, than rename the skill to GCP to match the job vacancy
+Example3: If communication is important in the job vacancy, than rename "Sales", "Customer Service" to "Communicating with Customers (Sales, Customer Service)"
+## Combine strategies above:
+You can combine strategies above to remove clutter and make skills more relevant to the job vacancy
+## Remove skills:
+All the rules above should be preferred, it is better to group or rename skills than to remove them,
+but if a skill are not relevant at all and not group or rename than you can remove them. Make sure that each experience has at least 1 skill left, choose the most relevant skill to keep if you have to remove skills.
+## Important:
+Maintain overview of the larger picture, all these examples where about isolated skills, but you should always look
+at the larger picture and see if the skills are relevant in the context of the job vacancy.
+
+# Experience description Strategies
+For each Project description determine how it is relevant to the job vacancy, and provide quotes form the job vacancy that emphasizes the relevant parts of project description to the job vacancy.
+For each Project description determine how it is maybe not relevant to the job vacancy, and provide evidence why it is not
+Provide a strategy for rewriting the project making it more on target with the job vacancy, sometimes it is not possible to make it more on target, than fall back strategy to rewrite shorter and more concise for less relevant projects.
+
+#Output Format:
+
+The output should be in markdown format and follow the style below:
+
+## Experience
+`{{date}}` <span style="font-size:1.2em;">**{{role}}**</span>, {{company}}
+- {{description}}
+- **{{project title}}**: {{project description}}, [Link: {{project title}}]({{url}})
+    Project description strategy:
+        relevant parts of the project description:
+            {{what parts of the project description are relevant + evidence}}
+        irrelevant parts of the project description:
+            {{what parts of the project description are not relevant + evidence}}
+        Strategy for rewriting the project description:
+            {{Strategy for rewriting the project description making it more on target with the job vacancy}}
+- {{Repeat this for each project}}
+- **Skills**: {{all skills used in this experience and projects}}
+    Skill Strategy
+        What skills are relevant
+            {{relevant skills + evidence}}
+        What skills are not relevant
+            {{irrelevant skills + evidence}}
+        strategy for renaming, grouping, or removing skills
+            {{Strategy for renaming, grouping, or removing skills, following the original guidelines so they become to be more on target with the job vacancy, think step by step and review each idea and provide a quote of the job vacancy that emphasizes highlights the strategy}}
+
+Repeat this for each experience.
+
+## Suggestions to add skills
+{{provide a list of skills that are likely to have been forgotten in the experience but are not in the CV AND are important in the job vacancy, provide a quote of the job vacancy that is relevant for each suggestion}}
+
+---
+
+---
+Are there more skills that can be renamed, grouped, or removed following the original guidelines so they become to be more on target with the job vacancy, think step by step and review each skill section. provide a quote of the job vacancy that proves the decision.
+
+---
+apply all the strategies and provide and provide the cv with only the applied strategies with this format:
+
+## Experience
+`{{date}}` <span style="font-size:1.2em;">**{{role}}**</span>, {{company}}
+- {{description}}
+- **{{project title}}**: {{project description rewritten with the applied project description strategies}}, [Link: {{project title}}]({{url}})
+- {{Repeat this for each project}}
+- **Skills**: {{all the skills after applying the skill strategies}}
+
+{{Repeat this for each experience}}
+
+
+---
+`{{date}}` <span style="font-size:1.2em;">**{{role}}**</span>, {{company}}
+- {{description}}
+- **{{project title}}**: {{project description}}, [Link: {{project title}}]({{url}})
+- ... and so on for each project.
+- **Skills**: {{skills used in this experience and projects }}
+
+

@@ -42,7 +42,7 @@
             },
             {
                "description": "Developed and deployed a housing price prediction app utilizing a machine learning model. Hosted the prediction model on a FastAPI-based backend. Designed a user-friendly front-end with Streamlit, enabling interaction with the model through an intuitive interface.",
-               "skills": ["Python", "Pydantic", "FastAPI", "Streamlit", "Docker", "ML"],
+               "skills": ["Python", "Pydantic", "FastAPI", "Streamlit", "Docker", "ML", "API"],
                "title": "Immo Price Prediction App",
                "url": "https://github.com/GerritGeeraerts/immo-eliza-app"
             },
@@ -126,16 +126,16 @@
          "date": "2019-Present",
          "role": ["Developer"],
          "description": "Various personal projects involving software development and automation.",
-         "extra_skills": ["HTML", "CSS", "JavaScript", "Redis", "Celery", "PostgreSQL", "SQL", "Graph", "Flask"],
+         "extra_skills": ["HTML", "CSS", "JavaScript", "Redis", "Celery", "PostgreSQL", "SQL", "Graph Database", "Flask"],
          "projects": [
             {
                "description": "A multi-agent system that emulates human browsing on a website to find an answer to a user question. Integrated in OpenWebUI with pipelines and FastAPI.",
-               "skills": ["Python", "LLM", "Langchain", "Langgraph", "Langsmith", "Claude", "GPT", "FastAPI", "Docker", "Open Web UI"],
+               "skills": ["Python", "LLM", "Langchain", "Langgraph", "Langsmith", "Claude", "GPT", "FastAPI", "API", "Docker", "Open Web UI"],
                "title": "LLM Search Assistant"
             },
             {
                "description": "Trading algorithm using sentiment and fourier to determine fearfully moments in market cycles.",
-               "skills": ["Python", "Sentiment Analysis", "Time Series Analysis", "Airflow", "API", "Docker"],
+               "skills": ["Python", "Time Series Analysis", "Airflow", "API", "Docker", "Feature Engineering"],
                "title": "Crypto Bots"
             },
             {
