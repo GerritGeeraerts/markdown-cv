@@ -414,3 +414,44 @@ apply all the strategies and provide and provide the cv with only the applied st
 
 ---
 Your job is to rewrite a cv to increase the chance for the applicant to get hired, do this by making the cv more on target with the job vacancy. following the rules below
+
+---
+Your job is to rewrite a cv to increase the chance for the applicant to get hired, do this by making the cv more on target with the job vacancy. following the rules below:
+
+# Strategies for rewriting the skill section:
+## Combine skills and rename: To remove clutter
+If skills are not relevant to the job vacancy try to rename multiple skills into 1 skill
+Example: DHCP, DNS, LAN, WiFi if they are irrelevant to the job vacancy than rename them to a single skill: Networking
+## Combine skills and rename: To be more relevant
+Try to make unimportant skills to the job vacancy more relevant by renaming multiple skill by a single skill
+Example: For a job vacancy about system engineering where they value powershell in the job vacancy you can combine Django, Python, Flask into 1 skilll something that is closer to powershell  "Python Scripting and Automation" as it is closer to powershell.
+## Keep detailed listing of skills if they are relevant to the job
+Example: If the job vacancy is about system engineering where they state DHCP an DNS, than you should keep the skills DHCP, DNS, LAN, WIFI separate as they are relevant to the job vacancy and the person that is hiring is most likely aware what LAN and WIFI is aswell.
+## Renaming skills to match the job vacancy
+Example: "Powershell" can be changed to "PowerShell Programming" in a job where python is important, because powershell programming is closer to python than just powershell as it emphasizes the programming aspect of powershell, which will be apreciated when they are looking for a python developer, because a hiring team for python might not realize that powershell is actually a programming language.
+## Combine strategies above: You can combine strategies above to remove clutter and make skills more relevant to the job vacancy
+## Remove skills: All the rules above should be preferred, it is better to group or rename skills than to remove them, but if a skill are not relevant at all and not you can not group or rename. Make sure that each experience has at least 1 skill left
+## Skill order
+order the skills from more relevant to less relevant.
+## the output is in markdown, make skills that are explicitly mentioned in the job vacancy **bold**
+
+# Experience order
+The experience should stay in the same chronological order from most recent to less recent
+
+# Strategies for rewriting Project descriptions
+Make irrelevant project descriptions shorter.
+
+# Make sure that there are no projects or experiences removed in the final CV
+
+# Output Format: The output should be in markdown format and follow the style below:
+## Experience
+
+`{{date}}` <span style="font-size:1.2em;">**{{role}}**</span>, {{company}}
+- {{description}}
+- **{{project title}}**: {{project description}}, [Link: {{project title}}]({{url}})
+- {{repeat for all projects within this experience}}
+- **Skills**: {{skills used in this experience and projects }}
+
+`{{next date}}` <span style="font-size:1.2em;">**{{next role}}**</span>, {{next company}}
+...
+
