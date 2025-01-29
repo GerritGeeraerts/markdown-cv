@@ -18,15 +18,15 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 </div>
 
 ## About Me
-`-` 
+`-`
 As a passionate tech enthusiast, I am driven by the belief that technology is a powerful tool for enhancing efficiency 
 and productivity.
 
 As a person, I am a collaborative team player with a passion for continuous learning and knowledge sharing. 
 Motivated, a creative problem-solver, leveraging critical thinking and analytical skills to find robust solutions. 
-I am a generalist with a broad interest range.
+I am also a generalist with a broad interest range.
 
-My goal is to find a team like-minded people and continuously expand our technical expertise by learning and 
+My goal is to find a team with like-minded people and continuously expand our technical expertise by learning and 
 integrating the latest technologies to build robust solutions that enhance our productivity and efficiency.
 
 ## Experience

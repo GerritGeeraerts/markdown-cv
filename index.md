@@ -19,24 +19,17 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 ## About Me
 `-`
-I first got in touch with computers when I was 7 years old, Windows 3.11 in the full 16 colors, magical! Since then, 
-I have been passionate about technology. With a core value to leverage the abilities of computers to make our lives more 
-productive. I have been personally inspired by this for over 30 years, working on numerous home projects. 
-Professionally, I have about 1 decade of experience in IT. Most of it was as a system engineer, exploring and learning 
-new systems and connecting them through coding and development.
-
-Today, Data and Artificial Intelligence are revolutionizing the way we work, offering immense potential to enhance 
-productivity. This surge in technology inspired me to pursue training at BeCode as a Data Engineer.
+As a passionate tech enthusiast, I am driven by the belief that technology is a powerful tool for enhancing efficiency 
+and productivity.
 
 As a person, I am a collaborative team player with a passion for continuous learning and knowledge sharing. 
 Motivated, a creative problem-solver, leveraging critical thinking and analytical skills to find robust solutions. 
-I am a generalist with a broad interest range.
+I am also a generalist with a broad interest range.
 
-My goal is to continuously expand my technical expertise by learning and integrating the latest technologies to build 
-robust solutions that enhance our productivity and efficiency.
+My goal is to find a team with like-minded people and continuously expand our technical expertise by learning and 
+integrating the latest technologies to build robust solutions that enhance our productivity and efficiency.
 
 ## Experience
-
 `2024` <span style="font-size:1.2em;">**AI Engineer Intern**</span>, Cronos (SUMSUM)
 - As part of my becode training I completed my 3-month internship at Cronos (SUMSUM) with a focus on Large Language Models
 - **AI-Powered Sales Enablement Chatbot**: Developed a Retrieval-Augmented Generation (RAG) chatbot designed to let businesses experience the capabilities of AI by interacting with their own business data, websites, and uploaded documents. The chatbot enabled SUMSUM’s technical team to set up demo's in minutes and the sales team to deliver rapid demos, creating a 'wow effect' with the client. Cost optimizations were implemented to run multiple demos parallel, [Link: AI-Powered Sales Enablement Chatbot](https://github.com/GerritGeeraerts/aws-kb-demo)
