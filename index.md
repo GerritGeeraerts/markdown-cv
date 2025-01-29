@@ -68,7 +68,6 @@ integrating the latest technologies to build robust solutions that enhance our p
 - **Gmail Unsubscribe Finder**: Easily locate and manage email subscriptions.
 - **Custom Keyboard**: Soldered my own modern design keyboard based on the QMK Firmware.
 - **Home Lab**: I am running a proxmox server with multiple VMs and docker containers to host projects, and a VPN to access them.
-- **Skills**: API, Airflow, CSS, Celery, Claude, Django, Docker, FastAPI, Feature Engineering, Flask, GPT, Git, Graph Database, HTML, Hardware, JavaScript, LLM, LLM Agents, Langchain, Langgraph, Langsmith, Linux, PostgreSQL, Proxmox, Python, QMK Firmware, Redis, SQL, Time Series Analysis, VPN, Virtual Machines
 - **Skills** : **Django, Python, Git, Celery, Airflow, API, Docker, Linux, HTML, CSS, SQL, PostgreSQL**
 
 `2014-2018` <span style="font-size:1.2em;">**System Engineer / Developer**</span>, Metro Group
