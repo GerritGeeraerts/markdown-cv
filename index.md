@@ -35,7 +35,7 @@ integrating the latest technologies to build robust solutions that enhance our p
 - As part of my becode training I completed my 3-month internship at Cronos (SUMSUM) with a focus on Large Language Models
 - **AI-Powered Sales Enablement Chatbot**: Developed a Retrieval-Augmented Generation (RAG) chatbot designed to let businesses experience the capabilities of AI by interacting with their own business data, websites, and uploaded documents. The chatbot enabled SUMSUM’s technical team to set up demo’s in minutes and the sales team to deliver rapid demos, creating a ‘wow effect’ with the client. Cost optimizations were implemented to run multiple demos parallel.
 - **Project Manager Assistant Chatbot**: Designed and developed an AI-powered Project Manager Assistant chatbot leveraging a collaborative multi-agent system to enhance client communication. The solution enables project managers to ask complex, context-specific queries, with the agents working together to retrieve relevant data, synthesize insights, and dynamically generate reports enriched with visual elements such as charts and tables. This reduces client inquiry response times by automating manual research and delivering real-time, data-driven reports.
-- **Skills**: **AWS**, **Python**, Docker, Streamlit, LLM, Bash, Langchain, LangGraph, LangSmith, RAG, Ragas, LLM Agents, Elastic Search, Pytorch, Linux, Git
+- **Skills**: **AWS**, **Python**, **Docker**, **Elastisearch**, Streamlit, LLM, Bash, Langchain, LangGraph, LangSmith, RAG, Ragas, LLM Agents, Elastic Search, Pytorch, Linux, Git
 
 `2024` <span style="font-size:1.2em;">**Data Engineer Trainee**</span>, BeCode
 - A full-time 6-month AI training with a focus on data engineering, we worked mostly on projects
@@ -44,7 +44,7 @@ integrating the latest technologies to build robust solutions that enhance our p
 - **Housing Price Prediction with ML**: Machine learning project focused on predicting housing prices by building a robust data pipeline and thoroughly exploring and optimizing various models. Feature engineering, Hyperparameter tuning, exploring different models (including Linear Regression, Random Forest, and CatBoost)
 - **Wine Market Analysis**: Collaboratively built an OLAP database from an OLTP source to power a Streamlit dashboard, enabling wine trend analysis, top wine selection.
 - **ArcelorMittal Job Fair Chatbot**: Developed a chatbot leveraging a Scrapy scraper to extract data from ArcelorMittal’s website and job database. The bot starts out by encouraging the user to ask questions about the company, and than nudges the user into sharing interest and skills to match with job openings. In the background the bot uses vector similarity to match the user’s skills with the job openings.
-- **Skills**: **SQL**, **Terraform**, **Python**, **Pandas**, **Azure**, **Scikit Learn**, **Spark**, Scrum, Docker, ETL, API, Bash, Kubernetes, Linux, Selenium, Kanban, GPT, MLOps, MLflow, ML, NumPy, FastAPI, Streamlit, LLM, RAG, Playwright, Catboost, Pydantic, Catboost, Scrapy, Neo4j
+- **Skills**: **SQL**, **Terraform**, **Python**, **Pandas**, **Azure**, **Scikit Learn**, **Spark**, **Docker**, Scrum, ETL, API, Bash, **Kubernetes**, Linux, Selenium, Kanban, GPT, MLOps, MLflow, ML, NumPy, FastAPI, Streamlit, LLM, RAG, Playwright, Catboost, Pydantic, Catboost, Scrapy, Neo4j
 
 `2024` <span style="font-size:1.2em;">**System Engineer**</span>, Viso Cor Mariae
 - Volunteered to analyze IT infrastructure, create a roadmap, and start on implementing
@@ -90,7 +90,6 @@ And programming scripts for automating: user creation, server management, comput
 - **Developing a workflow Tool**: Writing a user story and developing a workflow tool for sales, laborants, customers and administration department.
 - **IT Infrastructure Management**: IT infrastructure management and support together with the central IT department.
 - **Skills**: **SQL**, .NET, Windows Server, Network, Active Directory, HTML, CSS
-
 
 ## Other Skills
 `-`
