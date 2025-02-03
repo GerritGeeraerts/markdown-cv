@@ -84,7 +84,7 @@ d = {
                "title": "Wine Market Analysis",
                "description": "Collaboratively built an OLAP database from an OLTP source to power a Streamlit "
                               "dashboard, enabling wine trend analysis, top wine selection.",
-               "skills": ["Linux", "Python", "Pandas", "SQL", "Streamlit", "Docker", "OLAP", "OLTP", "ETL"],
+               "skills": ["Linux", "Python", "Pandas", "SQL", "Streamlit", "Docker", "ETL"],
                "url": "https://github.com/miguelallgood/wine-market-analysis/tree/main"
             },
             {
