@@ -1,0 +1,10 @@
+Dear Hiring Manager,
+
+With over 10 years of experience in technology development and a recent focus on LLMs and GenAI, I was excited to discover the (Gen) AI and Machine Learning Engineer position at Capgemini. My recent work at Cronos developing RAG chatbots and collaborative LLM agents aligns perfectly with your need for implementing AI solutions.
+
+My experience designing end-to-end automation and MLOps workflows, combined with my proficiency in Python, Docker, and cloud platforms makes me well-positioned to help your clients navigate their digital transformations. I'm particularly passionate about educating clients on GenAI possibilities while ensuring practical implementation.
+
+I look forward to contributing to Capgemini's innovative team.
+
+Sincerely,
+Gerrit Geeraerts
