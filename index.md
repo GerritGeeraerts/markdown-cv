@@ -69,7 +69,7 @@ Developed a program to sync accounts and groups with existing systems and a barc
 - **Skills**: **API**, **Python**, **Git**, **DevOps**, **PostgreSQL**, Django(ORM **SQLAlchemy**), Docker, SQL, Airflow, Linux, Celery, HTML, CSS, Flask, Proxmox, Redis, FastAPI, LLM, Langchain, LangGraph, LangSmith, LLM Agents
 
 `2014-2018` <span style="font-size:1.2em;">**System Engineer / Developer**</span>, Metro Group
-- **Developing Powershell Scripts**: Developing tools like a mailbox self service, a printer self service, tapes management. 
+- **Developing Powershell Scripts**: Developing tools like a mailbox self-service, a printer self-service, tapes management. 
 And programming scripts for automating: user creation, server management, computer management.
 - **Support**: Supporting and setting up new stores.
 - **Network Managment**: Managing Switches, Wi-Fi, Firewalls, DHCP, DNS, and setting up new stores.
