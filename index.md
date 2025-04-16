@@ -17,8 +17,7 @@ Bridging the gap between today's programming and tomorrow's AI, while deeply roo
 
 ## About Me
 `-`
-As a technology enthusiast with over 10 years of professional experience, I've
-developed and integrated numerous tools and systems to create more efficient work
+As a technology enthusiast with over 10 years of professional experience, I've developed and integrated numerous tools and systems to create more efficient work
 environments, particularly enjoying work with Python and Large Language Models.
 My passion is rooted in turning innovative technologies into practical, productivity-
 boosting solutions. I thrive in dynamic team settings where professionals collaborate
