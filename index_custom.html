@@ -400,26 +400,28 @@
     </style>
 </head>
 <body>
-    <!-- Print button for screen view -->
-    <button class="print-button" onclick="window.print()">Print Resume</button>
-    <!-- The filter controls will be generated here by JavaScript -->
-  <div class="resume-wrapper"> <!-- New wrapper div -->
+<!-- Print button for screen view -->
+<button class="print-button" onclick="window.print()">Print Resume</button>
+<!-- The filter controls will be generated here by JavaScript -->
+<div class="resume-wrapper"> <!-- New wrapper div -->
     <div id="label-controls"></div> <!-- Will be populated by JS -->
     <!-- A4 Resume Container -->
     <div class="resume-container">
-        <img id="logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDgzYzY2IiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMzQgNDBsMTUuMiAxMi44TDcwIDQwbDEyIDE2SDcwTDUwIDQ4IDMwIDU2SDE4eiIgZmlsbD0iI2UxYjEyYyIvPjwvc3ZnPg==" alt="Logo">
+        <img id="logo"
+             src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDgzYzY2IiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMzQgNDBsMTUuMiAxMi44TDcwIDQwbDEyIDE2SDcwTDUwIDQ4IDMwIDU2SDE4eiIgZmlsbD0iI2UxYjEyYyIvPjwvc3ZnPg=="
+             alt="Logo">
         <div class="resume-content">
             <!-- Left Column -->
             <left-column>
-             <div class="profile-img-container">
-                <img src="./mugshot.jpg" alt="Profile Picture" class="profile-img">
-             </div>
+                <div class="profile-img-container">
+                    <img src="./mugshot.jpg" alt="Profile Picture" class="profile-img">
+                </div>
                 <div class="header">
                     <h1 class="name">Gerrit Geeraerts</h1>
                     <!--<div class="job-title">Senior Web Developer</div>-->
                 </div>
                 <div class="section contact">
-                     <!--<h2 class="section-title">CONTACT</h2>-->
+                    <!--<h2 class="section-title">CONTACT</h2>-->
                     <ul class="contact-info">
                         <li><i></i>✉️ ggeeraer@gmail.com</li>
                         <li><i></i>📱 +32 (496) 87 53 85</li>
@@ -428,25 +430,25 @@
                 </div>
                 <div class="section soft-skills">
                     <h2 class="section-title">SOFT SKILLS</h2>
-                <ul>
-                   <li>Curiosity</li>
-                   <li>Innovative & Creative</li>
-                   <li>Communication</li>
-                   <li>Problem solving</li>
-                   <li>Team Player</li>
-                   <li>Analytical & Strategic</li>
-                   <li>Quick Learner</li>
-                   <li>Teaching</li>
-                   <li>INTP (Logician)</li>
-                </ul>
+                    <ul>
+                        <li>Curiosity</li>
+                        <li>Innovative & Creative</li>
+                        <li>Communication</li>
+                        <li>Problem solving</li>
+                        <li>Team Player</li>
+                        <li>Analytical & Strategic</li>
+                        <li>Quick Learner</li>
+                        <li>Teaching</li>
+                        <li>INTP (Logician)</li>
+                    </ul>
                 </div>
                 <div class="section language">
                     <h2 class="section-title">Languages</h2>
-                <ul>
-                   <li>Dutch +++</li>
-                   <li>English +++</li>
-                   <li>French ++</li>
-                </ul>
+                    <ul>
+                        <li>Dutch +++</li>
+                        <li>English +++</li>
+                        <li>French ++</li>
+                    </ul>
                 </div>
                 <div class="section education">
                     <h2 class="section-title">EDUCATION</h2>
@@ -467,203 +469,207 @@
             <!-- Right Column -->
             <right-column>
                 <div class="section work-experience">
-                <h2 class="section-title">PROFILE</h2>
-                <work-item>
-                <p class="work-description">
-                   I'm a curious and creative professional with a broad range of interests and a passion for technology. I enjoy exploring new technologies just as much as connecting with people, whether customers or colleagues, by exchanging ideas and learning together.</br></br>
-                   I naturally think outside the box and like to dig deep to understand the core of a problem. My strength lies in combining critical thinking with hands-on work, building flexible, modular solutions that can grow as needs change.</br></br>
-                   I work best in a hybrid setting: focused tasks at home, collaborative ones on-site. Above all, I’m driven by meaningful work where curiosity, creativity, research, and teamwork come together to make a real impact.
-                </p>
-                </work-item>
-                <h2 class="section-title">Tech Skills</h2>
-                <!-- Example of updated work item structure for Cronos -->
-                <work-item>
-                   <work-tags>
-                      <!-- Cloud Platforms -->
-                      <skill>AWS</skill>
-                      <skill>Azure</skill>
-                      <!-- DevOps & MLOps -->
-                      <skill>Airflow</skill>
-                      <skill>DevOps</skill>
-                      <skill>Docker</skill>
-                      <skill>CI/CD</skill>
-                      <skill>Kubernetes</skill>
-                      <skill>ML(Ops)</skill>
-                      <skill>MLflow</skill>
-                      <skill>Terraform</skill>
-                      <!-- Data Science & Machine Learning -->
-                      <skill>CatBoost</skill>
-                      <skill>ETL</skill>
-                      <skill>LLM (NLP)</skill>
-                      <skill>Matplotlib</skill>
-                      <skill>Numpy</skill>
-                      <skill>Pandas</skill>
-                      <skill>Scikit-Learn</skill>
-                      <skill>Spark</skill>
-                      <!-- AI & LLM Frameworks -->
-                      <skill>LangChain</skill>
-                      <skill>LangGraph</skill>
-                      <skill>LangSmith</skill>
-                      <skill>RAG</skill>
-                      <skill>Ragas</skill>
-                      <!-- Programming & Scripting -->
-                      <skill>Bash</skill>
-                      <skill>Powershell</skill>
-                      <skill>Python</skill>
-                      <skill>SQL</skill>
-                      <!-- Web Development & Automation -->
-                      <skill>HTML</skill>
-                      <skill>CSS</skill>
-                      <skill>Django</skill>
-                      <skill>FastAPI</skill>
-                      <skill>Scrapy</skill>
-                      <skill>Selenium</skill>
-                      <skill>Streamlit</skill>
-                      <!-- Databases -->
-                      <skill>Elasticsearch</skill>
-                      <skill>Neo4j</skill>
-                      <skill>SQL</skill>
-                      <!-- OS, Networking & Virtualization -->
-                      <skill>Active Directory</skill>
-                      <skill>Linux</skill>
-                      <skill>DHCP, DNS, Firewall, iOS</skill>
-                      <skill>Proxmox</skill>
-                      <skill>Windows Server</skill>
-                      <!-- Collaboration, Tools & Methodologies -->
-                      <skill>Agile</skill>
-                      <skill>Confluence</skill>
-                      <skill>GIT</skill>
-                      <skill>IoT</skill>
-                      <skill>Jira</skill>
-                      <skill>Power BI</skill>
-                      <skill>Teaching</skill>
-                   </work-tags>
-                </work-item>
-             <h2 class="section-title">WORK EXPERIENCE</h2>
-                <!-- Example of updated work item structure for Cronos -->
-                <work-item>
-                  <work-header>
-                   <work-title>Data Engineer</work-title>
-                   <work-company>Cronos (SUMSUM) & Becode</work-company>
-                   <work-period>03 - 12/2024</work-period>
-                  </work-header>
-                  <p class="work-description">
-                   A full-time 9-month AI training including a 3 month Internship and different projects with companies.
-                </p>
-               <work-project>
-                <project-title>Developed reporting tool</project-title>
-                <p class="project-description">
-                  Generate highly custom report with visuals about project statuses via collaborative LLM Agents
-                </p>
-               </work-project>
-               <work-project>
-                <project-title>Developed RAG Chat bot</project-title>
-                <p class="project-description">
-                  Developed AI-powered collaboration platform solution during 3-month internship
-                </p>
-               </work-project>
-             </work-item>
-             <work-item>
-                <work-header>
-                   <work-title>Developer / System Engineer</work-title>
-                   <work-company>VGC</work-company>
-                   <work-period>2019-2023</work-period>
-                </work-header>
-                <p class="work-description">
-                   Developed Scripts for installers, migrations, phishing mails, ...</br>
-                   Developed Tools for synchronizing accounts between different platforms, assigning
-                   devices, printer installer, ...</br>
-                   IT Infrastructure: Managing network, Firewall, Cloud migration, ...
-                </p>
-             </work-item>
-             <work-item>
-                <work-header>
-                   <work-title>Developer / System Engineer</work-title>
-                   <work-company>Metro Group</work-company>
-                   <work-period>2014 - 2018</work-period>
-                </work-header>
-                <p class="work-description">
-                   Developed Tools: Mailbox and Printer self service tool. Tape management tool.</br>
-                   Developed Scripts: Creating and managing accounts, mailboxes, servers, ...</br>
-                   IT Infrastructure: Managing network, Firewall, Servers, ...</br>
-                </p>
-             </work-item>
-             <work-item>
-                <work-header>
-                   <work-title>Sales Digital World</work-title>
-                   <work-company>Metro Group</work-company>
-                   <work-period>2011 - 2014</work-period>
-                </work-header>
-                <p class="work-description">
-                   Sales role focused on creating a great customer experience.
-                </p>
-             </work-item>
-                <work-item>
-                    <work-header>
-                        <work-title>Developer / System Engineer</work-title>
-                        <work-company>Universiteit Gent</work-company>
-                        <work-period>2009 - 2010</work-period>
-                    </work-header>
-                    <p class="work-description">
-                        Developed a workflow tool: Streamlined workflows via custom tool.</br>
-                        Developed new features for smart textiles website.</br>
-                        IT Infrastructure for textiles department I also maintained: networks, servers, ...
-                    </p>
-              </work-item>
-             <div class="section projects">
-                    <h2 class="section-title">PROJECTS & VOLUNTEERING</h2>
+                    <h2 class="section-title">PROFILE</h2>
+                    <work-item>
+                        <p class="work-description">
+                            I'm a curious and creative tech professional who loves building things. I enjoy digging deep
+                            to find the real problem and then creating flexible, hands-on solutions. My strength is
+                            bridging the gap between complex technology and the people who use it. I'm driven by
+                            purposeful work where I can combine my passion for data and cloud technologies with teamwork
+                            to make a real impact.
+                        </p>
+                    </work-item>
+                    <h2 class="section-title">Tech Skills</h2>
+                    <!-- Example of updated work item structure for Cronos -->
+                    <work-item>
+                        <work-tags>
+                            <!-- Cloud Platforms -->
+                            <skill>AWS</skill>
+                            <skill>Azure</skill>
+                            <!-- DevOps & MLOps -->
+                            <skill>Airflow</skill>
+                            <skill>DevOps</skill>
+                            <skill>Docker</skill>
+                            <skill>CI/CD</skill>
+                            <skill>Kubernetes</skill>
+                            <skill>ML(Ops)</skill>
+                            <skill>MLflow</skill>
+                            <skill>Terraform</skill>
+                            <!-- Data Science & Machine Learning -->
+                            <skill>CatBoost</skill>
+                            <skill>ETL</skill>
+                            <skill>LLM (NLP)</skill>
+                            <skill>Matplotlib</skill>
+                            <skill>Numpy</skill>
+                            <skill>Pandas</skill>
+                            <skill>Scikit-Learn</skill>
+                            <skill>Spark</skill>
+                            <!-- AI & LLM Frameworks -->
+                            <skill>LangChain</skill>
+                            <skill>LangGraph</skill>
+                            <skill>LangSmith</skill>
+                            <skill>RAG</skill>
+                            <skill>Ragas</skill>
+                            <!-- Programming & Scripting -->
+                            <skill>Bash</skill>
+                            <skill>Powershell</skill>
+                            <skill>Python</skill>
+                            <skill>SQL</skill>
+                            <!-- Web Development & Automation -->
+                            <skill>HTML</skill>
+                            <skill>CSS</skill>
+                            <skill>Django</skill>
+                            <skill>FastAPI</skill>
+                            <skill>Scrapy</skill>
+                            <skill>Selenium</skill>
+                            <skill>Streamlit</skill>
+                            <!-- Databases -->
+                            <skill>Elasticsearch</skill>
+                            <skill>Neo4j</skill>
+                            <skill>SQL</skill>
+                            <!-- OS, Networking & Virtualization -->
+                            <skill>Active Directory</skill>
+                            <skill>Linux</skill>
+                            <skill>DHCP, DNS, Firewall, iOS</skill>
+                            <skill>Proxmox</skill>
+                            <skill>Windows Server</skill>
+                            <!-- Collaboration, Tools & Methodologies -->
+                            <skill>Agile</skill>
+                            <skill>Confluence</skill>
+                            <skill>GIT</skill>
+                            <skill>IoT</skill>
+                            <skill>Jira</skill>
+                            <skill>Power BI</skill>
+                            <skill>Teaching</skill>
+                        </work-tags>
+                    </work-item>
+                    <h2 class="section-title">WORK EXPERIENCE</h2>
+                    <!-- Example of updated work item structure for Cronos -->
                     <work-item>
                         <work-header>
-                            <work-title>Volunteered at Viso Cor Mariae</work-title>
-                            <work-period>2024</work-period>
+                            <work-title>Data Engineer</work-title>
+                            <work-company>Cronos (SUMSUM) & Becode</work-company>
+                            <work-period>03 - 12/2024</work-period>
                         </work-header>
                         <p class="work-description">
-                            I helped this school in need, Analyze there IT infrastructure, create roadmap, start on implementing and find train and startup a permanent successor.
+                            Completed an intensive, full-time AI program focused on practical skills. During my
+                            three-month internship, I dove into Generative AI, building two functional MVP's. This
+                            included a collaborative multi-agent system to automate project reporting and a RAG chatbot
+                            that let clients interact with their own business data—both built on AWS with Python and
+                            LangChain.
                         </p>
                     </work-item>
                     <work-item>
                         <work-header>
-                            <work-title>Home lab</work-title>
-                            <work-period></work-period>
+                            <work-title>Cloud & Automation Engineer</work-title>
+                            <work-company>VGC</work-company>
+                            <work-period>2019-2023</work-period>
                         </work-header>
                         <p class="work-description">
-                      I have a home-lab where I actively experiment and test out technologies as it is my main hobby I spend a lot of time here.</br>
-                   </p>
+                            I led the full migration of a fragmented, on-prem infrastructure to a unified Azure Cloud
+                            solution. This wasn't just a technical lift; it was about redesigning the foundation to be
+                            simpler, more secure, and easier for everyone to use.
+                            A key part of my role was hands-on automation with Python and PowerShell. For example, I
+                            designed and built a Python-based user management tool to cut down on manual work during
+                            hectic school start-ups. I also focused heavily on the human side—coaching colleagues and
+                            training teachers to ensure the new systems were adopted and actually improved their daily
+                            work.
+                        </p>
                     </work-item>
-            </div>
-        </right-column>
-    </div>    </div>
+                    <work-item>
+                        <work-header>
+                            <work-title>IT Systems Engineer</work-title>
+                            <work-company>Metro Group</work-company>
+                            <work-period>2014 - 2018</work-period>
+                        </work-header>
+                        <p class="work-description">
+                            I started with hands-on IT support for our stores but quickly took on more responsibility. I
+                            proactively joined the central network team, managing Cisco hardware and also became a key
+                            technical person in the user team, where I used PowerShell to automate user accounts and
+                            improve security. A big part of my job was coaching employees to become more self-reliant
+                            with technology, turning resistance into confidence.
+                        </p>
+                    </work-item>
+                    <work-item>
+                        <work-header>
+                            <work-title>Sales Digital World</work-title>
+                            <work-company>Metro Group</work-company>
+                            <work-period>2011 - 2014</work-period>
+                        </work-header>
+                        <p class="work-description">
+                            Sales role focused on creating a great customer experience.
+                        </p>
+                    </work-item>
+                    <work-item>
+                        <work-header>
+                            <work-title>Textile Department IT Lead</work-title>
+                            <work-company>Universiteit Gent</work-company>
+                            <work-period>2009 - 2010</work-period>
+                        </work-header>
+                        <p class="work-description">
+                            As the sole IT lead for the department, I handled everything from daily support to strategic
+                            projects. I led the complete modernization of our outdated IT infrastructure and developped
+                            a custom workflow tool, taking the project from initial concept to a successful launch.
+                        </p>
+                    </work-item>
+                    <br><br><br><br><br><br><br>
+                    <div class="section projects">
+                        <h2 class="section-title">PROJECTS & VOLUNTEERING</h2>
+                        <work-item>
+                            <work-header>
+                                <work-title>Volunteered at Viso Cor Mariae</work-title>
+                                <work-period>2024</work-period>
+                            </work-header>
+                            <p class="work-description">
+                                I helped this school in need, Analyze there IT infrastructure, create roadmap, start on
+                                implementing and find train and startup a permanent successor.
+                            </p>
+                        </work-item>
+                        <work-item>
+                            <work-header>
+                                <work-title>Home lab</work-title>
+                                <work-period></work-period>
+                            </work-header>
+                            <p class="work-description">
+                                I have a home-lab where I actively experiment and test out technologies as it is my main
+                                hobby I spend a lot of time here.</br>
+                            </p>
+                        </work-item>
+                    </div>
+            </right-column>
+        </div>
+    </div>
 </div>
-      </div>
+</div>
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-  const labelElements = [...document.querySelectorAll('work-tags skill')];
-  const counts = new Map();
-  labelElements.forEach(el => {
-    const text = el.textContent.trim();
-    counts.set(text, (counts.get(text) || 0) + 1);
-  });
-  const unique = [...counts.keys()].sort((a, b) => a.localeCompare(b));
-  const controls = document.createElement('div');
-  controls.id = 'label-controls';
-  let html = '<h3>Filter Tech Labels</h3>';
-  unique.forEach(label => {
-    html += `<label><input type="checkbox" data-label="${label}" checked> ${label} (${counts.get(label)})</label> `;
-  });
-  controls.innerHTML = html;
-  document.body.prepend(controls);
-  controls.addEventListener('change', e => {
-    if (e.target.type === 'checkbox') {
-      const text = e.target.dataset.label;
-      const action = e.target.checked ? 'remove' : 'add';
+    document.addEventListener('DOMContentLoaded', () => {
+      const labelElements = [...document.querySelectorAll('work-tags skill')];
+      const counts = new Map();
       labelElements.forEach(el => {
-        if (el.textContent.trim() === text) {
-          el.classList[action]('hidden');
+        const text = el.textContent.trim();
+        counts.set(text, (counts.get(text) || 0) + 1);
+      });
+      const unique = [...counts.keys()].sort((a, b) => a.localeCompare(b));
+      const controls = document.createElement('div');
+      controls.id = 'label-controls';
+      let html = '<h3>Filter Tech Labels</h3>';
+      unique.forEach(label => {
+        html += `<label><input type="checkbox" data-label="${label}" checked> ${label} (${counts.get(label)})</label> `;
+      });
+      controls.innerHTML = html;
+      document.body.prepend(controls);
+      controls.addEventListener('change', e => {
+        if (e.target.type === 'checkbox') {
+          const text = e.target.dataset.label;
+          const action = e.target.checked ? 'remove' : 'add';
+          labelElements.forEach(el => {
+            if (el.textContent.trim() === text) {
+              el.classList[action]('hidden');
+            }
+          });
         }
       });
-    }
-  });
-});
+    });
 </script>
 </body>
 </html>
