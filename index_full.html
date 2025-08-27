@@ -10,8 +10,9 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-          font-size: 12px;
+			font-size: 12px;
         }
+
         body {
             background-color: #f5f5f5;
             background-color: #f5f5f5;
@@ -19,12 +20,14 @@
             color: #333;
             line-height: 1.4;
         }
+
         /* PRINT STYLES - HIDDEN ON SCREEN */
         @media print {
             @page {
                 size: A4;
                 margin: 0;
             }
+
             body {
                 width: 210mm;
                 height: 297mm;
@@ -33,13 +36,16 @@
                 background: white;
                 color: black;
             }
+
             body * {
                 visibility: hidden;
             }
+
             .resume-container,
             .resume-container * {
                 visibility: visible;
             }
+
             .resume-container {
                 position: absolute;
                 left: 0;
@@ -47,18 +53,22 @@
                 width: 100%;
                 height: 100%;
             }
+
             /* Avoid page breaks inside content blocks */
             .section:not(:last-child) {
                 break-after: avoid;
             }
-            work-item {
+
+            .work-item {
                 break-inside: avoid;
             }
+
             /* Adjust color scheme for print */
             .resume-content {
                 background-color: transparent;
             }
-            skill {
+
+            .label {
                 background-color: #fff5d9 !important;
                 color: #333 !important;
                 border: 1px solid #ddd;
@@ -71,6 +81,7 @@
                 clear: both;             /* Good practice for break elements */
             }
         }
+
         /* SCREEN STYLES */
         @media screen {
             body {
@@ -81,6 +92,7 @@
                 align-items: center;
                 min-height: 100vh;
             }
+
             .resume-container {
                 width: 210mm;
                 min-height: 297mm;
@@ -89,6 +101,7 @@
                 position: relative;
                 margin: 20px auto;
             }
+
             /* Print navigation */
             .print-button {
                 position: fixed;
@@ -104,12 +117,14 @@
                 transition: background 0.3s;
                 z-index: 10;
             }
+
             .print-button:hover {
                 background: #083c66;
                 transform: translateY(-2px);
                 box-shadow: 0 4px 8px rgba(0,0,0,0.2);
             }
         }
+
         /* RESUME STYLES */
         .resume-content {
             display: grid;
@@ -119,24 +134,26 @@
             background-color: #fff;
             padding: 28px 20px;
         }
-        left-column {
-            display: block; /* Custom tags default to inline */
+
+        .left-column {
             padding-right: 15px;
             border-right: 1px solid #eaeaea;
         }
-        right-column {
-            display: block; /* Custom tags default to inline */
+
+        .right-column {
             padding-left: 15px;
         }
+
         .section-title {
             font-size: 14px;
             padding-bottom: 6px;
-          padding-top: 6px;
+			padding-top: 6px;
             margin-bottom: 6px;
             border-bottom: 2px solid #083c66;
             color: #083c66;
             position: relative;
         }
+
         .section-title::after {
             content: '';
             position: absolute;
@@ -146,80 +163,91 @@
             bottom: -2px;
             left: 0;
         }
+
         .header {
             padding-bottom: 15px;
             margin-bottom: 25px;
             border-bottom: 2px solid #f0f0f0;
         }
+
         .name {
             font-size: 38px;
             color: #083c66;
             margin-bottom: 5px;
         }
+
         .job-title {
             font-size: 14px;
             color: #555;
             margin-bottom: 10px;
         }
+
         .contact-info {
             list-style: none;
             margin-top: 8px;
         }
-       .contact-info {
-          text-align: left; /* Restore original alignment if needed */
-          padding-left: 10px;
-       }
+
+		.contact-info {
+			text-align: left; /* Restore original alignment if needed */
+			padding-left: 10px;
+		}
+
         .contact-info li {
             padding: 5px 0;
             color: #555;
         }
+
         .contact-info i {
             width: 20px;
             margin-right: 8px;
             color: #083c66;
         }
-        work-item {
-            display: block; /* Custom tags default to inline */
+
+
+        .work-item {
             margin-bottom: 10px;
             padding-bottom: 3px;
             border-bottom: 1px dashed #eaeaea;
         }
-        work-header {
+
+        .work-header {
             display: flex;
             justify-content: space-between;
             margin-bottom: 2px;
             font-size: 14px;
         }
-        work-title {
-            display: inline-block; /* Treat like a div */
+
+        .work-title {
             font-weight: bold;
             color: #083c66;
         }
-        work-company {
-            display: inline-block; /* Treat like a div */
+
+        .work-company {
             font-style: italic;
             color: #555;
             flex-grow: 1;
             text-align: center;
             padding: 0 10px;
         }
-        work-period {
-            display: inline-block; /* Treat like a div */
+
+        .work-period {
             color: #777;
         }
+
         .work-description {
             margin-top: 3px;
             margin-bottom: 5px;
             color: #444;
             font-size: 12px;
         }
-        work-tags {
+
+        .work-tags {
             display: flex;
             flex-wrap: wrap;
             gap: 4px;
         }
-        skill {
-            display: inline-block; /* Treat like a span */
+
+        .label {
             background-color: #fff5d9;
             color: #333;
             padding: 2px 5px;
@@ -227,18 +255,23 @@
             font-size: 13px;
             border: 1px solid rgba(0,0,0,0.1);
         }
+
         .education-item {
             margin-bottom: 15px;
         }
+
         .edu-degree {
             font-weight: bold;
         }
+
         .education-item div {
             padding: 2px 0;
         }
+
         .section-content {
             margin-bottom: 25px;
         }
+
         #logo {
             position: absolute;
             top: 20px;
@@ -246,156 +279,168 @@
             height: 60px;
             opacity: 0.7;
         }
-       /* Profile Image Styles */
-       .profile-img-container {
-          display: flex;
-          justify-content: center;
-          margin-bottom: 20px;
-       }
-       .profile-img {
-          width: 220px;
-          height: 220px;
-          border-radius: 50%;
-          object-fit: cover;
-          border: 3px solid #083c66;
-       }
-       /* Adjust header spacing */
-       .header {
-          margin-bottom: 15px;
-          text-align: center; /* Keep name centered */
-       }
-       /* Add nested project styling */
-      work-project {
-        display: block; /* Custom tags default to inline */
-        position: relative;
-        padding-left: 15px;
-        margin-top: 8px;
-        margin-bottom: 8px;
-      }
-      work-project::before {
-        content: "•";
-        position: absolute;
-        left: 0;
-        top: 0;
-        color: #083c66;
-        font-weight: bold;
-      }
-      project-title {
-        display: block; /* Custom tags default to inline */
-        font-weight: bold;
-        margin-bottom: 2px;
-        color: #444;
-        font-size: 13px;
-      }
-      .project-description {
-        margin-bottom: 3px;
-    }
-    .section.soft-skills ul,
-    .section.language ul {
-        list-style: none;
-        padding-left: 15px;
-        margin-bottom: 15px;
-    }
-    .section.soft-skills li,
-    .section.language li {
-        position: relative;
-        padding: 3px 0;
-        color: #444;
-        font-size: 12px;
-    }
-    .section.soft-skills li::before,
-    .section.language li::before {
-        content: "•";
-        position: absolute;
-        left: -15px;
-        color: #083c66;
-        font-weight: bold;
-    }
-    .section.soft-skills ul,
-    .section.language ul {
-        margin-top: 5px;
-    }
-    /* Optional: Adjust list margins for better spacing */
-    .section.education .section-content {
-        margin-bottom: 20px; /* Slightly reduced from 25px */
-    }
-       /* --- Tech Filter System CSS --- */
-    /* Style for the filter controls container */
-    #tech-filter-controls {
-        padding: 15px;
-        border: 1px solid #ccc;
-        background-color: #f8f8f8;
-        margin-bottom: 20px;
-        border-radius: 5px;
-    }
-    #tech-filter-controls h3 {
-        margin-top: 0;
-        margin-bottom: 10px;
-    }
-    /* Style for each individual filter checkbox and its label */
-    #tech-filter-controls label {
-        display: inline-block;
-        margin-right: 15px;
-        margin-bottom: 5px;
-        cursor: pointer;
-        font-size: 0.9em;
-    }
-      #label-controls {
-        background-color: #f8f8f8;
-        padding: 15px;
-        border-bottom: 2px solid #ddd;
-        margin-bottom: 20px;
-        position: relative;
-        z-index: 1000;
-      }
-      #label-controls h3 {
-        margin: 0 0 10px 0;
-      }
-      #label-controls label {
-        display: inline-block;
-        margin: 5px 10px 5px 0;
-        white-space: nowrap;
-      }
-      .hidden {
-        display: none;
-      }
-      @media print {
-        #label-controls {
-          display: none;
-        }
-        .hidden {
-          display: none;
-        }
-      }
-       .resume-wrapper {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    /* Update body styles */
-    @media screen {
-      body {
-        background-color: #e3e3e3;
-        padding: 20px;
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
-        align-items: center;
-        min-height: 100vh;
-      }
-    }
-    /* Update filter controls positioning */
+
+		/* Profile Image Styles */
+		.profile-img-container {
+			display: flex;
+			justify-content: center;
+			margin-bottom: 20px;
+		}
+
+		.profile-img {
+			width: 220px;
+			height: 220px;
+			border-radius: 50%;
+			object-fit: cover;
+			border: 3px solid #083c66;
+		}
+
+		/* Adjust header spacing */
+		.header {
+			margin-bottom: 15px;
+			text-align: center; /* Keep name centered */
+		}
+
+		/* Add nested project styling */
+  .work-project {
+    position: relative;
+    padding-left: 15px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  .work-project::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #083c66;
+    font-weight: bold;
+  }
+  .project-title {
+    font-weight: bold;
+    margin-bottom: 2px;
+    color: #444;
+    font-size: 13px;
+  }
+  .project-description {
+    margin-bottom: 3px;
+}
+.section.soft-skills ul,
+.section.language ul {
+    list-style: none;
+    padding-left: 15px;
+    margin-bottom: 15px;
+}
+
+.section.soft-skills li,
+.section.language li {
+    position: relative;
+    padding: 3px 0;
+    color: #444;
+    font-size: 12px;
+}
+
+.section.soft-skills li::before,
+.section.language li::before {
+    content: "•";
+    position: absolute;
+    left: -15px;
+    color: #083c66;
+    font-weight: bold;
+}
+
+.section.soft-skills ul,
+.section.language ul {
+    margin-top: 5px;
+}
+
+/* Optional: Adjust list margins for better spacing */
+.section.education .section-content {
+    margin-bottom: 20px; /* Slightly reduced from 25px */
+}
+
+		/* --- Tech Filter System CSS --- */
+
+/* Style for the filter controls container */
+#tech-filter-controls {
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+#tech-filter-controls h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+/* Style for each individual filter checkbox and its label */
+#tech-filter-controls label {
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+  #label-controls {
+    background-color: #f8f8f8;
+    padding: 15px;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1000;
+  }
+  #label-controls h3 {
+    margin: 0 0 10px 0;
+  }
+  #label-controls label {
+    display: inline-block;
+    margin: 5px 10px 5px 0;
+    white-space: nowrap;
+  }
+  .hidden {
+    display: none;
+  }
+  @media print {
     #label-controls {
-      width: 100%;
-      max-width: 210mm;
-      margin: 0 auto 20px auto;
-      background-color: #f8f8f8;
-      padding: 15px;
-      border-bottom: 2px solid #ddd;
-      position: relative;
-      z-index: 1000;
-      box-sizing: border-box;
+      display: none;
     }
+    .hidden {
+      display: none;
+    }
+  }
+
+		.resume-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Update body styles */
+@media screen {
+  body {
+    background-color: #e3e3e3;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 100vh;
+  }
+}
+
+/* Update filter controls positioning */
+#label-controls {
+  width: 100%;
+  max-width: 210mm;
+  margin: 0 auto 20px auto;
+  background-color: #f8f8f8;
+  padding: 15px;
+  border-bottom: 2px solid #ddd;
+  position: relative;
+  z-index: 1000;
+  box-sizing: border-box;
     </style>
 </head>
 <body>
@@ -409,9 +454,11 @@
         <img id="logo"
              src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDgzYzY2IiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMzQgNDBsMTUuMiAxMi44TDcwIDQwbDEyIDE2SDcwTDUwIDQ4IDMwIDU2SDE4eiIgZmlsbD0iI2UxYjEyYyIvPjwvc3ZnPg=="
              alt="Logo">
+
         <div class="resume-content">
             <!-- Left Column -->
-            <left-column>
+            <div class="left-column">
+
                 <div class="profile-img-container">
                     <img src="./mugshot.jpg" alt="Profile Picture" class="profile-img">
                 </div>
@@ -419,6 +466,7 @@
                     <h1 class="name">Gerrit Geeraerts</h1>
                     <!--<div class="job-title">Senior Web Developer</div>-->
                 </div>
+
                 <div class="section contact">
                     <!--<h2 class="section-title">CONTACT</h2>-->
                     <ul class="contact-info">
@@ -427,6 +475,7 @@
                         <li><i></i>📍 Haaltert, BE</li>
                     </ul>
                 </div>
+
                 <div class="section soft-skills">
                     <h2 class="section-title">SOFT SKILLS</h2>
                     <ul>
@@ -439,6 +488,7 @@
                         <li>Teaching</li>
                     </ul>
                 </div>
+
                 <div class="section language">
                     <h2 class="section-title">Languages</h2>
                     <ul>
@@ -447,6 +497,7 @@
                         <li>French ++</li>
                     </ul>
                 </div>
+
                 <div class="section education">
                     <h2 class="section-title">EDUCATION</h2>
                     <div class="section-content">
@@ -462,428 +513,333 @@
                         </div>
                     </div>
                 </div>
-            </left-column>
+            </div>
+
             <!-- Right Column -->
-            <right-column>
+            <div class="right-column">
                 <div class="section work-experience">
                     <h2 class="section-title">PROFILE</h2>
-                    <work-item>
+                    <div class="work-item">
                         <p class="work-description">
                             I'm a curious and creative professional with a broad range of interests and a passion for
                             technology. I enjoy exploring new technologies just as much as connecting with people,
                             whether customers or colleagues, by exchanging ideas and learning together.</br></br>
+
                             I naturally think outside the box and like to dig deep to understand the core of a problem.
                             My strength lies in combining critical thinking with hands-on work, building flexible,
                             modular solutions that can grow as needs change.</br></br>
-                            I work best in a hybrid setting: focused tasks at home, collaborative ones on-site. Above
-                            all, I’m driven by meaningful work where curiosity, creativity, research, and teamwork come
-                            together to make a real impact.
                         </p>
-                    </work-item>
-                    <h2 class="section-title">WORK EXPERIENCE</h2>
-                    <!-- Example of updated work item structure for Cronos -->
-                    <work-item>
-                        <work-header>
-                            <work-title>AI & Data Engineer</work-title>
-                            <work-company>Cronos (SUMSUM) & Becode</work-company>
-                            <work-period>03 - 12/2024</work-period>
-                        </work-header>
-                        <p class="work-description">
-                            A full-time 9-month AI training including a 3 month Internship and different projects with
-                            companies.
-                        </p>
-                        <work-tags>
-                            <skill>Azure</skill>
-                            <skill>Agile</skill>
-                            <skill>ETL</skill>
-                            <skill>Pandas</skill>
-                            <skill>Numpy</skill>
-                            <skill>Spark</skill>
-                            <skill>Scikit-Learn</skill>
-                            <skill>CatBoost</skill>
-                            <skill>ML(Ops)</skill>
-                            <skill>Airflow</skill>
-                            <skill>MLflow</skill>
-                            <skill>Power BI</skill>
-                            <skill>Terraform</skill>
-                            <skill>Kubernetes</skill>
-                            <skill>Selenium</skill>
-                            <skill>FastAPI</skill>
-                            <skill>Scrapy</skill>
-                            <skill>Neo4j</skill>
-                        </work-tags>
-                        <work-project>
-                            <project-title>Developed reporting tool</project-title>
-                            <p class="project-description">
-                                Generate highly custom report with visuals about project statuses via collaborative LLM
-                                Agents
-                            </p>
-                            <work-tags>
-                                <skill>LLM (NLP)</skill>
-                                <skill>RAG</skill>
-                                <skill>AWS</skill>
-                                <skill>Python</skill>
-                                <skill>GIT</skill>
-                                <skill>Linux</skill>
-                                <skill>Bash</skill>
-                                <skill>Docker</skill>
-                                <skill>Elasticsearch</skill>
-                                <skill>Ragas</skill>
-                                <skill>Streamlit</skill>
-                                <skill>LangChain</skill>
-                                <skill>LangGraph</skill>
-                                <skill>LangSmith</skill>
-                            </work-tags>
-                        </work-project>
-                        <work-project>
-                            <project-title>Developed RAG Chat bot</project-title>
-                            <p class="project-description">
-                                Developed AI-powered collaboration platform solution during 3-month internship
-                            </p>
-                            <work-tags>
-                                <skill>AWS</skill>
-                                <skill>LLM (NLP)</skill>
-                                <skill>Python</skill>
-                                <skill>GIT</skill>
-                                <skill>Linux</skill>
-                                <skill>Bash</skill>
-                                <skill>Streamlit</skill>
-                            </work-tags>
-                        </work-project>
-                    </work-item>
-                    <work-item>
-                        <work-header>
-                            <work-title>Cloud & Automation Engineer</work-title>
-                            <work-company>VGC</work-company>
-                            <work-period>2019-2023</work-period>
-                        </work-header>
-                        <p class="work-description">
-                            For VGC I took the technical lead for the Digisprong and took initiative and project lead to
-                            upgrade there existing hybrid infrastructure to a full cloud Azure solution that is more
-                            user friendly, secure, low maintenance.
-                        </p>
-                        <work-project>
-                            <project-title>Digisprong</project-title>
-                            <p class="project-description">
-                                Modernize schools to create a seamless, inclusive, and low-maintenance digital learning
-                                environment focused on iPads that is designed to enhance the educational experience for
-                                teachers and students with disabilities. Change management, together with a leading
-                                teacher inspiring colleagues to onboard on this digital jump. I especially enjoy working
-                                the with the users with more resistance getting to them to onboard them. I took the
-                                technical lead in discovering different solutions and testing them, analyzing how to
-                                integrate in our existing infrastructure and which suits best to the needs of the
-                                teachers. Using a phased roll out with test users to get feedback and adjust. My work on
-                                this project also led to initiative to improve the existing infrastructure by migrating
-                                fully to the cloud and create a multi platform sync.
-                            </p>
-                            <work-tags>
-                                <skill>Ipad</skill>
-                                <skill>Jamf</skill>
-                                <skill>Powershell</skill>
-                                <skill>Azure</skill>
-                                <skill>Cloud</skill>
-                                <skill>Azure AD (Entra)</skill>
-                            </work-tags>
-                        </work-project>
-                        <work-project>
-                            <project-title>Cloud migration & infrastructure simplification</project-title>
-                            <p class="project-description">
-                                I took the initiative and project lead to discover and analyze the current IT
-                                infrastructure, I saw a lot of potential to improve. Migrating from a fragmented multi
-                                domain on-prem hybrid Infrastructure towards a more unified cloud solution with lower
-                                operational load, more secure more user friendly infrastructure and created a road map
-                                for improvements. I took the lead in technical implementation and making sure that
-                                colleague's part of the solution, coaching them and upgrading there skills as 1 day they
-                                have to move on without me and maintain and expand the infra without me. As well as
-                                change management ensuring ALL users are also using the infrastructure as intended,
-                                communicating with management and end users, giving training's and mentoring the users
-                                to get over barriers. For me its also important that ALL users are onboard I focus on
-                                the the users have the biggest barrier and involve these users in training's, as they
-                                become role models of overcoming barriers and stimulate other users to get on board.
-                                Fractional deploying solutions step taking in user feedback to steer as we go.
-                            </p>
-                            <work-tags>
-                                <skill>Azure AD (Entra)</skill>
-                                <skill>Azure</skill>
-                                <skill>PowerShell</skill>
-                                <skill>Python</skill>
-                                <skill>SQL</skill>
-                                <skill>MS Graph</skill>
-                                <skill>API</skill>
-                                <skill>DHCP</skill>
-                                <skill>DNS</skill>
-                                <skill>SSO</skill>
-                            </work-tags>
-                        </work-project>
-                        <work-project>
-                            <project-title>Multi platform sync and install manager</project-title>
-                            <p class="project-description">
-                                I took the lead, designed and developed of User sync and install platform that speeds up
-                                hectic starts of a school year. Cutting workload when it matters, improving user
-                                experience and increase compliance.
-                            </p>
-                            <work-tags>
-                                <skill>Python</skill>
-                                <skill>Django</skill>
-                                <skill>Azure</skill>
-                                <skill>Azure AD (Entra)</skill>
-                                <skill>MS Graph</skill>
-                                <skill>API</skill>
-                                <skill>SQL</skill>
-                                <skill>ORM</skill>
-                                <skill>Powershell</skill>
-                                <skill>Automated Tests</skill>
-                                <skill>GIT</skill>
-                                <skill>Bash</skill>
-                                <skill>Linux</skill>
-                            </work-tags>
-                        </work-project>
-                    </work-item>
-                    <work-item>
-                        <work-header>
-                            <work-title>IT Systems Engineer</work-title>
-                            <work-company>Metro Group</work-company>
-                            <work-period>2014 - 2018</work-period>
-                        </work-header>
-                        <p class="work-description">
-                            I started out as store support employee offering IT support to 1 big store and 1 small
-                            store, expanded with an extra big store. I ran out of these perimeters of this job quickly
-                            and proactively took responsibilities of co joining the network (CISCO) team where i managed
-                            switches, routers, firewalls, wifi across all national stores. I also joined the user team
-                            responsible for GDPR, User accounts and experience and took over the lead for backup
-                            solutions.
-                        </p>
-                        <work-tags>
-                            <skill>Agile</skill>
-                            <skill>Scrum</skill>
-                            <skill>...</skill>
-                        </work-tags>
-                        <work-project>
-                            <project-title>Store support</project-title>
-                            <p class="project-description">
-                            </p>
-                            I did store support for 2 big and 1 small store as the company was restructuring the IT
-                            department I was responsible in my stores to coach end user to be more self reliant and
-                            train power user to take on "simple" IT requests and boosting the IT knowledge of the
-                            operational personnel. What i am good at is the hard users, users that have a barrier or
-                            resistance against IT, it is a passion of me to take a way friction in jobs with tech but
-                            people can have resistance to change and an I like to listen to end users to see what pain
-                            point are and build it solutions but its also important that this gets followed up and that
-                            people can actually use the new tool and get over their barriers. I do not only love to
-                            build solution that are better but have an A to Z approach that a solutions lands well and
-                            actually gets used.
-                            <work-tags>
-                                <skill>Confluence</skill>
-                                <skill>Jira</skill>
-                                <skill>...</skill>
-                            </work-tags>
-                        </work-project>
-                        <work-project>
-                            <project-title>Network</project-title>
-                            <p class="project-description">
-                                After I started I took on pretty quickly a new responsibility to join the networking
-                                team, a more technical role where I am managing switches, router, wifi, firewalls, dhcp,
-                                dns and tech work with starting up of network with new stores as well as a revision of
-                                our neglected for to long networking solutions.
-                            </p>
-                            <work-tags>
-                                <skill>Powershell</skill>
-                                <skill>Network</skill>
-                                <skill>Confluence</skill>
-                                <skill>WiFi</skill>
-                                <skill>Jira</skill>
-                            </work-tags>
-                        </work-project>
-                        <work-project>
-                            <project-title>User Accounts & Experience</project-title>
-                            <p class="project-description">
-                                I also joined the User team redesigning our User account and an user access policies. I
-                                was mostly technical involved in this project developing user creation scripts, ans
-                                creating self service user applications to install mailboxes, printers. Automatically
-                                creating documentation for compliancy.
-                            </p>
-                            <work-tags>
-                                <skill>Powershell</skill>
-                                <skill>SQL</skill>
-                                <skill>Confluence</skill>
-                            </work-tags>
-                        </work-project>
-                        <work-project>
-                            <project-title>Backup responisble</project-title>
-                            <p class="project-description">
-                                Take over the lead in tape backup solution reevaluation of current backup solution and
-                                making sure backup is trustworthy. Developed app for an extra control layer over tape
-                                transfers to an offsite location.
-                            </p>
-                            <work-tags>
-                                <skill>Powershell</skill>
-                                <skill>API</skill>
-                                <skill>SQL</skill>
-                            </work-tags>
-                        </work-project>
-                    </work-item>
-                    <work-item>
-                        <work-header>
-                            <work-title>ICT Teacher</work-title>
-                            <work-company>GLTT</work-company>
-                            <work-period>2013</work-period>
-                        </work-header>
-                        <p class="work-description">
-                            I took on a role as an ICT teacher for adults where my main focus was making technology accessible to
-                            everyone. My strength was breaking down complicated technical information into small, clear,
-                            and easy-to-understand concepts. I wanted to make sure every student felt confident and
-                            capable, no matter their starting point.
-                        </p>
-                    </work-item>
-                    <work-item>
-                        <work-header>
-                            <work-title>Sales Digital World</work-title>
-                            <work-company>Metro Group</work-company>
-                            <work-period>2011 - 2014</work-period>
-                        </work-header>
-                        <p class="work-description">
-                            Sales role focused on creating a great customer experience.
-                        </p>
-                    </work-item>
-                    <work-item>
-                        <work-header>
-                            <work-title>Textile Department IT Lead</work-title>
-                            <work-company>UGent</work-company>
-                            <work-period>2009 - 2010</work-period>
-                        </work-header>
-                        <p class="work-description">
-                            For the entire Textile department, I was the single person for all things IT. From daily
-                            support to bigger strategic projects.
-                        </p>
-                        <work-project>
-                            <project-title>Custom Workflow Tool</project-title>
-                            <p class="project-description">
-                                One of my key projects was a new workflow tool. It all started with understanding what
-                                people really needed. From there, I drew up the blueprint for the entire system. I then
-                                mentored a student who did the coding, guiding him from the first line to the final
-                                product. After we went live, I stayed on to make sure it ran smoothly and to roll out
-                                improvements.
-                            </p>
-                            <work-tags>
-                                <skill>.NET</skill>
-                                <skill>SQL</skill>
-                                <skill>HTML</skill>
-                                <skill>CSS</skill>
-                            </work-tags>
-                        </work-project>
-                        <work-project>
-                            <project-title>IT Infrastructure Modernization</project-title>
-                            <p class="project-description">
-                                Perhaps my biggest challenge was tackling the IT infrastructure. The old system was
-                                outdated and unreliable. I led the charge to replace it completely, moving us to a
-                                modern setup that was far more stable, user-friendly, and much, much easier to maintain.
-                            </p>
-                            <work-tags>
-                                <skill>DHCP</skill>
-                                <skill>DNS</skill>
-                                <skill>AD</skill>
-                            </work-tags>
-                        </work-project>
-                        <work-project>
-                            <project-title>Smart Textiles Website Enhancement</project-title>
-                            <p class="project-description">
-                                I also took on our Smart Textiles website. My role was to keep it fresh and evolving for
-                                our users by building out important new features that added real value and improved the
-                                overall experience.
-                            </p>
-                            <work-tags>
-                                <skill>PHP</skill>
-                                <skill>Drupal</skill>
-                                <skill>HTML</skill>
-                                <skill>CSS</skill>
-                            </work-tags>
-                        </work-project>
-                    </work-item>
-                    <div class="section projects">
-                        <h2 class="section-title">PROJECTS & VOLUNTEERING</h2>
-                        <work-item>
-                            <work-header>
-                                <work-title>Volunteered at Viso Cor Mariae</work-title>
-                                <work-period>2024</work-period>
-                            </work-header>
+
+                        <h2 class="section-title">Tech Skills</h2>
+
+                        <!-- Example of updated work item structure for Cronos -->
+                        <div class="work-item">
+                            <div class="work-tags">
+                                <!-- Cloud Platforms -->
+                                <span class="label">AWS</span>
+                                <span class="label">Azure</span>
+
+                                <!-- DevOps & MLOps -->
+                                <span class="label">Airflow</span>
+                                <span class="label">DevOps</span>
+                                <span class="label">Docker</span>
+                                <span class="label">CI/CD</span>
+                                <span class="label">Kubernetes</span>
+                                <span class="label">ML(Ops)</span>
+                                <span class="label">MLflow</span>
+                                <span class="label">Terraform</span>
+
+                                <!-- Data Science & Machine Learning -->
+                                <span class="label">CatBoost</span>
+                                <span class="label">ETL</span>
+                                <span class="label">LLM (NLP)</span>
+                                <span class="label">Matplotlib</span>
+                                <span class="label">Seaborn</span>
+                                <span class="label">Numpy</span>
+                                <span class="label">Pandas</span>
+                                <span class="label">Scikit-Learn</span>
+                                <span class="label">Spark</span>
+
+                                <!-- AI & LLM Frameworks -->
+                                <span class="label">LangChain</span>
+                                <span class="label">LangGraph</span>
+                                <span class="label">LangSmith</span>
+                                <span class="label">RAG</span>
+                                <span class="label">Ragas</span>
+
+                                <!-- Programming & Scripting -->
+                                <span class="label">Bash</span>
+                                <span class="label">Powershell</span>
+                                <span class="label">Python</span>
+                                <span class="label">SQL</span>
+
+                                <!-- Web Development & Automation -->
+                                <span class="label">HTML</span>
+                                <span class="label">CSS</span>
+                                <span class="label">Django</span>
+                                <span class="label">FastAPI</span>
+                                <span class="label">Scrapy</span>
+                                <span class="label">Selenium</span>
+                                <span class="label">Streamlit</span>
+
+                                <!-- Databases -->
+                                <span class="label">Elasticsearch</span>
+                                <span class="label">Neo4j</span>
+                                <span class="label">SQL</span>
+
+                                <!-- OS, Networking & Virtualization -->
+                                <span class="label">Active Directory</span>
+                                <span class="label">Linux</span>
+                                <span class="label">DHCP, DNS, Firewall, iOS</span>
+                                <span class="label">Proxmox</span>
+                                <span class="label">Windows Server</span>
+
+                                <!-- Collaboration, Tools & Methodologies -->
+                                <span class="label">Agile</span>
+                                <span class="label">Confluence</span>
+                                <span class="label">GIT</span>
+                                <span class="label">IoT</span>
+                                <span class="label">Jira</span>
+                                <span class="label">Power BI</span>
+                                <span class="label">Teaching</span>
+                            </div>
+                        </div>
+
+                        <h2 class="section-title">WORK EXPERIENCE</h2>
+
+                        <!-- Example of updated work item structure for Cronos -->
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">AI & Data Engineer</div>
+                                <div class="work-company">Cronos (SUMSUM) & Becode</div>
+                                <div class="work-period">03 - 12/2024</div>
+                            </div>
                             <p class="work-description">
-                                I helped this school in need, Analyze there IT infrastructure, create roadmap, start on
-                                implementing and find, train and startup a permanent successor.
+                                A full-time 9-month AI training including a 3 month Internship and different projects
+                                with companies.
                             </p>
-                            <work-tags>
-                                <skill>Azure</skill>
-                            </work-tags>
-                        </work-item>
-                        <work-item>
-                            <work-header>
-                                <work-title>Home lab</work-title>
-                                <work-period></work-period>
-                            </work-header>
+
+                            <div class="work-project">
+                                <div class="project-title">Developed reporting tool</div>
+                                <p class="project-description">
+                                    Generate highly custom report with visuals about project statuses via collaborative
+                                    LLM Agents
+                                </p>
+
+                            </div>
+
+                            <div class="work-project">
+                                <div class="project-title">Developed RAG Chat bot</div>
+                                <p class="project-description">
+                                    Developed AI-powered collaboration platform solution during 3-month internship
+                                </p>
+
+                            </div>
+                        </div>
+
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">Cloud & Automation Engineer</div>
+                                <div class="work-company">VGC</div>
+                                work-description
+                                <div class="work-period">2019-2023</div>
+                            </div>
+                            <p class="">
+                                For VGC I took the technical lead for the Digisprong and took initiative and project
+                                lead to upgrade there existing hybrid infrastructure to a full cloud Azure solution that
+                                is more user friendly, secure, low maintenance.
+                            </p>
+                            <div class="work-project">
+                                <div class="project-title">Digisprong</div>
+                                <p class="project-description">
+                                    Modernize schools to create a seamless, inclusive, and low-maintenance digital
+                                    learning environment focused on iPads that is designed to enhance the educational
+                                    experience for teachers and students with disabilities. Change management, together
+                                    with a leading teacher inspiring colleagues to onboard on this digital jump. I
+                                    especially enjoy working the with the users with more resistance getting to them to
+                                    onboard them. I took the technical lead in discovering different solutions and
+                                    testing them, analyzing how to integrate in our existing infrastructure and which
+                                    suits best to the needs of the teachers. Using a phased roll out with test users to
+                                    get feedback and adjust. My work on this project also led to initiative to improve
+                                    the existing infrastructure by migrating fully to the cloud and create a multi
+                                    platform sync.
+                                </p>
+                            </div>
+                            <br><br><br><br><br><br><br><br><br><br>
+                            <div class="work-project">
+                                <div class="project-title">Cloud migration & infrastructure simplification</div>
+                                <p class="project-description">
+                                    I took the initiative and project lead to discover and analyze the current IT
+                                    infrastructure, I saw a lot of potential to improve. Migrating from a fragmented
+                                    multi domain on-prem hybrid Infrastructure towards a more unified cloud solution
+                                    with lower operational load, more secure more user friendly infrastructure and
+                                    created a road map for improvements. I took the lead in technical implementation and
+                                    making sure that colleague's part of the solution, coaching them and upgrading there
+                                    skills as 1 day they have to move on without me and maintain and expand the infra
+                                    without me. As well as change management ensuring ALL users are also using the
+                                    infrastructure as intended, communicating with management and end users, giving
+                                    training's and mentoring the users to get over barriers. For me its also important
+                                    that ALL users are onboard I focus on the the users have the biggest barrier and
+                                    involve these users in training's, as they become role models of overcoming barriers
+                                    and stimulate other users to get on board. Fractional deploying solutions step step
+                                    taking in user feedback to steer as we go.
+                                </p>
+                            </div>
+                            <div class="work-project">
+                                <div class="project-title">Multi platform sync and install manager</div>
+                                <p class="project-description">
+                                    I took the lead, designed and developed of User sync and install platform that
+                                    speeds up hectic starts of a school year. Cutting workload when it matters,
+                                    improving user experience and increase compliance.
+                                </p>
+                            </div>
+
+                        </div>
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">IT Systems Engineer</div>
+                                <div class="work-company">Metro Group</div>
+                                <div class="work-period">2014 - 2018</div>
+                            </div>
                             <p class="work-description">
-                                I have a home-lab where I actively experiment and test out technologies as it is my main
-                                hobby I spend a lot of time here.</br>
+                                I started out as store support employee offering IT support to 1 big store and 1 small
+                                store, expanded with an extra big store. I ran out of these perimeters of this job
+                                quickly and proactively took responsibilities of co joining the network (CISCO) team
+                                where i managed switches, routers, firewalls, wifi across all national stores. I also
+                                joined the user team responsible for GDPR, User accounts and experience and took over
+                                the lead for backup solutions.
                             </p>
-                            <work-tags>
-                                <skill>ML(Ops)</skill>
-                                <skill>MLflow</skill>
-                                <skill>LLM (NLP)</skill>
-                                <skill>RAG</skill>
-                                <skill>Matplotlib</skill>
-                                <skill>Pandas</skill>
-                                <skill>Numpy</skill>
-                                <skill>Airflow</skill>
-                                <skill>Python</skill>
-                                <skill>FastAPI</skill>
-                                <skill>Django</skill>
-                                <skill>CI/CD</skill>
-                                <skill>GIT</skill>
-                                <skill>DevOps</skill>
-                                <skill>IoT</skill>
-                                <skill>Docker</skill>
-                                <!-- <skill>VM's</skill>-->
-                                <skill>Proxmox</skill>
-                                <skill>Streamlit</skill>
-                                <skill>LangChain</skill>
-                                <skill>LangGraph</skill>
-                                <skill>LangSmith</skill>
-                                <skill>Scrapy</skill>
-                                <skill>Selenium</skill>
-                            </work-tags>
-                        </work-item>
+                            <div class="work-project">
+                                <div class="project-title">Store support</div>
+                                <p class="project-description">
+                                </p>
+                                I did store support for 2 big and 1 small store as the company was restructuring the IT
+                                department I was responsible in my stores to coach end user to be more self reliant and
+                                train power user to take on "simple" IT requests and boosting the IT knowledge of the
+                                operational personnel. What i am good at is the hard users, users that have a barrier or
+                                resistance against IT, it is a passion of me to take a way friction in jobs with tech
+                                but people can have resistance to change and an I like to listen to end users to see
+                                what pain point are and build it solutions but its also important that this gets
+                                followed up and that people can actually use the new tool and get over their barriers. I
+                                do not only love to build solution that are better but have an A to Z approach that a
+                                solutions lands well and actually gets used.
+                            </div>
+                            <div class="work-project">
+                                <div class="project-title">Network</div>
+                                <p class="project-description">
+                                    After I started I took on pretty quickly a new responsibility to join the networking
+                                    team, a more technical role where I am managing switches, router, wifi, firewalls,
+                                    dhcp, dns and tech work with starting up of network with new stores as well as a
+                                    revision of our neglected for to long networking solutions.
+                                </p>
+
+                            </div>
+                            <div class="work-project">
+                                <div class="project-title">User Accounts & Experience</div>
+                                <p class="project-description">
+                                    I also joined the User team redesigning our User account and an user access
+                                    policies. I was mostly technical involved in this project developing user creation
+                                    scripts, ans creating self service user applications to install mailboxes, printers.
+                                    Automatically creating documentation for compliancy.
+                                </p>
+
+                            </div>
+                            <div class="work-project">
+                                <div class="project-title">Backup responisble</div>
+                                <p class="project-description">
+                                    Take over the lead in tape backup solution reevaluation of current backup solution
+                                    and making sure backup is trustworthy. Developed app for an extra control layer over
+                                    tape transfers to an offsite location.
+                                </p>
+
+                            </div>
+                        </div>
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">Sales Digital World</div>
+                                <div class="work-company">Metro Group</div>
+                                <div class="work-period">2011 - 2014</div>
+                            </div>
+                            <p class="work-description">
+                                Sales role focused on creating a great customer experience.
+                            </p>
+                        </div>
+                        <br><br><br><br><br><br><br>
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">Textile Department IT Lead</div>
+                                <div class="work-company">Universiteit Gent</div>
+                                <div class="work-period">2009 - 2010</div>
+                            </div>
+                            <p class="work-description">
+                                Developed a workflow tool: Streamlined workflows via custom tool.</br>
+                                Developed new features for smart textiles website.</br>
+                                IT Infrastructure for textiles department I also maintained: networks, servers, ...
+                            </p>
+
+                        </div>
+                        <div class="section projects">
+                            <h2 class="section-title">PROJECTS & VOLUNTEERING</h2>
+                            <div class="work-item">
+                                <div class="work-header">
+                                    <div class="work-title">Volunteered at Viso Cor Mariae</div>
+                                    <div class="work-period">2024</div>
+                                </div>
+                                <p class="work-description">
+                                    I helped this school in need, Analyze there IT infrastructure, create roadmap, start
+                                    on implementing and find train and startup a permanent successor.
+                                </p>
+                            </div>
+                            <div class="work-item">
+                                <div class="work-header">
+                                    <div class="work-title">Home lab</div>
+                                    <div class="work-period"></div>
+                                </div>
+                                <p class="work-description">
+                                    I have a home-lab where I actively experiment and test out technologies as it is my
+                                    main hobby I spend a lot of time here.</br>
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
-            </right-column>
+            </div>
         </div>
     </div>
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-          const labelElements = [...document.querySelectorAll('work-tags skill')];
-          const counts = new Map();
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const labelElements = [...document.querySelectorAll('.work-tags .label')];
+
+      const counts = new Map();
+      labelElements.forEach(el => {
+        const text = el.textContent.trim();
+        counts.set(text, (counts.get(text) || 0) + 1);
+      });
+
+      const unique = [...counts.keys()].sort((a, b) => a.localeCompare(b));
+
+      const controls = document.createElement('div');
+      controls.id = 'label-controls';
+      let html = '<h3>Filter Tech Labels</h3>';
+      unique.forEach(label => {
+        html += `<label><input type="checkbox" data-label="${label}" checked> ${label} (${counts.get(label)})</label> `;
+      });
+      controls.innerHTML = html;
+      document.body.prepend(controls);
+
+      controls.addEventListener('change', e => {
+        if (e.target.type === 'checkbox') {
+          const text = e.target.dataset.label;
+          const action = e.target.checked ? 'remove' : 'add';
           labelElements.forEach(el => {
-            const text = el.textContent.trim();
-            counts.set(text, (counts.get(text) || 0) + 1);
-          });
-          const unique = [...counts.keys()].sort((a, b) => a.localeCompare(b));
-          const controls = document.createElement('div');
-          controls.id = 'label-controls';
-          let html = '<h3>Filter Tech Labels</h3>';
-          unique.forEach(label => {
-            html += `<label><input type="checkbox" data-label="${label}" checked> ${label} (${counts.get(label)})</label> `;
-          });
-          controls.innerHTML = html;
-          document.body.prepend(controls);
-          controls.addEventListener('change', e => {
-            if (e.target.type === 'checkbox') {
-              const text = e.target.dataset.label;
-              const action = e.target.checked ? 'remove' : 'add';
-              labelElements.forEach(el => {
-                if (el.textContent.trim() === text) {
-                  el.classList[action]('hidden');
-                }
-              });
+            if (el.textContent.trim() === text) {
+              el.classList[action]('hidden');
             }
           });
-        });
-    </script>
+        }
+      });
+    });
+</script>
 </body>
 </html>

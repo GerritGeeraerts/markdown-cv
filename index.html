@@ -10,8 +10,9 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-          font-size: 12px;
+			font-size: 12px;
         }
+
         body {
             background-color: #f5f5f5;
             background-color: #f5f5f5;
@@ -19,12 +20,14 @@
             color: #333;
             line-height: 1.4;
         }
+
         /* PRINT STYLES - HIDDEN ON SCREEN */
         @media print {
             @page {
                 size: A4;
                 margin: 0;
             }
+
             body {
                 width: 210mm;
                 height: 297mm;
@@ -33,13 +36,16 @@
                 background: white;
                 color: black;
             }
+
             body * {
                 visibility: hidden;
             }
+
             .resume-container,
             .resume-container * {
                 visibility: visible;
             }
+
             .resume-container {
                 position: absolute;
                 left: 0;
@@ -47,18 +53,22 @@
                 width: 100%;
                 height: 100%;
             }
+
             /* Avoid page breaks inside content blocks */
             .section:not(:last-child) {
                 break-after: avoid;
             }
-            work-item {
+
+            .work-item {
                 break-inside: avoid;
             }
+
             /* Adjust color scheme for print */
             .resume-content {
                 background-color: transparent;
             }
-            skill {
+
+            .label {
                 background-color: #fff5d9 !important;
                 color: #333 !important;
                 border: 1px solid #ddd;
@@ -71,6 +81,7 @@
                 clear: both;             /* Good practice for break elements */
             }
         }
+
         /* SCREEN STYLES */
         @media screen {
             body {
@@ -81,6 +92,7 @@
                 align-items: center;
                 min-height: 100vh;
             }
+
             .resume-container {
                 width: 210mm;
                 min-height: 297mm;
@@ -89,6 +101,7 @@
                 position: relative;
                 margin: 20px auto;
             }
+
             /* Print navigation */
             .print-button {
                 position: fixed;
@@ -104,12 +117,14 @@
                 transition: background 0.3s;
                 z-index: 10;
             }
+
             .print-button:hover {
                 background: #083c66;
                 transform: translateY(-2px);
                 box-shadow: 0 4px 8px rgba(0,0,0,0.2);
             }
         }
+
         /* RESUME STYLES */
         .resume-content {
             display: grid;
@@ -119,24 +134,26 @@
             background-color: #fff;
             padding: 28px 20px;
         }
-        left-column {
-            display: block; /* Custom tags default to inline */
+
+        .left-column {
             padding-right: 15px;
             border-right: 1px solid #eaeaea;
         }
-        right-column {
-            display: block; /* Custom tags default to inline */
+
+        .right-column {
             padding-left: 15px;
         }
+
         .section-title {
             font-size: 14px;
             padding-bottom: 6px;
-          padding-top: 6px;
+			padding-top: 6px;
             margin-bottom: 6px;
             border-bottom: 2px solid #083c66;
             color: #083c66;
             position: relative;
         }
+
         .section-title::after {
             content: '';
             position: absolute;
@@ -146,81 +163,91 @@
             bottom: -2px;
             left: 0;
         }
+
         .header {
             padding-bottom: 15px;
             margin-bottom: 25px;
             border-bottom: 2px solid #f0f0f0;
         }
+
         .name {
             font-size: 38px;
             color: #083c66;
             margin-bottom: 5px;
         }
+
         .job-title {
             font-size: 14px;
             color: #555;
             margin-bottom: 10px;
         }
+
         .contact-info {
             list-style: none;
             margin-top: 8px;
         }
-       .contact-info {
-          text-align: left; /* Restore original alignment if needed */
-          padding-left: 10px;
-       }
+
+		.contact-info {
+			text-align: left; /* Restore original alignment if needed */
+			padding-left: 10px;
+		}
+
         .contact-info li {
             padding: 5px 0;
             color: #555;
         }
+
         .contact-info i {
             width: 20px;
             margin-right: 8px;
             color: #083c66;
         }
 
-        work-item {
-            display: block; /* Custom tags are inline by default */
+
+        .work-item {
             margin-bottom: 10px;
             padding-bottom: 3px;
             border-bottom: 1px dashed #eaeaea;
         }
-        work-header {
+
+        .work-header {
             display: flex;
             justify-content: space-between;
             margin-bottom: 2px;
             font-size: 14px;
         }
-        work-title {
-            display: inline-block;
+
+        .work-title {
             font-weight: bold;
             color: #083c66;
         }
-        work-company {
-            display: inline-block;
+
+        .work-company {
             font-style: italic;
             color: #555;
             flex-grow: 1;
             text-align: center;
             padding: 0 10px;
         }
-        work-period {
-            display: inline-block;
+
+        .work-period {
             color: #777;
         }
+
         .work-description {
             margin-top: 3px;
             margin-bottom: 5px;
             color: #444;
             font-size: 12px;
         }
-        work-tags {
+
+        .work-tags {
             display: flex;
             flex-wrap: wrap;
             gap: 4px;
         }
-        skill {
-            display: inline-block;
+
+        .label {
             background-color: #fff5d9;
             color: #333;
             padding: 2px 5px;
@@ -228,18 +255,23 @@
             font-size: 13px;
             border: 1px solid rgba(0,0,0,0.1);
         }
+
         .education-item {
             margin-bottom: 15px;
         }
+
         .edu-degree {
             font-weight: bold;
         }
+
         .education-item div {
             padding: 2px 0;
         }
+
         .section-content {
             margin-bottom: 25px;
         }
+
         #logo {
             position: absolute;
             top: 20px;
@@ -247,207 +279,224 @@
             height: 60px;
             opacity: 0.7;
         }
-       /* Profile Image Styles */
-       .profile-img-container {
-          display: flex;
-          justify-content: center;
-          margin-bottom: 20px;
-       }
-       .profile-img {
-          width: 220px;
-          height: 220px;
-          border-radius: 50%;
-          object-fit: cover;
-          border: 3px solid #083c66;
-       }
-       /* Adjust header spacing */
-       .header {
-          margin-bottom: 15px;
-          text-align: center; /* Keep name centered */
-       }
-       /* Add nested project styling */
-      work-project {
-        display: block;
-        position: relative;
-        padding-left: 15px;
-        margin-top: 8px;
-        margin-bottom: 8px;
-      }
-      work-project::before {
-        content: "•";
-        position: absolute;
-        left: 0;
-        top: 0;
-        color: #083c66;
-        font-weight: bold;
-      }
-      project-title {
-        display: block;
-        font-weight: bold;
-        margin-bottom: 2px;
-        color: #444;
-        font-size: 13px;
-      }
-      .project-description {
-        margin-bottom: 3px;
-    }
-    .section.soft-skills ul,
-    .section.language ul {
-        list-style: none;
-        padding-left: 15px;
-        margin-bottom: 15px;
-    }
-    .section.soft-skills li,
-    .section.language li {
-        position: relative;
-        padding: 3px 0;
-        color: #444;
-        font-size: 12px;
-    }
-    .section.soft-skills li::before,
-    .section.language li::before {
-        content: "•";
-        position: absolute;
-        left: -15px;
-        color: #083c66;
-        font-weight: bold;
-    }
-    .section.soft-skills ul,
-    .section.language ul {
-        margin-top: 5px;
-    }
-    /* Optional: Adjust list margins for better spacing */
-    .section.education .section-content {
-        margin-bottom: 20px; /* Slightly reduced from 25px */
-    }
-       /* --- Tech Filter System CSS --- */
-    /* Style for the filter controls container */
-    #tech-filter-controls {
-        padding: 15px;
-        border: 1px solid #ccc;
-        background-color: #f8f8f8;
-        margin-bottom: 20px;
-        border-radius: 5px;
-    }
-    #tech-filter-controls h3 {
-        margin-top: 0;
-        margin-bottom: 10px;
-    }
-    /* Style for each individual filter checkbox and its label */
-    #tech-filter-controls label {
-        display: inline-block;
-        margin-right: 15px;
-        margin-bottom: 5px;
-        cursor: pointer;
-        font-size: 0.9em;
-    }
-      #label-controls {
-        background-color: #f8f8f8;
-        padding: 15px;
-        border-bottom: 2px solid #ddd;
-        margin-bottom: 20px;
-        position: relative;
-        z-index: 1000;
-      }
-      #label-controls h3 {
-        margin: 0 0 10px 0;
-      }
-      #label-controls label {
-        display: inline-block;
-        margin: 5px 10px 5px 0;
-        white-space: nowrap;
-      }
-      .hidden {
-        display: none;
-      }
-      @media print {
-        #label-controls {
-          display: none;
-        }
-        .hidden {
-          display: none;
-        }
-      }
-           .resume-wrapper {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    /* Update body styles */
-    @media screen {
-      body {
-        background-color: #e3e3e3;
-        padding: 20px;
-        display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
-        align-items: center;
-        min-height: 100vh;
-      }
-    }
-    /* Update filter controls positioning */
+
+		/* Profile Image Styles */
+		.profile-img-container {
+			display: flex;
+			justify-content: center;
+			margin-bottom: 20px;
+		}
+
+		.profile-img {
+			width: 220px;
+			height: 220px;
+			border-radius: 50%;
+			object-fit: cover;
+			border: 3px solid #083c66;
+		}
+
+		/* Adjust header spacing */
+		.header {
+			margin-bottom: 15px;
+			text-align: center; /* Keep name centered */
+		}
+
+		/* Add nested project styling */
+  .work-project {
+    position: relative;
+    padding-left: 15px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  .work-project::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #083c66;
+    font-weight: bold;
+  }
+  .project-title {
+    font-weight: bold;
+    margin-bottom: 2px;
+    color: #444;
+    font-size: 13px;
+  }
+  .project-description {
+    margin-bottom: 3px;
+}
+.section.soft-skills ul,
+.section.language ul {
+    list-style: none;
+    padding-left: 15px;
+    margin-bottom: 15px;
+}
+
+.section.soft-skills li,
+.section.language li {
+    position: relative;
+    padding: 3px 0;
+    color: #444;
+    font-size: 12px;
+}
+
+.section.soft-skills li::before,
+.section.language li::before {
+    content: "•";
+    position: absolute;
+    left: -15px;
+    color: #083c66;
+    font-weight: bold;
+}
+
+.section.soft-skills ul,
+.section.language ul {
+    margin-top: 5px;
+}
+
+/* Optional: Adjust list margins for better spacing */
+.section.education .section-content {
+    margin-bottom: 20px; /* Slightly reduced from 25px */
+}
+
+		/* --- Tech Filter System CSS --- */
+
+/* Style for the filter controls container */
+#tech-filter-controls {
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+#tech-filter-controls h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+/* Style for each individual filter checkbox and its label */
+#tech-filter-controls label {
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+  #label-controls {
+    background-color: #f8f8f8;
+    padding: 15px;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1000;
+  }
+  #label-controls h3 {
+    margin: 0 0 10px 0;
+  }
+  #label-controls label {
+    display: inline-block;
+    margin: 5px 10px 5px 0;
+    white-space: nowrap;
+  }
+  .hidden {
+    display: none;
+  }
+  @media print {
     #label-controls {
-      width: 100%;
-      max-width: 210mm;
-      margin: 0 auto 20px auto;
-      background-color: #f8f8f8;
-      padding: 15px;
-      border-bottom: 2px solid #ddd;
-      position: relative;
-      z-index: 1000;
-      box-sizing: border-box;
+      display: none;
     }
+    .hidden {
+      display: none;
+    }
+  }
+
+		.resume-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Update body styles */
+@media screen {
+  body {
+    background-color: #e3e3e3;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 100vh;
+  }
+}
+
+/* Update filter controls positioning */
+#label-controls {
+  width: 100%;
+  max-width: 210mm;
+  margin: 0 auto 20px auto;
+  background-color: #f8f8f8;
+  padding: 15px;
+  border-bottom: 2px solid #ddd;
+  position: relative;
+  z-index: 1000;
+  box-sizing: border-box;
     </style>
 </head>
 <body>
-    <!-- Print button for screen view -->
-    <button class="print-button" onclick="window.print()">Print Resume</button>
-    <!-- The filter controls will be generated here by JavaScript -->
-  <div class="resume-wrapper"> <!-- New wrapper div -->
+<!-- Print button for screen view -->
+<button class="print-button" onclick="window.print()">Print Resume</button>
+<!-- The filter controls will be generated here by JavaScript -->
+<div class="resume-wrapper"> <!-- New wrapper div -->
     <div id="label-controls"></div> <!-- Will be populated by JS -->
     <!-- A4 Resume Container -->
     <div class="resume-container">
-        <img id="logo" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDgzYzY2IiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMzQgNDBsMTUuMiAxMi44TDcwIDQwbDEyIDE2SDcwTDUwIDQ4IDMwIDU2SDE4eiIgZmlsbD0iI2UxYjEyYyIvPjwvc3ZnPg==" alt="Logo">
+        <img id="logo"
+             src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDgzYzY2IiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMzQgNDBsMTUuMiAxMi44TDcwIDQwbDEyIDE2SDcwTDUwIDQ4IDMwIDU2SDE4eiIgZmlsbD0iI2UxYjEyYyIvPjwvc3ZnPg=="
+             alt="Logo">
+
         <div class="resume-content">
             <!-- Left Column -->
-            <left-column>
-             <div class="profile-img-container">
-                <img src="./mugshot.jpg" alt="Profile Picture" class="profile-img">
-             </div>
+            <div class="left-column">
+
+                <div class="profile-img-container">
+                    <img src="./mugshot.jpg" alt="Profile Picture" class="profile-img">
+                </div>
                 <div class="header">
                     <h1 class="name">Gerrit Geeraerts</h1>
                     <!--<div class="job-title">Senior Web Developer</div>-->
                 </div>
+
                 <div class="section contact">
-                     <!--<h2 class="section-title">CONTACT</h2>-->
+                    <!--<h2 class="section-title">CONTACT</h2>-->
                     <ul class="contact-info">
                         <li><i></i>✉️ ggeeraer@gmail.com</li>
                         <li><i></i>📱 +32 (496) 87 53 85</li>
                         <li><i></i>📍 Haaltert, BE</li>
                     </ul>
                 </div>
+
                 <div class="section soft-skills">
                     <h2 class="section-title">SOFT SKILLS</h2>
-                <ul>
-                   <li>Curiosity</li>
-                   <li>Innovative & Creative</li>
-                   <li>Communication</li>
-                   <li>Problem solving</li>
-                   <li>Team Player</li>
-                   <li>Analytical & Strategic</li>
-                   <li>Quick Learner</li>
-                   <li>Teaching</li>
-                   <li>INTP (Logician)</li>
-                </ul>
+                    <ul>
+                        <li>Curiosity</li>
+                        <li>Innovative & Creative</li>
+                        <li>Communication</li>
+                        <li>Problem solving</li>
+                        <li>Analytical & Strategic</li>
+                        <li>Quick Learner</li>
+                        <li>Teaching</li>
+                    </ul>
                 </div>
                 <div class="section language">
                     <h2 class="section-title">Languages</h2>
-                <ul>
-                   <li>Dutch +++</li>
-                   <li>English +++</li>
-                   <li>French ++</li>
-                </ul>
+                    <ul>
+                        <li>Dutch +++</li>
+                        <li>English +++</li>
+                        <li>French ++</li>
+                    </ul>
                 </div>
+
                 <div class="section education">
                     <h2 class="section-title">EDUCATION</h2>
                     <div class="section-content">
@@ -463,207 +512,257 @@
                         </div>
                     </div>
                 </div>
-            </left-column>
-            <!-- Right Column -->
-            <right-column>
-                <div class="section work-experience">
-                <h2 class="section-title">PROFILE</h2>
-                <work-item>
-                <p class="work-description">
-                   I'm a curious and creative professional with a broad range of interests and a passion for technology. I enjoy exploring new technologies just as much as connecting with people, whether customers or colleagues, by exchanging ideas and learning together.</br></br>
-                   I naturally think outside the box and like to dig deep to understand the core of a problem. My strength lies in combining critical thinking with hands-on work, building flexible, modular solutions that can grow as needs change.</br></br>
-                   I work best in a hybrid setting: focused tasks at home, collaborative ones on-site. Above all, I’m driven by meaningful work where curiosity, creativity, research, and teamwork come together to make a real impact.
-                </p>
-                </work-item>
-                <h2 class="section-title">Tech Skills</h2>
-                <!-- Example of updated work item structure for Cronos -->
-                <work-item>
-                   <work-tags>
-                      <!-- Cloud Platforms -->
-                      <skill>AWS</skill>
-                      <skill>Azure</skill>
-                      <!-- DevOps & MLOps -->
-                      <skill>Airflow</skill>
-                      <skill>DevOps</skill>
-                      <skill>Docker</skill>
-                      <skill>CI/CD</skill>
-                      <skill>Kubernetes</skill>
-                      <skill>ML(Ops)</skill>
-                      <skill>MLflow</skill>
-                      <skill>Terraform</skill>
-                      <!-- Data Science & Machine Learning -->
-                      <skill>CatBoost</skill>
-                      <skill>ETL</skill>
-                      <skill>LLM (NLP)</skill>
-                      <skill>Matplotlib</skill>
-                      <skill>Numpy</skill>
-                      <skill>Pandas</skill>
-                      <skill>Scikit-Learn</skill>
-                      <skill>Spark</skill>
-                      <!-- AI & LLM Frameworks -->
-                      <skill>LangChain</skill>
-                      <skill>LangGraph</skill>
-                      <skill>LangSmith</skill>
-                      <skill>RAG</skill>
-                      <skill>Ragas</skill>
-                      <!-- Programming & Scripting -->
-                      <skill>Bash</skill>
-                      <skill>Powershell</skill>
-                      <skill>Python</skill>
-                      <skill>SQL</skill>
-                      <!-- Web Development & Automation -->
-                      <skill>HTML</skill>
-                      <skill>CSS</skill>
-                      <skill>Django</skill>
-                      <skill>FastAPI</skill>
-                      <skill>Scrapy</skill>
-                      <skill>Selenium</skill>
-                      <skill>Streamlit</skill>
-                      <!-- Databases -->
-                      <skill>Elasticsearch</skill>
-                      <skill>Neo4j</skill>
-                      <skill>SQL</skill>
-                      <!-- OS, Networking & Virtualization -->
-                      <skill>Active Directory</skill>
-                      <skill>Linux</skill>
-                      <skill>DHCP, DNS, Firewall, iOS</skill>
-                      <skill>Proxmox</skill>
-                      <skill>Windows Server</skill>
-                      <!-- Collaboration, Tools & Methodologies -->
-                      <skill>Agile</skill>
-                      <skill>Confluence</skill>
-                      <skill>GIT</skill>
-                      <skill>IoT</skill>
-                      <skill>Jira</skill>
-                      <skill>Power BI</skill>
-                      <skill>Teaching</skill>
-                   </work-tags>
-                </work-item>
-             <h2 class="section-title">WORK EXPERIENCE</h2>
-                <!-- Example of updated work item structure for Cronos -->
-                <work-item>
-                  <work-header>
-                   <work-title>Data Engineer</work-title>
-                   <work-company>Cronos (SUMSUM) & Becode</work-company>
-                   <work-period>03 - 12/2024</work-period>
-                  </work-header>
-                  <p class="work-description">
-                   A full-time 9-month AI training including a 3 month Internship and different projects with companies.
-                </p>
-               <work-project>
-                <project-title>Developed reporting tool</project-title>
-                <p class="project-description">
-                  Generate highly custom report with visuals about project statuses via collaborative LLM Agents
-                </p>
-               </work-project>
-               <work-project>
-                <project-title>Developed RAG Chat bot</project-title>
-                <p class="project-description">
-                  Developed AI-powered collaboration platform solution during 3-month internship
-                </p>
-               </work-project>
-             </work-item>
-             <work-item>
-                <work-header>
-                   <work-title>Developer / System Engineer</work-title>
-                   <work-company>VGC</work-company>
-                   <work-period>2019-2023</work-period>
-                </work-header>
-                <p class="work-description">
-                   Developed Scripts for installers, migrations, phishing mails, ...</br>
-                   Developed Tools for synchronizing accounts between different platforms, assigning
-                   devices, printer installer, ...</br>
-                   IT Infrastructure: Managing network, Firewall, Cloud migration, ...
-                </p>
-             </work-item>
-             <work-item>
-                <work-header>
-                   <work-title>Developer / System Engineer</work-title>
-                   <work-company>Metro Group</work-company>
-                   <work-period>2014 - 2018</work-period>
-                </work-header>
-                <p class="work-description">
-                   Developed Tools: Mailbox and Printer self service tool. Tape management tool.</br>
-                   Developed Scripts: Creating and managing accounts, mailboxes, servers, ...</br>
-                   IT Infrastructure: Managing network, Firewall, Servers, ...</br>
-                </p>
-             </work-item>
-             <work-item>
-                <work-header>
-                   <work-title>Sales Digital World</work-title>
-                   <work-company>Metro Group</work-company>
-                   <work-period>2011 - 2014</work-period>
-                </work-header>
-                <p class="work-description">
-                   Sales role focused on creating a great customer experience.
-                </p>
-             </work-item>
-                <work-item>
-                    <work-header>
-                        <work-title>Developer / System Engineer</work-title>
-                        <work-company>Universiteit Gent</work-company>
-                        <work-period>2009 - 2010</work-period>
-                    </work-header>
-                    <p class="work-description">
-                        Developed a workflow tool: Streamlined workflows via custom tool.</br>
-                        Developed new features for smart textiles website.</br>
-                        IT Infrastructure for textiles department I also maintained: networks, servers, ...
-                    </p>
-              </work-item>
-             <div class="section projects">
-                    <h2 class="section-title">PROJECTS & VOLUNTEERING</h2>
-                    <work-item>
-                        <work-header>
-                            <work-title>Volunteered at Viso Cor Mariae</work-title>
-                            <work-period>2024</work-period>
-                        </work-header>
-                        <p class="work-description">
-                            I helped this school in need, Analyze there IT infrastructure, create roadmap, start on implementing and find train and startup a permanent successor.
-                        </p>
-                    </work-item>
-                    <work-item>
-                        <work-header>
-                            <work-title>Home lab</work-title>
-                            <work-period></work-period>
-                        </work-header>
-                        <p class="work-description">
-                      I have a home-lab where I actively experiment and test out technologies as it is my main hobby I spend a lot of time here.</br>
-                   </p>
-                    </work-item>
             </div>
-        </right-column>
-    </div>    </div>
+
+            <!-- Right Column -->
+            <div class="right-column">
+                <div class="section work-experience">
+                    <h2 class="section-title">PROFILE</h2>
+                    <div class="work-item">
+                        <p class="work-description">
+                            I'm a curious and creative professional with a broad range of interests and a passion for
+                            technology. I enjoy exploring new technologies just as much as connecting with people,
+                            whether customers or colleagues, by exchanging ideas and learning together.</br></br>
+
+                            I naturally think outside the box and like to dig deep to understand the core of a problem.
+                            My strength lies in combining critical thinking with hands-on work, building flexible,
+                            modular solutions that can grow as needs change.
+                        </p>
+                        <h2 class="section-title">Tech Skills</h2>
+
+                        <!-- Example of updated work item structure for Cronos -->
+                        <div class="work-item">
+                            <div class="work-tags">
+                                <!-- Cloud Platforms -->
+                                <span class="label">Azure</span>
+                                <span class="label">AWS</span>
+
+                                <!-- DevOps & MLOps -->
+                                <span class="label">Airflow</span>
+                                <span class="label">DevOps</span>
+                                <span class="label">Docker</span>
+                                <span class="label">CI/CD</span>
+                                <span class="label">Kubernetes</span>
+                                <span class="label">ML(Ops)</span>
+                                <span class="label">MLflow</span>
+                                <span class="label">Terraform</span>
+
+                                <!-- Data Science & Machine Learning -->
+                                <span class="label">CatBoost</span>
+                                <span class="label">ETL</span>
+                                <span class="label">LLM (NLP)</span>
+                                <span class="label">Matplotlib</span>
+                                <span class="label">Seaborn</span>
+                                <span class="label">Numpy</span>
+                                <span class="label">Pandas</span>
+                                <span class="label">Scikit-Learn</span>
+                                <span class="label">Spark</span>
+
+                                <!-- AI & LLM Frameworks -->
+                                <span class="label">LangChain</span>
+                                <span class="label">LangGraph</span>
+                                <span class="label">LangSmith</span>
+                                <span class="label">RAG</span>
+
+                                <!-- Programming & Scripting -->
+                                <span class="label">Bash</span>
+                                <span class="label">Powershell</span>
+                                <span class="label">Python</span>
+                                <span class="label">SQL</span>
+
+                                <!-- Web Development & Automation -->
+                                <span class="label">Django</span>
+                                <span class="label">FastAPI</span>
+                                <span class="label">Scrapy</span>
+                                <span class="label">Selenium</span>
+                                <span class="label"><strong>Streamlit</strong></span>
+
+                                <!-- Databases -->
+                                <span class="label">Neo4j</span>
+                                <span class="label">SQL</span>
+
+                                <!-- OS, Networking & Virtualization -->
+                                <span class="label">Active Directory</span>
+                                <span class="label"><strong>Linux</strong></span>
+                                <span class="label">DHCP, DNS, Firewall, iOS</span>
+                                <span class="label"><strong>Proxmox (VM)</strong></span>
+                                <span class="label">Windows Server</span>
+
+                                <!-- Collaboration, Tools & Methodologies -->
+                                <span class="label">Agile</span>
+                                <span class="label">GIT</span>
+                            </div>
+                        </div>
+
+                        <h2 class="section-title">RELEVANT WORK EXPERIENCE</h2>
+
+                        <!-- Example of updated work item structure for Cronos -->
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">AI & Data Engineer</div>
+                                <div class="work-company">Cronos (SUMSUM) & Becode</div>
+                                <div class="work-period">03 - 12/2024</div>
+                            </div>
+                            <p class="work-description">
+                            <ul>
+                                <li>Tijdens mijn stage heb ik zelfstandig analyse verricht voor de ontwikkeling van twee
+                                    <strong>applicaties te ontworpen</strong> op <strong>Linux</strong> met <strong>python</strong>.
+                                    Hierbij heb ik <strong>DevOps</strong> tools zoals Docker en Git ingezet, en de
+                                    applicaties gehost in de AWS <strong>Cloud</strong>. Ik heb tevens bijgedragen aan
+                                    kostenoptimalisatie.
+                                </li>
+                                <li>Een presentatie gegeven over de verschillen tussen <strong>Virtual Machine</strong>,
+                                    <strong>Docker</strong> en <strong>Kubernetes</strong>.
+                                </li>
+                                <li>Machine learning modellen gecreëerd met behulp van Pandas, wat een basis legde voor
+                                    latere werkzaamheden met <strong>DataBricks</strong>.
+                                </li>
+                                <li>Interactieve dashboards gemaakt in Streamlit, als alternatief voor tools zoals
+                                    <strong>Tableau</strong>.
+                                </li>
+                                <li><strong>Documenteren</strong> van applicaties: Een voorbeeld hiervan is te vinden op
+                                    <a href="https://github.com/GerritGeeraerts/chat-with-tia" target="_blank"
+                                       rel="noopener noreferrer">github.com/GerritGeeraerts/chat-with-tia</a>.
+                                </li>
+                                <li>Azure Services opgezet met <strong>TerraForm</strong>.</li>
+                            </ul>
+                            </p>
+                        </div>
+
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">Cloud & Automation Engineer</div>
+                                <div class="work-company">VGC</div>
+                                <div class="work-period">2019-2023</div>
+                            </div>
+                            <p class="work-description">
+                            <ul>
+                                <li>Een <strong>applicatie ontworpen</strong> op <strong>Linux</strong> in <strong>Python</strong>,
+                                    gebruikmakend van <strong>GIT</strong> en <strong>Docker</strong>, om de
+                                    synchronisatie van accounts tussen diverse <strong>cloud</strong> platformen te
+                                    stroomlijnen. Dit project, uitgevoerd met een <strong>DevOps</strong>-mentaliteit,
+                                    inclusief Git en tests, vereenvoudigde tevens de workflow voor het installeren en
+                                    configureren van iPads.
+                                </li>
+                                <li>Een eigen bibliotheek <strong>ontworpen</strong> met een <strong>DevOps</strong>-mindset,
+                                    zodat collega's met minder technische achtergrond sneller installers kunnen creëren
+                                    en eindgebruikers een self-servicesysteem tot hun beschikking hebben.
+                                </li>
+                                <li><strong>Leiding gegeven</strong> aan de begeleiding van de <strong>volledige
+                                    migratie</strong> van hybride on-premise infrastructuren naar een robuuste <strong>Azure
+                                    cloud</strong> omgeving voor vier scholen. Deze migratie omvatte het succesvol
+                                    verplaatsen van diverse <strong>VM's</strong> en services die voorheen on-premise
+                                    draaiden. Gelijktijdig is de infrastructuur <strong>herontworpen</strong> om deze te
+                                    vereenvoudigen, de beveiliging te verhogen en het onderhoudsgemak en de
+                                    gebruiksvriendelijkheid aanzienlijk te verbeteren.
+                                </li>
+                            </ul>
+                            </p>
+                        </div>
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">IT Systems Engineer</div>
+                                <div class="work-company">Metro Group</div>
+                                <div class="work-period">2014 - 2018</div>
+                            </div>
+                            <p class="work-description">
+                            <ul>
+                                <li>Beheer en implementatie van netwerk <strong>infrastructuur</strong> en <strong>virtuele
+                                    machines</strong>, met een duidelijke focus op <strong>automation scripts</strong>.
+                                </li>
+                                <li>Werk volgens de <strong>Agile</strong> methodologie, waarbij ik verantwoordelijk was
+                                    voor <strong>documentatie</strong>, automatisering en het <strong>ontwerpen</strong>
+                                    en uitrollen van self-service <strong>applicaties</strong>.
+                                </li>
+                            </ul>
+                            </p>
+                        </div>
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">Sales Digital World</div>
+                                <div class="work-company">Metro Group</div>
+                                <div class="work-period">2011 - 2014</div>
+                            </div>
+                            <p class="work-description">
+                            </p>
+                        </div>
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">Textile Department IT Lead</div>
+                                <div class="work-company">Universiteit Gent</div>
+                                <div class="work-period">2009 - 2010</div>
+                            </div>
+                            <p class="work-description">
+                            </p>
+                        </div>
+                        <br><br><br>
+                        <div class="section projects">
+                            <h2 class="section-title">PROJECTS & VOLUNTEERING</h2>
+                            <div class="work-item">
+                                <div class="work-header">
+                                    <div class="work-title">Volunteered at Viso Cor Mariae</div>
+                                    <div class="work-period">2024</div>
+                                </div>
+                                <p class="work-description">
+                                    Analyze there IT infrastructure, create roadmap, start
+                                    on implementing and find train and startup a permanent successor.
+                                </p>
+                            </div>
+                            <div class="work-item">
+                                <div class="work-header">
+                                    <div class="work-title">Home lab</div>
+                                    <div class="work-period"></div>
+                                </div>
+                                <p class="work-description">
+                                    Veel van mijn vrije tijd investeer ik in mijn Home Lab, waar ik actief bezig ben met
+                                    het schrijven van <strong>Linux scripts</strong>, het toepassen van
+                                    <strong>DevOps</strong>-praktijken om (data) <strong>applicaties</strong> te
+                                    <strong>ontwerpen</strong> in <strong>Python</strong> en deze te hosten op mijn
+                                    <strong>virtuele machines</strong> met Docker. Ik creëer en orchestreer
+                                    pijplijnen met een <strong>Airflow</strong> server en gebruik Pandas (<strong>Databricks</strong>)
+                                    voor het trainen van ML-modellen.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-      </div>
 <script>
-document.addEventListener('DOMContentLoaded', () => {
-  const labelElements = [...document.querySelectorAll('work-tags skill')];
-  const counts = new Map();
-  labelElements.forEach(el => {
-    const text = el.textContent.trim();
-    counts.set(text, (counts.get(text) || 0) + 1);
-  });
-  const unique = [...counts.keys()].sort((a, b) => a.localeCompare(b));
-  const controls = document.createElement('div');
-  controls.id = 'label-controls';
-  let html = '<h3>Filter Tech Labels</h3>';
-  unique.forEach(label => {
-    html += `<label><input type="checkbox" data-label="${label}" checked> ${label} (${counts.get(label)})</label> `;
-  });
-  controls.innerHTML = html;
-  document.body.prepend(controls);
-  controls.addEventListener('change', e => {
-    if (e.target.type === 'checkbox') {
-      const text = e.target.dataset.label;
-      const action = e.target.checked ? 'remove' : 'add';
+    document.addEventListener('DOMContentLoaded', () => {
+      const labelElements = [...document.querySelectorAll('.work-tags .label')];
+
+      const counts = new Map();
       labelElements.forEach(el => {
-        if (el.textContent.trim() === text) {
-          el.classList[action]('hidden');
+        const text = el.textContent.trim();
+        counts.set(text, (counts.get(text) || 0) + 1);
+      });
+
+      const unique = [...counts.keys()].sort((a, b) => a.localeCompare(b));
+
+      const controls = document.createElement('div');
+      controls.id = 'label-controls';
+      let html = '<h3>Filter Tech Labels</h3>';
+      unique.forEach(label => {
+        html += `<label><input type="checkbox" data-label="${label}" checked> ${label} (${counts.get(label)})</label> `;
+      });
+      controls.innerHTML = html;
+      document.body.prepend(controls);
+
+      controls.addEventListener('change', e => {
+        if (e.target.type === 'checkbox') {
+          const text = e.target.dataset.label;
+          const action = e.target.checked ? 'remove' : 'add';
+          labelElements.forEach(el => {
+            if (el.textContent.trim() === text) {
+              el.classList[action]('hidden');
+            }
+          });
         }
       });
-    }
-  });
-});
+    });
 </script>
 </body>
 </html>
