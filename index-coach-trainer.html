@@ -1,0 +1,731 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Resume - Print Optimized</title>
+    <style>
+        /* BASE STYLES */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+			font-size: 12px;
+        }
+
+        body {
+            background-color: #f5f5f5;
+            background-color: #f5f5f5;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #333;
+            line-height: 1.4;
+        }
+
+        /* PRINT STYLES - HIDDEN ON SCREEN */
+        @media print {
+            @page {
+                size: A4;
+                margin: 0;
+            }
+
+            body {
+                width: 210mm;
+                height: 297mm;
+                margin: 0;
+                padding: 15mm;
+                background: white;
+                color: black;
+            }
+
+            body * {
+                visibility: hidden;
+            }
+
+            .resume-container,
+            .resume-container * {
+                visibility: visible;
+            }
+
+            .resume-container {
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+            }
+
+            /* Avoid page breaks inside content blocks */
+            .section:not(:last-child) {
+                break-after: avoid;
+            }
+
+            .work-item {
+                break-inside: avoid;
+            }
+
+            /* Adjust color scheme for print */
+            .resume-content {
+                background-color: transparent;
+            }
+
+            .label {
+                background-color: #fff5d9 !important;
+                color: #333 !important;
+                border: 1px solid #ddd;
+            }
+            .page-break {
+                display: block; /* Make it a block element to be processed */
+                page-break-before: always; /* Legacy property for older browsers */
+                break-before: page;      /* Modern, standard property */
+                height: 0;               /* Ensure it takes up no vertical space */
+                clear: both;             /* Good practice for break elements */
+            }
+        }
+
+        /* SCREEN STYLES */
+        @media screen {
+            body {
+                background-color: #e3e3e3;
+                padding: 20px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                min-height: 100vh;
+            }
+
+            .resume-container {
+                width: 210mm;
+                min-height: 297mm;
+                background: white;
+                box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
+                position: relative;
+                margin: 20px auto;
+            }
+
+            /* Print navigation */
+            .print-button {
+                position: fixed;
+                bottom: 20px;
+                right: 20px;
+                padding: 12px 25px;
+                background: #0b5394;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 16px;
+                transition: background 0.3s;
+                z-index: 10;
+            }
+
+            .print-button:hover {
+                background: #083c66;
+                transform: translateY(-2px);
+                box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            }
+        }
+
+        /* RESUME STYLES */
+        .resume-content {
+            display: grid;
+            grid-template-columns: 30% 70%;
+            height: 100%;
+            position: relative;
+            background-color: #fff;
+            padding: 28px 20px;
+        }
+
+        .left-column {
+            padding-right: 15px;
+            border-right: 1px solid #eaeaea;
+        }
+
+        .right-column {
+            padding-left: 15px;
+        }
+
+        .section-title {
+            font-size: 14px;
+            padding-bottom: 6px;
+			padding-top: 6px;
+            margin-bottom: 6px;
+            border-bottom: 2px solid #083c66;
+            color: #083c66;
+            position: relative;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            width: 30px;
+            height: 2px;
+            background: #e1b12c;
+            bottom: -2px;
+            left: 0;
+        }
+
+        .header {
+            padding-bottom: 15px;
+            margin-bottom: 25px;
+            border-bottom: 2px solid #f0f0f0;
+        }
+
+        .name {
+            font-size: 38px;
+            color: #083c66;
+            margin-bottom: 5px;
+        }
+
+        .job-title {
+            font-size: 14px;
+            color: #555;
+            margin-bottom: 10px;
+        }
+
+        .contact-info {
+            list-style: none;
+            margin-top: 8px;
+        }
+
+		.contact-info {
+			text-align: left; /* Restore original alignment if needed */
+			padding-left: 10px;
+		}
+
+        .contact-info li {
+            padding: 5px 0;
+            color: #555;
+        }
+
+        .contact-info i {
+            width: 20px;
+            margin-right: 8px;
+            color: #083c66;
+        }
+
+
+        .work-item {
+            margin-bottom: 10px;
+            padding-bottom: 3px;
+            border-bottom: 1px dashed #eaeaea;
+        }
+
+        .work-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 2px;
+            font-size: 14px;
+        }
+
+        .work-title {
+            font-weight: bold;
+            color: #083c66;
+        }
+
+        .work-company {
+            font-style: italic;
+            color: #555;
+            flex-grow: 1;
+            text-align: center;
+            padding: 0 10px;
+        }
+
+        .work-period {
+            color: #777;
+        }
+
+        .work-description {
+            margin-top: 3px;
+            margin-bottom: 5px;
+            color: #444;
+            font-size: 12px;
+        }
+
+        .work-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 4px;
+        }
+
+        .label {
+            background-color: #fff5d9;
+            color: #333;
+            padding: 2px 5px;
+            border-radius: 10px;
+            font-size: 13px;
+            border: 1px solid rgba(0,0,0,0.1);
+        }
+
+        .education-item {
+            margin-bottom: 15px;
+        }
+
+        .edu-degree {
+            font-weight: bold;
+        }
+
+        .education-item div {
+            padding: 2px 0;
+        }
+
+        .section-content {
+            margin-bottom: 25px;
+        }
+
+        #logo {
+            position: absolute;
+            top: 20px;
+            right: 20px;
+            height: 60px;
+            opacity: 0.7;
+        }
+
+		/* Profile Image Styles */
+		.profile-img-container {
+			display: flex;
+			justify-content: center;
+			margin-bottom: 20px;
+		}
+
+		.profile-img {
+			width: 220px;
+			height: 220px;
+			border-radius: 50%;
+			object-fit: cover;
+			border: 3px solid #083c66;
+		}
+
+		/* Adjust header spacing */
+		.header {
+			margin-bottom: 15px;
+			text-align: center; /* Keep name centered */
+		}
+
+		/* Add nested project styling */
+  .work-project {
+    position: relative;
+    padding-left: 15px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  .work-project::before {
+    content: "•";
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #083c66;
+    font-weight: bold;
+  }
+  .project-title {
+    font-weight: bold;
+    margin-bottom: 2px;
+    color: #444;
+    font-size: 13px;
+  }
+  .project-description {
+    margin-bottom: 3px;
+}
+.section.soft-skills ul,
+.section.language ul {
+    list-style: none;
+    padding-left: 15px;
+    margin-bottom: 15px;
+}
+
+.section.soft-skills li,
+.section.language li {
+    position: relative;
+    padding: 3px 0;
+    color: #444;
+    font-size: 12px;
+}
+
+.section.soft-skills li::before,
+.section.language li::before {
+    content: "•";
+    position: absolute;
+    left: -15px;
+    color: #083c66;
+    font-weight: bold;
+}
+
+.section.soft-skills ul,
+.section.language ul {
+    margin-top: 5px;
+}
+
+/* Optional: Adjust list margins for better spacing */
+.section.education .section-content {
+    margin-bottom: 20px; /* Slightly reduced from 25px */
+}
+
+		/* --- Tech Filter System CSS --- */
+
+/* Style for the filter controls container */
+#tech-filter-controls {
+    padding: 15px;
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+#tech-filter-controls h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+/* Style for each individual filter checkbox and its label */
+#tech-filter-controls label {
+    display: inline-block;
+    margin-right: 15px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    font-size: 0.9em;
+}
+  #label-controls {
+    background-color: #f8f8f8;
+    padding: 15px;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 20px;
+    position: relative;
+    z-index: 1000;
+  }
+  #label-controls h3 {
+    margin: 0 0 10px 0;
+  }
+  #label-controls label {
+    display: inline-block;
+    margin: 5px 10px 5px 0;
+    white-space: nowrap;
+  }
+  .hidden {
+    display: none;
+  }
+  @media print {
+    #label-controls {
+      display: none;
+    }
+    .hidden {
+      display: none;
+    }
+  }
+
+		.resume-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Update body styles */
+@media screen {
+  body {
+    background-color: #e3e3e3;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 100vh;
+  }
+}
+
+/* Update filter controls positioning */
+#label-controls {
+  width: 100%;
+  max-width: 210mm;
+  margin: 0 auto 20px auto;
+  background-color: #f8f8f8;
+  padding: 15px;
+  border-bottom: 2px solid #ddd;
+  position: relative;
+  z-index: 1000;
+  box-sizing: border-box;
+    </style>
+</head>
+<body>
+<!-- Print button for screen view -->
+<button class="print-button" onclick="window.print()">Print Resume</button>
+<!-- The filter controls will be generated here by JavaScript -->
+<div class="resume-wrapper"> <!-- New wrapper div -->
+    <div id="label-controls"></div> <!-- Will be populated by JS -->
+    <!-- A4 Resume Container -->
+    <div class="resume-container">
+        <img id="logo"
+             src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSI0NCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDgzYzY2IiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMzQgNDBsMTUuMiAxMi44TDcwIDQwbDEyIDE2SDcwTDUwIDQ4IDMwIDU2SDE4eiIgZmlsbD0iI2UxYjEyYyIvPjwvc3ZnPg=="
+             alt="Logo">
+        <div class="resume-content">
+            <!-- Left Column -->
+            <div class="left-column">
+                <div class="profile-img-container">
+                    <img src="./mugshot.jpg" alt="Profile Picture" class="profile-img">
+                </div>
+                <div class="header">
+                    <h1 class="name">Gerrit Geeraerts</h1>
+                    <!--<div class="job-title">Senior Web Developer</div>-->
+                </div>
+
+                <div class="section contact">
+                    <!--<h2 class="section-title">CONTACT</h2>-->
+                    <ul class="contact-info">
+                        <li><i></i>✉️ ggeeraer@gmail.com</li>
+                        <li><i></i>📱 +32 (496) 87 53 85</li>
+                        <li><i></i>📍 Haaltert, BE</li>
+                    </ul>
+                </div>
+
+                <div class="section soft-skills">
+                    <h2 class="section-title">SOFT SKILLS</h2>
+                    <ul>
+                        <li>Curiosity</li>
+                        <li>Innovative & Creative</li>
+                        <li>Communication</li>
+                        <li>Problem solving</li>
+                        <li>Analytical & Strategic</li>
+                        <li>Quick Learner</li>
+                        <li>Teaching</li>
+                    </ul>
+                </div>
+                <div class="section language">
+                    <h2 class="section-title">Languages</h2>
+                    <ul>
+                        <li>Dutch +++</li>
+                        <li>English +++</li>
+                        <li>French ++</li>
+                    </ul>
+                </div>
+
+                <div class="section education">
+                    <h2 class="section-title">EDUCATION</h2>
+                    <div class="section-content">
+                        <div class="education-item">
+                            <div class="edu-degree">Professional Bachelor</div>
+                            <div>KaHo Sint-Lieven, Ghent</div>
+                            <div>2005 - 2008</div>
+                        </div>
+                        <div class="education-item">
+                            <div class="edu-degree">Industrial Sciences</div>
+                            <div>Don Bosco, Halle</div>
+                            <div>1999 - 2005</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column -->
+            <div class="right-column">
+                <div class="section work-experience">
+                        <h2 class="section-title">Tech Skills</h2>
+
+                        <!-- Example of updated work item structure for Cronos -->
+                        <div class="work-item">
+                            <div class="work-tags">
+                                <!-- Cloud Platforms -->
+                                <span class="label">Azure</span>
+                                <span class="label">AWS</span>
+
+                                <!-- DevOps & MLOps -->
+                                <span class="label">Airflow</span>
+                                <span class="label"><strong>DevOps</strong></span>
+                                <span class="label"><strong>Docker</strong></span>
+                                <span class="label"><strong>CI/CD</strong></span>
+                                <span class="label">Kubernetes</span>
+                                <span class="label">ML(Ops)</span>
+                                <span class="label">MLflow</span>
+                                <span class="label">Terraform</span>
+
+                                <!-- Data Science & Machine Learning -->
+                                <span class="label">CatBoost</span>
+                                <span class="label">ETL</span>
+                                <span class="label"><strong>LLM (NLP)</strong></span>
+                                <span class="label">Matplotlib</span>
+                                <span class="label">Seaborn</span>
+                                <span class="label">Numpy</span>
+                                <span class="label">Pandas</span>
+                                <span class="label">Scikit-Learn</span>
+                                <span class="label">Spark</span>
+
+                                <!-- AI & LLM Frameworks -->
+                                <span class="label">LangChain</span>
+                                <span class="label">LangGraph</span>
+                                <span class="label">LangSmith</span>
+                                <span class="label">RAG</span>
+
+                                <!-- Programming & Scripting -->
+                                <span class="label">Bash</span>
+                                <span class="label"><strong>Powershell</strong></span>
+                                <span class="label"><strong>Python</strong></span>
+                                <span class="label">SQL</span>
+
+                                <!-- Web Development & Automation -->
+                                <span class="label">Django</span>
+                                <span class="label">FastAPI</span>
+                                <span class="label">Scrapy</span>
+                                <span class="label">Selenium</span>
+                                <span class="label">Streamlit</span>
+
+                                <!-- Databases -->
+                                <span class="label">Neo4j</span>
+                                <span class="label">SQL</span>
+
+                                <!-- OS, Networking & Virtualization -->
+                                <span class="label">Active Directory</span>
+                                <span class="label"><strong>Linux</strong></span>
+                                <span class="label">DHCP, DNS, Firewall, iOS</span>
+                                <span class="label">Proxmox (VM)</span>
+                                <span class="label">Windows Server</span>
+
+                                <!-- Collaboration, Tools & Methodologies -->
+                                <span class="label"><strong>Agile Scrum</strong></span>
+                                <span class="label"><strong>GIT</strong></span>
+                            </div>
+                        </div>
+
+                        <h2 class="section-title">RELEVANT WORK EXPERIENCE</h2>
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">AI Trainer / Coach</div>
+                                <div class="work-company">Freelance</div>
+                                <div class="work-period">2025-now</div>
+                            </div>
+                            <p class="work-description">
+                                <ul>
+                                    <li><strong>Trainingen</strong> via becode aan bedrijven geven over het gebruik van <strong>AI-tools</strong> om de efficientie te verhogen van het personeel.</li>
+                                    <li><strong>Motiveren, coachen en trainen</strong> van een Master student die herhaaldelijk niet slaagde voor haar examen programmeren, resulterend in een succesvol behaald examen.</li>
+                                </ul>
+                            </p>
+                        </div>
+                        <!-- Example of updated work item structure for Cronos -->
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">AI & Data Engineer</div>
+                                <div class="work-company">SUMSUM & Becode</div>
+                                <div class="work-period">2024</div>
+                            </div>
+                            <p class="work-description">
+                                Voltijdse AI-opleiding gevolgd bij Becode, inclusief een stage bij SUMSUM.
+                                <ul>
+                                    <li>Developped custom <strong>AI tools</strong> voor SUMSUM waaronder een chat bot gebasseerd op <strong>AI-agenten</strong> die projectmanagers assisteerd met de status van projecten</li>
+                                </ul>
+                            </p>
+                        </div>
+
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">Cloud & Automation Engineer</div>
+                                <div class="work-company">VGC</div>
+                                <div class="work-period">2019-2023</div>
+                            </div>
+                            <p class="work-description">
+                                <ul>
+                                    <li><strong>Leiden</strong> door te <strong>inspireren</strong> met <strong>enthousiasme</strong>, duidelijke roadmaps opstellen en een toekomstvisie te presenteren die motiveert om eraan te werken.</li>
+                                    <li><strong>Coachen</strong> en Trainen van bestaande en nieuwe <strong>IT-medewerkers</strong>.</li>
+                                    <li>Leiden van de transistie van repetitief klikwerk naar een "<strong>automatiseer-eerst</strong> mentaliteit die de velocity verhoogt.</li>
+                                    <li><strong>Technisch leiden</strong> alsook <strong>communicatie en change management</strong> voor de shift van on-premise systemen naar een cloud- en iPad-omgeving met self service tools en improved security. Dankzij een mix van <strong>inspirerende gesprekken</strong>, <strong>trainingen</strong> en 1-op-1 <strong>coaching</strong> heb ik een <strong>100%</strong> succesvolle onboarding van alle gebruikers bereikt in 4 scholen.</li>
+                                    <li><strong>Developen</strong> in Powershell en Python van self service software, <strong>automation</strong> scripts en een centrale it hub voor het synchroniseren, assisteren van gebruikers accounts en devices. Hierbij de IT-collega's betrekken en mee <strong>opleiden</strong> en <strong>coachen</strong> naar een modernere en effiecientere manier van werken. Met de komst moderne <strong>AI tools</strong> zoals GPT 3 en <strong>Github Copilot</strong> deze inschakelen om onze velocity te verhogen.</li>
+                                </ul>
+                            </p>
+                        </div>
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">IT Systems Engineer</div>
+                                <div class="work-company">Metro Group</div>
+                                <div class="work-period">2014 - 2018</div>
+                            </div>
+                            <p class="work-description">
+                                <ul>
+                                    <li>In een <strong>Agile Scrum</strong> team scripts ontwikkelen voor het <strong>automatiseren</strong> van gebruikers- en documentatiecreatie, en om handige <strong>software</strong> voor IT- en eindgebruikers te bouwen.</li>
+                                    <li><strong>Change management</strong> naar eindgebruikers voor 4 winkels. <strong>Coachen</strong> en <strong>trainen</strong> van kerngebruikers om de eerste lijn over te nemen alsook eindgebruikers om zelfredzamer te worden.</li>
+                                </ul>
+                            </p>
+                        </div>
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">IT Trainer</div>
+                                <div class="work-company">GLTT</div>
+                                <div class="work-period">2014</div>
+                            </div>
+                            <p class="work-description">
+                                IT skills aanleren aan volwassenen.
+                            </p>
+                        </div>
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">Sales Digital World</div>
+                                <div class="work-company">Metro Group</div>
+                                <div class="work-period">2011 - 2014</div>
+                            </div>
+                            <p class="work-description">
+                            </p>
+                        </div>
+                        <div class="work-item">
+                            <div class="work-header">
+                                <div class="work-title">Textile Department IT Lead</div>
+                                <div class="work-company">Universiteit Gent</div>
+                                <div class="work-period">2009 - 2010</div>
+                            </div>
+                            <p class="work-description">
+                            </p>
+                        </div>
+                        <div class="section projects">
+                            <h2 class="section-title">PROJECTS & VOLUNTEERING</h2>
+                            <div class="work-item">
+                                <div class="work-header">
+                                    <div class="work-title">Volunteered at Viso Cor Mariae</div>
+                                    <div class="work-period">2024</div>
+                                </div>
+                                <p class="work-description">
+                                </p>
+                            </div>
+                            <div class="work-item">
+                                <div class="work-header">
+                                    <div class="work-title">Home lab</div>
+                                    <div class="work-period"></div>
+                                </div>
+                                <p class="work-description">
+                                    In mij homelab ben ik vooral bezig met <strong>infrastructuur</strong>, <strong>development</strong> van software en tools in python met een <strong>DevOps</strong> mindset, het ontwikkelen van <strong>AI-Agenten</strong> en het gebruiken en uittesten van verschillende <strong>AI-tools</strong> zoals <strong>Github Copilot</strong>, Cursor, ...
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const labelElements = [...document.querySelectorAll('.work-tags .label')];
+
+      const counts = new Map();
+      labelElements.forEach(el => {
+        const text = el.textContent.trim();
+        counts.set(text, (counts.get(text) || 0) + 1);
+      });
+
+      const unique = [...counts.keys()].sort((a, b) => a.localeCompare(b));
+
+      const controls = document.createElement('div');
+      controls.id = 'label-controls';
+      let html = '<h3>Filter Tech Labels</h3>';
+      unique.forEach(label => {
+        html += `<label><input type="checkbox" data-label="${label}" checked> ${label} (${counts.get(label)})</label> `;
+      });
+      controls.innerHTML = html;
+      document.body.prepend(controls);
+
+      controls.addEventListener('change', e => {
+        if (e.target.type === 'checkbox') {
+          const text = e.target.dataset.label;
+          const action = e.target.checked ? 'remove' : 'add';
+          labelElements.forEach(el => {
+            if (el.textContent.trim() === text) {
+              el.classList[action]('hidden');
+            }
+          });
+        }
+      });
+    });
+</script>
+</body>
+</html>
